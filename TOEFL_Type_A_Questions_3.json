@@ -1,0 +1,2907 @@
+{
+  "source_file": "TOEFL_Type_A__Questions_3.md",
+  "question_set": "TOEFL Type A - Set 3",
+  "total": 100,
+  "questions": [
+    {
+      "id": "A0166",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Verb Problems",
+      "question": "John Butterfield __________ the Southern Overland Mail Company with two stagecoaches in 1858.",
+      "options": [
+        {
+          "label": "A",
+          "text": "he set up"
+        },
+        {
+          "label": "B",
+          "text": "setting up"
+        },
+        {
+          "label": "C",
+          "text": "set up"
+        },
+        {
+          "label": "D",
+          "text": "the setup"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "set up",
+      "explanation": "Esta frase contiene un sujeto, John Butterfield, pero le falta un verbo. La opción (C) es la respuesta correcta porque contiene el verbo «set up». La opción (A) contiene un sujeto de más, la opción (B) contiene un participio presente y la opción (D) contiene un sustantivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0167",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Independent Clauses",
+      "question": "The ___________ during an earthquake are caused by seismic waves.",
+      "options": [
+        {
+          "label": "A",
+          "text": "actually vibrate"
+        },
+        {
+          "label": "B",
+          "text": "actual vibrations"
+        },
+        {
+          "label": "C",
+          "text": "vibrations happen"
+        },
+        {
+          "label": "D",
+          "text": "from the actual vibrations"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "actual vibrations",
+      "explanation": "Esta frase contiene el verbo «are», pero necesita un sujeto; «terremoto» es el complemento de la preposición «durante» y no es el sujeto. La opción (B) es la respuesta correcta porque contiene el sujeto «vibraciones». La opción (A) contiene un verbo, la opción (C) contiene un verbo de más y la opción (D) contiene una locución preposicional, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0168",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Independent Clauses",
+      "question": "Red Ribbon Week, a national campaign to keep young people from using drugs, __________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "annually in October"
+        },
+        {
+          "label": "B",
+          "text": "annually in October each year"
+        },
+        {
+          "label": "C",
+          "text": "takes place annually in October"
+        },
+        {
+          "label": "D",
+          "text": "taking place annually in October"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "takes place annually in October",
+      "explanation": "Esta frase contiene un sujeto («Red Ribbon Week»), pero le falta un verbo. La opción (C) es la respuesta correcta porque contiene el verbo «takes». A las opciones A y B les falta un verbo, y la opción (D) contiene un participio presente, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0169",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Parallel Structures",
+      "question": "In a triathalon, the __________, bike, and run.",
+      "options": [
+        {
+          "label": "A",
+          "text": "athlete swims"
+        },
+        {
+          "label": "B",
+          "text": "athletes swim"
+        },
+        {
+          "label": "C",
+          "text": "swim athletically"
+        },
+        {
+          "label": "D",
+          "text": "the swimming athlete"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "athletes swim",
+      "explanation": "Esta frase contiene una locución preposicional («En un triatlón»), pero necesita un sujeto y un verbo en plural. La opción (B) es la respuesta correcta porque contiene el sujeto «atletas» y el verbo «nadan» en plural. La opción (A) contiene un sujeto en singular y un verbo en singular; la opción (C) contiene un verbo en singular; y la opción (D) contiene un sujeto en singular y su adjetivo, pero le falta un verbo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0170",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Verb Problems",
+      "question": "__________ alcoholism are the slow destruction of the liver and possible death.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dangerously,"
+        },
+        {
+          "label": "B",
+          "text": "The eventual effect of"
+        },
+        {
+          "label": "C",
+          "text": "The long-term effects of"
+        },
+        {
+          "label": "D",
+          "text": "Chronic and eventual"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "The long-term effects of",
+      "explanation": "Esta frase contiene el verbo «are», pero necesita un sujeto en plural y una preposición para el complemento «alcoholismo». La opción (C) es la respuesta correcta porque contiene el sujeto «efectos» y la preposición «de». La opción (A) contiene un adverbio, la opción (B) contiene un sujeto en singular y la opción (D) contiene dos adjetivos, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0171",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Appositives",
+      "question": "__________, one of the most famous presidents, was assassinated by John Wilkes Booth.",
+      "options": [
+        {
+          "label": "A",
+          "text": "For Abraham Lincoln"
+        },
+        {
+          "label": "B",
+          "text": "Abraham Lincoln was"
+        },
+        {
+          "label": "C",
+          "text": "Of all the presidents"
+        },
+        {
+          "label": "D",
+          "text": "Abraham Lincoln"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "Abraham Lincoln",
+      "explanation": "Esta frase contiene el verbo «fue asesinado», pero le falta un sujeto; «presidentes» es el complemento de la preposición «de» y no es el sujeto. La opción (D) es la respuesta correcta porque contiene el sujeto «Abraham Lincoln». Las opciones A y C contienen cada una una locución preposicional, y la opción (B) contiene un verbo de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0172",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Independent Clauses",
+      "question": "The Great Plains in the Midwest of the United States __________ a rich, fertile farming area.",
+      "options": [
+        {
+          "label": "A",
+          "text": "definitely making"
+        },
+        {
+          "label": "B",
+          "text": "from the beginning"
+        },
+        {
+          "label": "C",
+          "text": "the pioneers planted"
+        },
+        {
+          "label": "D",
+          "text": "makes up"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "makes up",
+      "explanation": "Esta frase contiene el sujeto en singular «Great Plains», pero le falta un verbo. La opción (D) es la respuesta correcta porque contiene el verbo «makes up». La opción (A) contiene un participio presente, la opción (B) contiene una locución preposicional y la opción (C) contiene un sujeto de más y un verbo que no tiene sentido, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0173",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Adverb Clauses",
+      "question": "__________ has a beautiful red coat, the red panda is called \"hun-ho\" or \"fire fox\" in China.",
+      "options": [
+        {
+          "label": "A",
+          "text": "It"
+        },
+        {
+          "label": "B",
+          "text": "Because it"
+        },
+        {
+          "label": "C",
+          "text": "On it"
+        },
+        {
+          "label": "D",
+          "text": "As soon as"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "Because it",
+      "explanation": "Esta frase contiene una oración principal completa —«El panda rojo se llama...»— y una oración adverbial incompleta —«...tiene...». La oración adverbial necesita un conector adverbial y un sujeto para estar completa. La opción (B) es la respuesta correcta porque contiene el conector adverbial «Because» y el sujeto «it». A la opción (A) le falta un conector adverbial, la opción (C) contiene una frase preposicional y a la opción (D) le falta un sujeto, por lo que estas respuestas no son correctas."
+    },
+    {
+      "id": "A0174",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Independent Clauses",
+      "question": "Although Congress passed an income tax law in 1894, in 1895 __________ the law unconstitutional.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the ruling of the Supreme Court"
+        },
+        {
+          "label": "B",
+          "text": "was ruled by the Supreme Court"
+        },
+        {
+          "label": "C",
+          "text": "if the Supreme Court ruled"
+        },
+        {
+          "label": "D",
+          "text": "the Supreme Court ruled"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "the Supreme Court ruled",
+      "explanation": "Esta frase contiene una proposición adverbial —«Aunque el Congreso aprobó...»— y una proposición principal incompleta —«...la ley inconstitucional». La proposición incompleta necesita un sujeto y un verbo para estar completa. La opción (D) es la respuesta correcta porque contiene el sujeto «Tribunal Supremo» y el verbo «dictaminó». A la opción (A) le falta un verbo, a la opción (B) le falta un sujeto y la opción (C) contiene un conector condicional, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0175",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Independent Clauses",
+      "question": "When San Diego's summer heat has withered most flowers, __________ bloom.",
+      "options": [
+        {
+          "label": "A",
+          "text": "as soon as lilies"
+        },
+        {
+          "label": "B",
+          "text": "lilies"
+        },
+        {
+          "label": "C",
+          "text": "of lilies"
+        },
+        {
+          "label": "D",
+          "text": "by the time lilies start"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "lilies",
+      "explanation": "Esta frase contiene una oración adverbial completa —«Cuando el calor del verano de San Diego ha marchitado...»— y una oración principal incompleta —«...florecen». La oración principal necesita un sujeto para estar completa. La opción (B) es la respuesta correcta porque contiene el sujeto «lirios». Las respuestas A y D contienen ambas un conector temporal adverbial, y la opción (C) contiene una frase preposicional, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0176",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Participial Phrases",
+      "question": "__________ dugout canoes where the floodplains have dried into long stretches of dry sand.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Because oxen pull"
+        },
+        {
+          "label": "B",
+          "text": "Oxen pull"
+        },
+        {
+          "label": "C",
+          "text": "For oxen to pull"
+        },
+        {
+          "label": "D",
+          "text": "Oxen pulling"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "Oxen pull",
+      "explanation": "Esta frase contiene una oración adverbial completa —«donde las llanuras aluviales se han secado...»— y una oración principal incompleta —«...canoas talladas». La oración principal necesita un sujeto y un verbo para estar completa. La opción (B) es la respuesta correcta porque contiene el sujeto «bueyes» y el verbo «tirar». La opción (A) contiene un conector de cláusula adverbial, la opción (C) contiene una locución preposicional y un infinitivo, y la opción (D) contiene un participio presente, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0177",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Independent Clauses",
+      "question": "__________ perceives the color black provided there is a complete lack of stimulation of the retina.",
+      "options": [
+        {
+          "label": "A",
+          "text": "When a person"
+        },
+        {
+          "label": "B",
+          "text": "A person will"
+        },
+        {
+          "label": "C",
+          "text": "If a person"
+        },
+        {
+          "label": "D",
+          "text": "A person"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "A person",
+      "explanation": "Esta frase contiene una oración adverbial completa, siempre que haya una ausencia total de... y una oración principal incompleta. La oración principal necesita un sujeto para estar completa. La opción (D) es la respuesta correcta porque contiene el sujeto «persona». La opción (A) contiene un conector de oración nominal de más, la opción (B) contiene un verbo de más y la opción (C) contiene un conector adverbial de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0178",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Verb Problems",
+      "question": "Elephant poaching __________ the international ban on ivory was established.",
+      "options": [
+        {
+          "label": "A",
+          "text": "has diminished since"
+        },
+        {
+          "label": "B",
+          "text": "it has diminished"
+        },
+        {
+          "label": "C",
+          "text": "since diminishing"
+        },
+        {
+          "label": "D",
+          "text": "it has diminished since"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "has diminished since",
+      "explanation": "Esta frase contiene una oración principal incompleta —«La caza furtiva de elefantes...»— y una oración adverbial completa —«se estableció la prohibición internacional del marfil»—. La oración principal necesita un verbo para estar completa, y ambas oraciones deben unirse mediante un conector. La opción (A) es la respuesta correcta porque contiene el verbo «ha disminuido» y el conector «desde que». A la opción (B) le falta un conector, la opción (C) contiene un participio presente y la opción (D) contiene un sujeto de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0179",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Conjunctions",
+      "question": "Gustave Eiffel is famous for building the Eiffel Tower, __________ for designing the framework of the Statue of Liberty.",
+      "options": [
+        {
+          "label": "A",
+          "text": "he is remembered"
+        },
+        {
+          "label": "B",
+          "text": "is remembered"
+        },
+        {
+          "label": "C",
+          "text": "yet he is seldom remembered"
+        },
+        {
+          "label": "D",
+          "text": "yet remembered"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "yet he is seldom remembered",
+      "explanation": "Esta frase contiene una oración principal completa —Gustave Eiffel es famoso...— y una oración principal incompleta —...por diseñar la estructura de la Estatua de la Libertad—. La oración incompleta necesita un sujeto y un verbo para completarse, y las dos oraciones necesitan un conector de coordinación para unirlas. La opción (C) es la respuesta correcta porque contiene el conector de coordinación «yet», el sujeto «he» y el verbo «is...remembered». A la opción (A) le falta un conector de coordinación; a la opción (B) le faltan un conector de coordinación y un sujeto; y a la opción (D) le falta un sujeto, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0180",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Adverb Clauses",
+      "question": "__________ walking properly and has enough area to walk in, it should wear down the hoof as it regrows.",
+      "options": [
+        {
+          "label": "A",
+          "text": "If the animal is"
+        },
+        {
+          "label": "B",
+          "text": "The animal is"
+        },
+        {
+          "label": "C",
+          "text": "Although the animal"
+        },
+        {
+          "label": "D",
+          "text": "Although"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "If the animal is",
+      "explanation": "Esta frase tiene una oración principal completa —«debería desgastarse...»— y una oración adverbial incompleta —«...caminando correctamente y tiene suficiente espacio...». La oración adverbial necesita un sujeto, un verbo y un conector para estar completa. La opción (A) es la respuesta correcta porque contiene el sujeto «el animal», el verbo «es» y el conector «si». A la opción (B) le falta un conector, a la opción (C) le falta un verbo y a la opción (D) le faltan un sujeto y un verbo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0181",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Independent Clauses",
+      "question": "Change, both good and bad, can create stress, __________, if sufficiently severe, can lead to illness.",
+      "options": [
+        {
+          "label": "A",
+          "text": "and stress"
+        },
+        {
+          "label": "B",
+          "text": "and stressed"
+        },
+        {
+          "label": "C",
+          "text": "stress"
+        },
+        {
+          "label": "D",
+          "text": "that stress"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "and stress",
+      "explanation": "Esta frase tiene una oración principal completa: «El cambio... puede provocar estrés», y una oración principal incompleta: «... puede provocar enfermedades». La oración incompleta necesita un sujeto para completarse, y las dos oraciones necesitan un conector de coordinación para unirlas. La opción (A) es la respuesta correcta porque contiene el sujeto «estrés» y el conector de coordinación «y». A la opción (B) le falta un sujeto, y a las opciones C y D les falta un conector de coordinación, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0182",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Noun Clauses",
+      "question": "For every disease-carrying toxin, there is an antitoxin which __________ out the effect of the toxin.",
+      "options": [
+        {
+          "label": "A",
+          "text": "cancels"
+        },
+        {
+          "label": "B",
+          "text": "the cancellation"
+        },
+        {
+          "label": "C",
+          "text": "to cancel"
+        },
+        {
+          "label": "D",
+          "text": "cancelling"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "cancels",
+      "explanation": "Esta frase contiene una oración principal —«hay una antitoxina...»— y una oración adjetiva incompleta que... La oración adjetiva necesita un verbo para completarse. La opción (A) es la respuesta correcta porque contiene el verbo «cancela». La opción (B) contiene un sustantivo, la opción (C) contiene un infinitivo y la opción (D) contiene un verbo incompleto, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0183",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Participial Phrases",
+      "question": "Edmund Halley, who had discovered Halley's comet in 1682, __________ before he could again see the comet whose return he had accurately predicted.",
+      "options": [
+        {
+          "label": "A",
+          "text": "died"
+        },
+        {
+          "label": "B",
+          "text": "dying"
+        },
+        {
+          "label": "C",
+          "text": "on his death"
+        },
+        {
+          "label": "D",
+          "text": "to die"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "died",
+      "explanation": "Esta frase tiene una oración principal incompleta: «Edmund Halley,...» y dos oraciones adjetivas: «quien había descubierto el cometa de Halley...» y «cuyo regreso había predicho con precisión». La oración principal necesita un verbo para estar completa. La opción (A) es la respuesta correcta porque contiene el verbo «murió». La opción (B) contiene un verbo incompleto, la opción (C) contiene una locución preposicional y la opción (D) contiene un infinitivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0184",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Reduced Adjective Clauses Correctly",
+      "question": "The surgeon operating without delay on an inflamed appendix __________ a far more serious complication, which is the rupture of a germ-laden appendix.",
+      "options": [
+        {
+          "label": "A",
+          "text": "which prevents"
+        },
+        {
+          "label": "B",
+          "text": "preventing"
+        },
+        {
+          "label": "C",
+          "text": "prevents"
+        },
+        {
+          "label": "D",
+          "text": "prevention"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "prevents",
+      "explanation": "Esta frase contiene una proposición adjetiva reducida completa que funciona como... y una proposición principal incompleta: «El cirujano...». Esta proposición principal incompleta necesita un verbo no reducido para completarse. La opción (C) es la respuesta correcta porque contiene el verbo no reducido «previene». La opción (A) contiene un conector o sujeto de más, la opción (B) contiene un verbo reducido y la opción (D) contiene un sustantivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0185",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Appositives",
+      "question": "__________ famous civil rights leader, Martin Luther King, Jr. was named winner of the Nobel Peace Prize in 1964.",
+      "options": [
+        {
+          "label": "A",
+          "text": "A"
+        },
+        {
+          "label": "B",
+          "text": "Which was"
+        },
+        {
+          "label": "C",
+          "text": "He was a"
+        },
+        {
+          "label": "D",
+          "text": "Was a"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "A",
+      "explanation": "Esta frase contiene una oración principal completa —Martin Luther King, Jr. fue nombrado...— y una oración adjetival reducida e incompleta —...famoso...—. Esta oración adjetival reducida e incompleta debe convertirse en una frase completa. La opción (A) es la respuesta correcta porque contiene el artículo «A», que completa la frase. La opción (B) contiene un conector/sujeto que no puede utilizarse al principio de una frase y un verbo de más; la opción (C) contiene un sujeto y un verbo de más, y la opción (D) contiene un verbo no reducido, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0186",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Reduced Adjective Clauses Correctly",
+      "question": "The four-character drama Who's Afraid of Virginia Woolf?, __________ by Edward Albee, opened on Broadway.",
+      "options": [
+        {
+          "label": "A",
+          "text": "it was written"
+        },
+        {
+          "label": "B",
+          "text": "who was written"
+        },
+        {
+          "label": "C",
+          "text": "written"
+        },
+        {
+          "label": "D",
+          "text": "was written"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "written",
+      "explanation": "Esta frase contiene una oración principal completa: «La obra de teatro de cuatro personajes... se estrenó...» y una oración adjetiva reducida e incompleta: «...de Edward Albee». Esta oración adjetiva reducida e incompleta necesita un verbo reducido para completarse. La opción (C) es la respuesta correcta porque contiene el verbo reducido «escrita». La opción (A) contiene un sujeto y un verbo de más, la opción (B) contiene un conector o sujeto de más, y la opción (D) contiene un verbo no reducido, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0187",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Passive Voice",
+      "question": "Although applied for in October of 1793, Eli Whitney's patent for his cotton gin __________ until March of the following year.",
+      "options": [
+        {
+          "label": "A",
+          "text": "granting"
+        },
+        {
+          "label": "B",
+          "text": "it was not granted"
+        },
+        {
+          "label": "C",
+          "text": "to grant"
+        },
+        {
+          "label": "D",
+          "text": "was not granted"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "was not granted",
+      "explanation": "Esta frase contiene una proposición adverbial reducida completa —«Aunque se aplicó...»— y una proposición principal incompleta —«La patente de Eli Whitney...». Esta proposición principal incompleta necesita un verbo no reducido para completarse. La opción (D) es la respuesta correcta porque contiene el verbo no reducido «no se concedió». La opción (A) contiene un verbo reducido, la opción (B) contiene un sujeto de más y la opción (C) contiene un infinitivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0188",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Appositives",
+      "question": "__________, honoring the African tradition of celebrating the harvest, is held December 16 through January 1 in the United States.",
+      "options": [
+        {
+          "label": "A",
+          "text": "For Kwanzaa"
+        },
+        {
+          "label": "B",
+          "text": "Kwanzaa was celebrated"
+        },
+        {
+          "label": "C",
+          "text": "Kwanzaa celebrations"
+        },
+        {
+          "label": "D",
+          "text": "Kwanzaa"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "Kwanzaa",
+      "explanation": "Esta frase contiene una proposición adjetiva reducida completa —honrando...— y una proposición principal incompleta —...se celebra...—. Esta proposición principal incompleta necesita un sujeto en singular para completarse. La opción (D) es la respuesta correcta porque contiene el sujeto en singular «Kwanzaa». La opción (A) contiene una locución preposicional, la opción (B) contiene un verbo de más y la opción (C) contiene un sustantivo en plural, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0189",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Verbs",
+      "question": "While repositioning, cruise ships __________ passengers for what is called a line voyage.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the embarkation of"
+        },
+        {
+          "label": "B",
+          "text": "embark"
+        },
+        {
+          "label": "C",
+          "text": "embarking"
+        },
+        {
+          "label": "D",
+          "text": "they embark"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "embark",
+      "explanation": "Esta frase contiene una proposición adverbial reducida completa («Mientras se reposicionan») y una proposición principal incompleta («los cruceros...»). Esta proposición principal incompleta necesita un verbo no reducido para completarse. La opción (B) es la respuesta correcta porque contiene el verbo no reducido «embarcar». La opción (A) contiene un sustantivo, la opción (C) contiene un verbo reducido y la opción (D) contiene un sujeto de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0190",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Reduced Adverb Clauses Correctly",
+      "question": "__________ New York and New Jersey, the George Washington Bridge opened to traffic in 1931.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Connecting"
+        },
+        {
+          "label": "B",
+          "text": "Which was connected"
+        },
+        {
+          "label": "C",
+          "text": "Connects"
+        },
+        {
+          "label": "D",
+          "text": "It connects"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "Connecting",
+      "explanation": "Esta frase contiene una oración principal completa —«El puente George Washington se abrió...»— y una oración adjetiva reducida e incompleta —«...Nueva York y Nueva Jersey». Esta oración adjetiva reducida e incompleta necesita un verbo reducido para completarse. La opción (A) es la respuesta correcta porque contiene el verbo reducido «Conectando». La opción (B) contiene un conector/sujeto que no puede utilizarse al principio de una frase y un verbo no reducido; la opción (C) contiene un verbo no reducido; y la opción (D) contiene un sujeto de más y un verbo no reducido, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0191",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Reduced Adverb Clauses Correctly",
+      "question": "Although __________ their jobs, a majority of workers expect to move on to other jobs within five years of starting their current jobs.",
+      "options": [
+        {
+          "label": "A",
+          "text": "to enjoy"
+        },
+        {
+          "label": "B",
+          "text": "enjoy"
+        },
+        {
+          "label": "C",
+          "text": "the enjoyment"
+        },
+        {
+          "label": "D",
+          "text": "enjoying"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "enjoying",
+      "explanation": "Esta frase contiene una oración principal completa —«la mayoría de los trabajadores espera...»— y una oración adverbial reducida e incompleta —«Aunque...». Esta oración adverbial reducida e incompleta necesita un verbo reducido para completarse. La opción (D) es la respuesta correcta porque contiene el verbo reducido «disfrutando». La opción (A) contiene un infinitivo, la opción (B) contiene un verbo no reducido y la opción (C) contiene un sustantivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0192",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Be Sure the Sentence Has a Subject and a Verb",
+      "question": "Most adults, including 78 percent of men and 61 percent of women, __________ that gender roles in marriage today are more equal than traditional.",
+      "options": [
+        {
+          "label": "A",
+          "text": "say"
+        },
+        {
+          "label": "B",
+          "text": "they say"
+        },
+        {
+          "label": "C",
+          "text": "saying"
+        },
+        {
+          "label": "D",
+          "text": "to say"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "say",
+      "explanation": "Esta frase contiene una proposición adjetiva reducida completa que incluye... y una proposición principal incompleta: «La mayoría de los adultos...». Esta proposición principal incompleta necesita un verbo no reducido para completarse. La opción (A) es la respuesta correcta porque contiene el verbo no reducido «say». La opción (B) contiene un sujeto de más, la opción (C) contiene un verbo reducido y la opción (D) contiene un infinitivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0193",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Reduced Adverb Clauses",
+      "question": "__________ Lake Erie and the Hudson River, the Erie Canal opened in upstate New York in 1825.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Linking"
+        },
+        {
+          "label": "B",
+          "text": "It was linked"
+        },
+        {
+          "label": "C",
+          "text": "Have been linking"
+        },
+        {
+          "label": "D",
+          "text": "They linked"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "Linking",
+      "explanation": "Esta frase contiene una oración principal completa —«El canal de Erie se inauguró...»— y una oración adjetiva reducida e incompleta —«...del lago Erie...». Esta oración adjetiva reducida e incompleta necesita un verbo reducido para completarse. La opción (A) es la respuesta correcta porque contiene el verbo reducido «Linking». Las respuestas B y D contienen cada una un sujeto de más y un verbo no reducido, y la opción (C) contiene un verbo no reducido, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0194",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Passive Voice",
+      "question": "On October 28, 1886, the Statue of Liberty, a gift from the people of France, __________ in New York Harbor by President Cleveland.",
+      "options": [
+        {
+          "label": "A",
+          "text": "to dedicate"
+        },
+        {
+          "label": "B",
+          "text": "it dedicated"
+        },
+        {
+          "label": "C",
+          "text": "was dedicated"
+        },
+        {
+          "label": "D",
+          "text": "was dedicating"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "was dedicated",
+      "explanation": "Esta frase contiene una proposición adjetival reducida completa «un regalo...» y una proposición principal incompleta «la Estatua de la Libertad...». Esta proposición principal incompleta necesita un verbo en pasiva para completarse debido a la expresión «por el presidente Cleveland». La opción (C) es la respuesta correcta, ya que contiene el verbo en pasiva «fue dedicada». La opción (A) contiene un infinitivo, la opción (B) contiene un sujeto de más y un verbo en voz activa, y la opción (D) contiene un verbo en voz activa, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0195",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Appositives",
+      "question": "While making the embarrassing mistake of wearing a scarlet garment instead of somber black, __________, the atomic chemist and Quaker, discovered that he was color-blind.",
+      "options": [
+        {
+          "label": "A",
+          "text": "in John Dalton's laboratory"
+        },
+        {
+          "label": "B",
+          "text": "John Dalton was"
+        },
+        {
+          "label": "C",
+          "text": "John Dalton"
+        },
+        {
+          "label": "D",
+          "text": "John Dalton and"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "John Dalton",
+      "explanation": "Esta frase contiene una proposición adverbial reducida completa «Mientras hacía...», una proposición principal incompleta «...descubrió...» y una proposición adjetival reducida completa «el químico atómico y cuáquero». Esta proposición principal incompleta necesita un sujeto para completarse. La opción (C) es la respuesta correcta porque contiene el sujeto «John Dalton». La opción (A) contiene una locución preposicional, la opción (B) contiene un verbo de más y la opción (D) contiene un conector de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0196",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Reduced Adjective Clauses Correctly",
+      "question": "The birth of swing music can be traced to Battle of the Bands competitions __________ at the Savoy Ballroom in Harlem.",
+      "options": [
+        {
+          "label": "A",
+          "text": "held"
+        },
+        {
+          "label": "B",
+          "text": "were held"
+        },
+        {
+          "label": "C",
+          "text": "the holdings"
+        },
+        {
+          "label": "D",
+          "text": "to hold"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "held",
+      "explanation": "Esta frase contiene una oración principal completa —El nacimiento... se remonta...— y una oración adjetiva reducida e incompleta —...en el salón de baile del Savoy...—. Esta cláusula adjetiva reducida e incompleta necesita un verbo reducido para completarse. La opción (A) es la respuesta correcta porque contiene el verbo reducido «celebró». La opción (B) contiene un verbo no reducido, la opción (C) contiene un sustantivo y la opción (D) contiene un infinitivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0197",
+      "type": "A",
+      "difficulty": "Easy",
+      "category": "Adverb Clauses",
+      "question": "When __________ chest pain, some doctors recommend that they take one full 325-milligram aspirin.",
+      "options": [
+        {
+          "label": "A",
+          "text": "patients feel"
+        },
+        {
+          "label": "B",
+          "text": "feel impatient"
+        },
+        {
+          "label": "C",
+          "text": "do patients feel"
+        },
+        {
+          "label": "D",
+          "text": "as patients feel"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "patients feel",
+      "explanation": "Esta frase contiene el conector interrogativo «When» y una oración principal: «Algunos médicos recomiendan...». Para que la frase esté completa, es necesario que haya un sujeto y un verbo después del conector «When». La opción (A) es la respuesta correcta porque contiene el sujeto y el verbo «los pacientes sienten». A la opción (B) le falta un sujeto; la opción (C) contiene un verbo auxiliar de más; y la opción (D) contiene un conector de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0198",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Independent Clauses",
+      "question": "During the Middle Ages, ___________, large sets of bells with as many as 70 bells, first became popular.",
+      "options": [
+        {
+          "label": "A",
+          "text": "with carillons"
+        },
+        {
+          "label": "B",
+          "text": "carillons are"
+        },
+        {
+          "label": "C",
+          "text": "carillons have"
+        },
+        {
+          "label": "D",
+          "text": "carillons"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "carillons",
+      "explanation": "Esta frase contiene el verbo «became», pero necesita un sujeto; las comas indican que «...sets...» es un apositivo y no es el sujeto. La opción (D) es la respuesta correcta porque contiene el sujeto «carillons». La opción (A) contiene una locución preposicional, y las opciones B y C contienen cada una un verbo de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0199",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Appositives",
+      "question": "The ___________, the first daily newspaper in the United States, first appeared in 1783.",
+      "options": [
+        {
+          "label": "A",
+          "text": "two-page Pennsylvania Evening Post"
+        },
+        {
+          "label": "B",
+          "text": "Pennsylvania Evening Post is two pages long"
+        },
+        {
+          "label": "C",
+          "text": "Pennsylvania Evening Post was"
+        },
+        {
+          "label": "D",
+          "text": "two-page Pennsylvania Evening Post's"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "two-page Pennsylvania Evening Post",
+      "explanation": "Esta frase contiene el verbo «apareció», pero necesita un sujeto; las comas indican que «periódico» es un apositivo y no es el sujeto. La opción (A) es la respuesta correcta porque contiene el sujeto «Pennsylvania Evening Post». Las opciones B y C contienen cada una un verbo de más, y la opción (D) contiene un adjetivo posesivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0200",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Participial Phrases",
+      "question": "On November 19, 1863, Abraham Lincoln, speaking from notes on an old __________ the famous Gettysburg Address in only two minutes time.",
+      "options": [
+        {
+          "label": "A",
+          "text": "gave the envelope"
+        },
+        {
+          "label": "B",
+          "text": "envelope giving"
+        },
+        {
+          "label": "C",
+          "text": "envelope, gave"
+        },
+        {
+          "label": "D",
+          "text": "gift of an envelope"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "envelope, gave",
+      "explanation": "Esta frase contiene un sujeto, Abraham Lincoln, pero necesita un complemento directo de la preposición «on» y un verbo. La opción (C) es la respuesta correcta porque contiene el complemento directo «envelope» y el verbo «gave». La opción (A) contiene un verbo y su complemento directo; la opción (B) contiene un sustantivo seguido de un participio pasado; y a la opción (D) le falta un verbo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0201",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Conjunctions",
+      "question": "Like a mountain, the Empire State Building creates its own updrafts, __________ have been observed to fall up.",
+      "options": [
+        {
+          "label": "A",
+          "text": "and snow and rain"
+        },
+        {
+          "label": "B",
+          "text": "snow and rain"
+        },
+        {
+          "label": "C",
+          "text": "of snow"
+        },
+        {
+          "label": "D",
+          "text": "but snow"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "and snow and rain",
+      "explanation": "Esta frase contiene una oración principal completa —«El Empire State Building crea...»— y una oración principal incompleta —«...se han observado...». La oración principal incompleta necesita un sujeto en plural y un conector de coordinación para unir las dos oraciones. La opción (A) es la respuesta correcta porque contiene el conector de coordinación «y» y el sujeto en plural «nieve y lluvia». A la opción (B) le falta un conector de coordinación, la opción (C) contiene una locución preposicional y la opción (D) contiene un sujeto en singular, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0202",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Adverb Clauses",
+      "question": "__________ can consume 30,000 plant species, 90 percent of the human diet consists of only 20 of the available species.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Humans"
+        },
+        {
+          "label": "B",
+          "text": "In contrast humans"
+        },
+        {
+          "label": "C",
+          "text": "Providing for humans"
+        },
+        {
+          "label": "D",
+          "text": "While humans"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "While humans",
+      "explanation": "Esta frase contiene una oración principal completa —«el 90 %... consiste...»— y una oración adverbial incompleta —«...puede consumir...». Para que la oración adverbial sea completa, necesita un sujeto y un nexo. La opción (D) es la respuesta correcta porque contiene el nexo «mientras que» y el sujeto «los seres humanos». A las respuestas A y C les falta un nexo, y la opción (B) contiene una transición adverbial, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0203",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Conjunctions",
+      "question": "The reservoir created by the Three Gorges Dam will flood almost 1,400 villages, __________ to relocate the villages' nearly two million inhabitants.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the government plans"
+        },
+        {
+          "label": "B",
+          "text": "so the governments plans"
+        },
+        {
+          "label": "C",
+          "text": "so the government plans"
+        },
+        {
+          "label": "D",
+          "text": "the governments plans"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "so the government plans",
+      "explanation": "Esta frase contiene una oración principal completa —El embalse... se desbordará...— y una oración principal incompleta —...para reubicar a los habitantes de los pueblos...—. La oración principal incompleta necesita un sujeto y un verbo para estar completa, y las dos oraciones deben estar unidas por un conector de coordinación. La opción (C) es la respuesta correcta porque contiene el conector de coordinación «así que», el sujeto «el Gobierno» y el verbo «planea». A la opción (A) le falta un conector de coordinación, a la opción (B) le falta un verbo y a la opción (D) le faltan un conector de coordinación y un verbo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0204",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Adjective Clauses",
+      "question": "Environmentalists are earnestly trying to determine __________ of the ozone layer over the poles.",
+      "options": [
+        {
+          "label": "A",
+          "text": "is causing the deterioration"
+        },
+        {
+          "label": "B",
+          "text": "what the cause of the deterioration"
+        },
+        {
+          "label": "C",
+          "text": "what is causing the deterioration"
+        },
+        {
+          "label": "D",
+          "text": "the deterioration is causing"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "what is causing the deterioration",
+      "explanation": "Esta frase tiene una oración principal incompleta: «Los ecologistas están intentando por todos los medios determinar...». La oración principal necesita un sustantivo o una oración sustantiva como complemento del verbo «determinar» para estar completa. La opción (C) es la respuesta correcta porque contiene una oración sustantiva con el conector/sujeto «what» y un verbo («is causing»). A la opción (A) le falta un conector o un sujeto, a la opción (B) le falta un verbo y a la opción (D) le falta un conector, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0205",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Noun Clauses",
+      "question": "The anteater has a long sticky tongue, __________ capture ants and termites from their nests.",
+      "options": [
+        {
+          "label": "A",
+          "text": "which the use"
+        },
+        {
+          "label": "B",
+          "text": "uses it to"
+        },
+        {
+          "label": "C",
+          "text": "it is used"
+        },
+        {
+          "label": "D",
+          "text": "which it uses to"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "which it uses to",
+      "explanation": "Esta frase tiene una oración principal —El osuno tiene una lengua larga y pegajosa,...— y una oración adjetiva incompleta —...para capturar hormigas y termitas...—. La oración adjetiva necesita un conector, un sujeto y un verbo para estar completa. La opción (D) es la respuesta correcta porque contiene el conector «which», el sujeto «it» y el verbo «uses». A la opción (A) le falta un verbo, y a las opciones B y C les falta un conector, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0206",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Adjective Clauses",
+      "question": "__________ such a challenging science is that all theory is based on observations that cannot be replicated in a controlled environment.",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is astronomy"
+        },
+        {
+          "label": "B",
+          "text": "Astronomy is"
+        },
+        {
+          "label": "C",
+          "text": "What makes astronomy"
+        },
+        {
+          "label": "D",
+          "text": "Why is astronomy"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "What makes astronomy",
+      "explanation": "Esta frase tiene como verbo principal «is», pero necesita un sujeto. Una oración sustantiva puede actuar como sujeto del verbo «is». Para que una oración sustantiva que actúa como sujeto esté completa, necesita un conector, un sujeto y un verbo. La opción (C) es la respuesta correcta porque contiene el conector/sujeto «what» y el verbo «makes». A las respuestas A y B les falta un conector, y la opción (D) presenta el sujeto y el verbo invertidos, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0207",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Noun Clauses",
+      "question": "__________ in the atmosphere is the temperature falling below freezing.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Frost is produced"
+        },
+        {
+          "label": "B",
+          "text": "Frost produces"
+        },
+        {
+          "label": "C",
+          "text": "What produces frost"
+        },
+        {
+          "label": "D",
+          "text": "What is frost"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "What produces frost",
+      "explanation": "Esta frase tiene como verbo principal «is», pero necesita un sujeto. Una oración sustantiva puede actuar como sujeto del verbo «is». Para que una oración sustantiva que actúa como sujeto esté completa, necesita un conector, un sujeto y un verbo. La opción (C) es la respuesta correcta porque contiene el conector/sujeto «What» y el verbo «produces». A las respuestas A y B les falta un conector de oración sustantiva, y la opción (D) presenta el sujeto y el verbo invertidos, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0208",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Prepositional Phrases",
+      "question": "Subduction is the process __________ the ocean floor recycles itself.",
+      "options": [
+        {
+          "label": "A",
+          "text": "that"
+        },
+        {
+          "label": "B",
+          "text": "which is"
+        },
+        {
+          "label": "C",
+          "text": "by which"
+        },
+        {
+          "label": "D",
+          "text": "how"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "by which",
+      "explanation": "Esta frase tiene una oración principal —«La subducción es el proceso...»— y una oración adjetiva incompleta —«...el fondo oceánico recicla...». La oración adjetiva necesita una preposición y un conector para estar completa. La opción (C) es la respuesta correcta porque contiene la preposición «by» y el conector «which». A la opción (A) le falta una preposición; a la opción (B) le falta una preposición y, además, tiene un verbo de más; y la opción (D) utiliza un conector de oración sustantiva en lugar de uno de oración adjetiva, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0209",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Noun Clauses",
+      "question": "__________ in so perfectly with their environment is what makes Frank Lloyd Wright's architecture so distinctive.",
+      "options": [
+        {
+          "label": "A",
+          "text": "That the buildings blend"
+        },
+        {
+          "label": "B",
+          "text": "The buildings blend"
+        },
+        {
+          "label": "C",
+          "text": "Since the buildings blend"
+        },
+        {
+          "label": "D",
+          "text": "Build and blend"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "That the buildings blend",
+      "explanation": "Esta frase tiene el verbo principal «is», pero le falta un sujeto. Una oración sustantiva puede actuar como sujeto del verbo «is». La oración sustantiva necesita un conector, un sujeto y un verbo para estar completa. La opción (A) es la respuesta correcta porque contiene el conector «That», el sujeto «buildings» y el verbo «blend». A la opción (B) le falta un conector; la opción (C) contiene un conector de cláusula adverbial; y a la opción (D) le faltan un conector y un sujeto, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0210",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Noun Clauses",
+      "question": "Scientists now know that the lack of an embryonic thumb in birds is why __________ almost impossible for birds and dinosaurs to be related.",
+      "options": [
+        {
+          "label": "A",
+          "text": "is"
+        },
+        {
+          "label": "B",
+          "text": "it is"
+        },
+        {
+          "label": "C",
+          "text": "is it"
+        },
+        {
+          "label": "D",
+          "text": "it"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "it is",
+      "explanation": "Esta frase contiene una oración principal —«Los científicos saben ahora...»— y el conector interrogativo «why». Para que la frase esté completa, es necesario que haya un sujeto y un verbo después del conector «why». La opción (B) es la respuesta correcta porque contiene el sujeto y el verbo «it is». A la opción (A) le falta el sujeto; la opción (C) presenta el sujeto y el verbo invertidos; y a la opción (D) le falta el verbo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0211",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Inversions",
+      "question": "Rarely __________ now used for battle purposes.",
+      "options": [
+        {
+          "label": "A",
+          "text": "in the band"
+        },
+        {
+          "label": "B",
+          "text": "military bands are"
+        },
+        {
+          "label": "C",
+          "text": "banded"
+        },
+        {
+          "label": "D",
+          "text": "are military bands"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "are military bands",
+      "explanation": "Esta frase comienza con la expresión negativa «Rarely». Para que la frase esté completa, es necesario que el sujeto y el verbo aparezcan invertidos tras la expresión negativa introductoria. La opción (D) es la respuesta correcta porque contiene el sujeto y el verbo invertidos: «are military bands». La opción (A) contiene una locución preposicional; la opción (B) contiene un sujeto y un verbo que no están invertidos; y a la opción (C) le falta un sujeto y contiene un verbo incompleto, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0212",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Noun Clauses",
+      "question": "In addition to quitting smoking and controlling blood pressure and diet, people need to think about how __________ stress to avert potentially fatal heart problems.",
+      "options": [
+        {
+          "label": "A",
+          "text": "can they manage"
+        },
+        {
+          "label": "B",
+          "text": "the management"
+        },
+        {
+          "label": "C",
+          "text": "they manage"
+        },
+        {
+          "label": "D",
+          "text": "managing"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "they manage",
+      "explanation": "Esta frase contiene una oración principal —«la gente necesita...»— y el conector interrogativo «cómo». Para que la frase esté completa, es necesario que el conector «cómo» vaya seguido de un sujeto y un verbo. La opción (C) es la respuesta correcta porque contiene el sujeto y el verbo «se las arreglan». La opción (A) presenta el sujeto y el verbo invertidos; a la opción (B) le falta un verbo; y a la opción (D) le falta un sujeto y contiene un verbo incompleto, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0213",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Inversions",
+      "question": "Only recently __________ popular all over the country.",
+      "options": [
+        {
+          "label": "A",
+          "text": "have indoor climbing gyms become"
+        },
+        {
+          "label": "B",
+          "text": "in becoming indoor climbing gyms"
+        },
+        {
+          "label": "C",
+          "text": "indoor climbing gyms have become"
+        },
+        {
+          "label": "D",
+          "text": "indoor climbing gyms"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "have indoor climbing gyms become",
+      "explanation": "Esta frase comienza con la expresión negativa «Solo recientemente». Para que la frase esté completa, es necesario que, tras la expresión negativa introductoria, aparezcan el sujeto y el verbo invertidos. La opción (A) es la respuesta correcta, ya que contiene el sujeto y el verbo invertidos: «have indoor climbing gyms become». La opción (B) contiene una locución preposicional; la opción (C) contiene un sujeto y un verbo que no están invertidos; y a la opción (D) le falta un verbo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0214",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Inversions",
+      "question": "In the sand off the northern California coast __________ San Agustin, which is said to be loaded with gold.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the galleon is lying"
+        },
+        {
+          "label": "B",
+          "text": "lies the galleon"
+        },
+        {
+          "label": "C",
+          "text": "the galleon"
+        },
+        {
+          "label": "D",
+          "text": "the galleon which lies"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "lies the galleon",
+      "explanation": "Esta frase comienza con las expresiones de lugar «En la arena frente a la costa norte de California». Para que la frase esté completa, es necesario invertir el sujeto y el verbo tras las expresiones de lugar introductorias. La opción (B) es la respuesta correcta porque contiene el sujeto y el verbo invertidos: «yace el galeón». La opción (A) contiene un sujeto y un verbo que no están invertidos; a la opción (C) le falta un verbo; y la opción (D) contiene un conector o sujeto adicional, además de un sujeto y un verbo que no están invertidos, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0215",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Conditionals",
+      "question": "According to a recent survey, were __________ of telecommuters to lose their jobs, they would look for other telecommuting positions.",
+      "options": [
+        {
+          "label": "A",
+          "text": "to major"
+        },
+        {
+          "label": "B",
+          "text": "if a majority"
+        },
+        {
+          "label": "C",
+          "text": "a majority"
+        },
+        {
+          "label": "D",
+          "text": "in the major"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "a majority",
+      "explanation": "Esta frase contiene una oración principal («they would look...») y una oración condicional invertida incompleta («were...»). Para que la frase sea completa, necesita un sujeto. La opción (C) es la respuesta correcta porque contiene el sujeto «a majority». La opción (A) contiene un infinitivo, la opción (B) contiene un conector de más y la opción (D) contiene una frase preposicional, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0216",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Inversions",
+      "question": "Only in the Civil War __________ killed or wounded.",
+      "options": [
+        {
+          "label": "A",
+          "text": "soldiers in America"
+        },
+        {
+          "label": "B",
+          "text": "were so many American soldiers"
+        },
+        {
+          "label": "C",
+          "text": "many in America"
+        },
+        {
+          "label": "D",
+          "text": "so many American soldiers were"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "were so many American soldiers",
+      "explanation": "Esta frase comienza con la expresión negativa «Solo...». Para que la frase esté completa, es necesario que, tras la expresión negativa introductoria, aparezcan un sujeto invertido y un verbo auxiliar en pasiva. La opción (B) es la respuesta correcta, ya que contiene el sujeto invertido y el verbo auxiliar en pasiva «were so many American soldiers». A las respuestas A y C les falta un verbo, y la opción (D) contiene un sujeto y un verbo que no están invertidos, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0217",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Noun Clauses",
+      "question": "A collision with another galaxy may be what __________, the Milky Way, may experience.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Earth's galaxy is"
+        },
+        {
+          "label": "B",
+          "text": "is Earth's galaxy"
+        },
+        {
+          "label": "C",
+          "text": "Earth's galaxy"
+        },
+        {
+          "label": "D",
+          "text": "for Earth's galaxy"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "Earth's galaxy",
+      "explanation": "Esta frase contiene la oración principal «Una colisión... podría ser...» y el conector interrogativo «qué». Para que la frase esté completa, es necesario que haya un sujeto después del conector. La opción (C) es la respuesta correcta, ya que contiene el sujeto «la galaxia de la Tierra». Las respuestas A y B contienen cada una un verbo de más, y la opción (D) contiene una locución preposicional, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0218",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Conditionals",
+      "question": "Should __________ help keeping their weight, blood pressure, pulse, and cholesterol down, swimming is an excellent activity.",
+      "options": [
+        {
+          "label": "A",
+          "text": "adults need"
+        },
+        {
+          "label": "B",
+          "text": "needy adults"
+        },
+        {
+          "label": "C",
+          "text": "to need"
+        },
+        {
+          "label": "D",
+          "text": "need adults"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "adults need",
+      "explanation": "Esta frase contiene una oración principal («nadar es...») y una oración condicional invertida incompleta («Debería...»). Para que la frase esté completa, necesita un sujeto y un verbo principal. La opción (A) es la respuesta correcta porque contiene un sujeto y un verbo principal («los adultos necesitan»). A la opción (B) le falta un verbo; la opción (C) contiene un infinitivo, y la opción (D) presenta el sujeto y el verbo invertidos, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0219",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Conditionals",
+      "question": "Daylight saving time seems to reduce people's exposure to crime, so were people to get home from work and school and complete more errands and chores in daylight, __________ safer.",
+      "options": [
+        {
+          "label": "A",
+          "text": "for being"
+        },
+        {
+          "label": "B",
+          "text": "to be"
+        },
+        {
+          "label": "C",
+          "text": "they"
+        },
+        {
+          "label": "D",
+          "text": "they would be"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "they would be",
+      "explanation": "Esta frase contiene una oración principal («El horario de verano parece reducir...»), una oración condicional invertida completa («si la gente...») y una oración principal incompleta («...más seguro»). Para que esta frase esté completa, necesita un sujeto y un verbo en la segunda oración principal. La opción (D) es la respuesta correcta porque contiene un sujeto y un verbo («serían»). La opción (A) contiene una locución preposicional, la opción (B) contiene un infinitivo y a la opción (C) le falta un verbo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0220",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Inversions",
+      "question": "Scarcely __________ started building his theme park when he launched his first television program titled Disneyland.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Walt Disney"
+        },
+        {
+          "label": "B",
+          "text": "Walt Disney had"
+        },
+        {
+          "label": "C",
+          "text": "had Walt Disney"
+        },
+        {
+          "label": "D",
+          "text": "Walt Disney was"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "had Walt Disney",
+      "explanation": "Esta frase comienza con la expresión negativa «Scarcely». Para que la frase esté completa, es necesario que, tras la expresión negativa introductoria, aparezca un sujeto invertido y un verbo auxiliar en forma activa. La opción (C) es la respuesta correcta porque contiene un sujeto invertido y un verbo auxiliar en forma activa: «had Walt Disney». A la opción (A) le falta un verbo; la opción (B) contiene un sujeto y un verbo auxiliar en forma activa que no están invertidos, y la opción (D) contiene un verbo auxiliar en forma pasiva, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0221",
+      "type": "A",
+      "difficulty": "Hard",
+      "category": "Conditionals",
+      "question": "Orthopedic and sports medicine specialists now realize that __________ people to get prolonged bed rest for acute and chronic back problems, they would heal less quickly.",
+      "options": [
+        {
+          "label": "A",
+          "text": "were"
+        },
+        {
+          "label": "B",
+          "text": "if"
+        },
+        {
+          "label": "C",
+          "text": "the"
+        },
+        {
+          "label": "D",
+          "text": "of"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "were",
+      "explanation": "Esta frase contiene una oración principal... «los especialistas se dan cuenta ahora», una oración condicional invertida incompleta... «la gente...», y una oración sustantiva que... «ellos curarían...». Para que esta frase esté completa, es necesario añadir un verbo en la oración condicional invertida. La opción (A) es la respuesta correcta porque contiene el verbo «were». La opción (B) contiene un conector, la opción (C) contiene un artículo y la opción (D) contiene una preposición, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0222",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Independent Clauses",
+      "question": "The radiation piercing the atmosphere __________ of tanning or burning in humans.",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is the cause"
+        },
+        {
+          "label": "B",
+          "text": "causing it"
+        },
+        {
+          "label": "C",
+          "text": "is the cause"
+        },
+        {
+          "label": "D",
+          "text": "the cause"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "is the cause",
+      "explanation": "Esta frase contiene un sujeto («radiación»), pero le falta un verbo; «piercing» es un participio presente utilizado como adjetivo y no es el verbo. La opción (C) es la respuesta correcta porque contiene el verbo «is». La opción (A) contiene un sujeto de más, la opción (B) contiene un participio presente y la opción (D) contiene un sustantivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0223",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Verb Problems",
+      "question": "The tea plant, an evergreen shrub pruned to three to five feet high, ___________ mild, semitropical climate in which to grow.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the need for"
+        },
+        {
+          "label": "B",
+          "text": "it needs"
+        },
+        {
+          "label": "C",
+          "text": "to need"
+        },
+        {
+          "label": "D",
+          "text": "needs a"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "needs a",
+      "explanation": "Esta frase contiene un sujeto —la planta del té—, pero le falta un verbo; «pruned» es un participio pasado utilizado como adjetivo y no es el verbo. La opción (D) es la respuesta correcta porque contiene el verbo «needs». La opción (A) contiene un sustantivo, la opción (B) contiene un sujeto de más y la opción (C) contiene un infinitivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0224",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Appositives",
+      "question": "___________, an author probably most famous for his tales of terror, also dabbled in some science fiction.",
+      "options": [
+        {
+          "label": "A",
+          "text": "To Edgar Allen Poe"
+        },
+        {
+          "label": "B",
+          "text": "Edgar Allen Poe"
+        },
+        {
+          "label": "C",
+          "text": "Edgar Allen Poe was"
+        },
+        {
+          "label": "D",
+          "text": "For Edgar Allen Poe to be"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "Edgar Allen Poe",
+      "explanation": "Esta frase contiene el verbo «dabbled», pero le falta un sujeto; las comas indican que «author» es un apositivo y no el sujeto. La opción (B) es la respuesta correcta porque contiene el sujeto «Edgar Allan Poe». Las opciones A y D contienen cada una una locución preposicional, y la opción (C) contiene un verbo de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0225",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Verb Problems",
+      "question": "Humans living at high elevations __________ to the lower level of oxygen in the air by producing more red blood corpuscles.",
+      "options": [
+        {
+          "label": "A",
+          "text": "adjust"
+        },
+        {
+          "label": "B",
+          "text": "to adjust"
+        },
+        {
+          "label": "C",
+          "text": "the adjustment"
+        },
+        {
+          "label": "D",
+          "text": "adjusting"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "adjust",
+      "explanation": "Esta frase contiene el sujeto «Humans», pero le falta un verbo; «living» es un participio presente que se utiliza como adjetivo y no es el verbo. La opción (A) es la respuesta correcta porque contiene el verbo «adjust». La opción (B) contiene un infinitivo, la opción (C) contiene un sustantivo y la opción (D) contiene un participio presente, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0226",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Verb Problems",
+      "question": "By 1870, over 30 nations ___________ their own postage stamps.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the issue"
+        },
+        {
+          "label": "B",
+          "text": "were issuing"
+        },
+        {
+          "label": "C",
+          "text": "issuing"
+        },
+        {
+          "label": "D",
+          "text": "they issued"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "were issuing",
+      "explanation": "Esta frase contiene el sujeto «naciones», pero le falta un verbo. La opción (B) es la respuesta correcta porque contiene el verbo «were issuing». La opción (A) contiene un sustantivo, la opción (C) contiene un participio presente y la opción (D) contiene un sujeto de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0227",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Verb Problems",
+      "question": "The Statue of Liberty, completed in Paris in 1884, __________ in New York Harbor in 1886.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the unveiling"
+        },
+        {
+          "label": "B",
+          "text": "to unveil"
+        },
+        {
+          "label": "C",
+          "text": "it unveiled"
+        },
+        {
+          "label": "D",
+          "text": "was unveiled"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "was unveiled",
+      "explanation": "Esta frase contiene un sujeto («Estatua de la Libertad»), pero le falta un verbo; «completed» es un participio pasado utilizado como adjetivo y no es el verbo. La opción (D) es la respuesta correcta porque contiene el verbo «was unveiled». La opción (A) contiene un sustantivo, la opción (B) contiene un infinitivo y la opción (C) contiene un sujeto de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0228",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Verb Problems",
+      "question": "The Mayflower Compact, signed by the Pilgrims upon their arrival in Massachusetts in 1620, ___________ their political and religious beliefs.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the statement of"
+        },
+        {
+          "label": "B",
+          "text": "stating"
+        },
+        {
+          "label": "C",
+          "text": "with a statement of"
+        },
+        {
+          "label": "D",
+          "text": "stated"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "stated",
+      "explanation": "Esta frase contiene un sujeto («Mayflower Compact»), pero le falta un verbo; «signed» es un participio pasado utilizado como adjetivo y no es el verbo. La opción (D) es la respuesta correcta porque contiene el verbo indicado. La opción (A) contiene un sustantivo, la opción (B) contiene un participio presente y la opción (C) contiene una locución preposicional, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0229",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Independent Clauses",
+      "question": "___________ runs parallel to the coast of California for more than 600 miles.",
+      "options": [
+        {
+          "label": "A",
+          "text": "The San Andreas Fault is long"
+        },
+        {
+          "label": "B",
+          "text": "On the San Andreas Fault"
+        },
+        {
+          "label": "C",
+          "text": "The San Andreas Fault"
+        },
+        {
+          "label": "D",
+          "text": "Along the San Andreas Fault"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "The San Andreas Fault",
+      "explanation": "Esta frase contiene el verbo «runs», pero le falta un sujeto. La opción (C) es la respuesta correcta porque contiene el sujeto «Falla de San Andrés». La opción (A) contiene un verbo de más, y las respuestas B y D contienen cada una una locución preposicional, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0230",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Appositives",
+      "question": "__________, Jesse Owens won four gold medals at the 1936 Olympics in Berlin.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Excellent speed and running ability"
+        },
+        {
+          "label": "B",
+          "text": "The outstanding track athlete runs"
+        },
+        {
+          "label": "C",
+          "text": "An outstanding track athlete"
+        },
+        {
+          "label": "D",
+          "text": "He had excellent speed and running ability"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "An outstanding track athlete",
+      "explanation": "Esta frase contiene un sujeto, «Jesse Owens», y un verbo, «ganó»; se puede añadir un apositivo antes de la coma. La opción (C) es la respuesta correcta porque contiene el apositivo «atleta de pista». La opción (A) contiene un apositivo que no tiene sentido aplicado a una persona, y las opciones B y D contienen cada una un sujeto y un verbo de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0231",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Participial Phrases",
+      "question": "Thomas Jefferson, __________ a personally designed and constructed lap-top desk, wrote the Declaration of Independence in the summer of 1776.",
+      "options": [
+        {
+          "label": "A",
+          "text": "he used"
+        },
+        {
+          "label": "B",
+          "text": "had used"
+        },
+        {
+          "label": "C",
+          "text": "the use of"
+        },
+        {
+          "label": "D",
+          "text": "using"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "using",
+      "explanation": "Esta frase contiene un sujeto, «Thomas Jefferson», y un verbo, «escribió»; tras el sujeto se puede utilizar un participio presente. La opción (D) es la respuesta correcta porque contiene el participio presente «using». La opción (A) contiene un sujeto y un verbo de más, la opción (B) contiene un verbo de más y la opción (C) contiene un apositivo que no tiene sentido aplicado a una persona, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0232",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Adverb Clauses",
+      "question": "Parent flamingos lose their intense pink coloring until __________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "weaning young"
+        },
+        {
+          "label": "B",
+          "text": "their youths"
+        },
+        {
+          "label": "C",
+          "text": "they wean their young"
+        },
+        {
+          "label": "D",
+          "text": "young"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "they wean their young",
+      "explanation": "Esta frase contiene una oración principal —«Los flamencos adultos pierden...»— y una oración adverbial incompleta —«hasta que...». La oración adverbial necesita un sujeto y un verbo para estar completa. La opción (C) es la respuesta correcta porque contiene el sujeto y el verbo «los destetan». La opción (A) contiene un participio presente, a la opción (B) le falta un verbo y la opción (D) contiene un adjetivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0233",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Conjunctions",
+      "question": "Champagne can be purchased by the balthazar, __________ cannot be purchased in this amount.",
+      "options": [
+        {
+          "label": "A",
+          "text": "brandy"
+        },
+        {
+          "label": "B",
+          "text": "but"
+        },
+        {
+          "label": "C",
+          "text": "because brandy"
+        },
+        {
+          "label": "D",
+          "text": "but brandy"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "but brandy",
+      "explanation": "Esta frase contiene una oración principal completa —«El champán se puede comprar...»— y una oración principal incompleta —«...no se puede comprar...». La oración incompleta necesita un sujeto y un conector de coordinación para completarse. La opción (D) es la respuesta correcta porque contiene el conector «pero» y el sujeto «brandy». A la opción (A) le falta un conector de coordinación, a la opción (B) le falta un sujeto y la opción (C) contiene un conector adverbial, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0234",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Adverb Clauses",
+      "question": "__________ long enough, every Down's syndrome individual gets Alzheimer's disease.",
+      "options": [
+        {
+          "label": "A",
+          "text": "The person lives"
+        },
+        {
+          "label": "B",
+          "text": "If the person living"
+        },
+        {
+          "label": "C",
+          "text": "If the person lives"
+        },
+        {
+          "label": "D",
+          "text": "Because the life"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "If the person lives",
+      "explanation": "Esta frase contiene una oración principal completa —«todas las personas con síndrome de Down tienen...»— y una oración adverbial incompleta —«...el tiempo suficiente». La oración adverbial necesita un conector, un sujeto y un verbo para estar completa. La opción (C) es la respuesta correcta porque contiene el conector «si», el sujeto «persona» y el verbo «vive». A la opción (A) le falta un conector, la opción (B) contiene un participio presente y a la opción (D) le falta un verbo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0235",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Independent Clauses",
+      "question": "A little fat is essential for humans __________ retain body heat, gives muscles energy, and keeps skin soft.",
+      "options": [
+        {
+          "label": "A",
+          "text": "as it helps"
+        },
+        {
+          "label": "B",
+          "text": "although it"
+        },
+        {
+          "label": "C",
+          "text": "it helps"
+        },
+        {
+          "label": "D",
+          "text": "in helping"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "as it helps",
+      "explanation": "Esta frase tiene una oración principal completa —«Un poco de grasa es esencial...»— y una oración adverbial incompleta —«...mantiene el calor corporal, aporta energía a los músculos y mantiene la piel suave». La oración adverbial necesita un sujeto y un conector para estar completa. La opción (A) es la respuesta correcta porque contiene el conector «as» y el sujeto «it». La opción (B) contiene un sujeto que no concuerda con el verbo «retain». A la opción (C) le falta un conector, y la opción (D) contiene una locución preposicional, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0236",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Independent Clauses",
+      "question": "Further changes in the celestial constellations __________ the International Astronomical Union has been formed.",
+      "options": [
+        {
+          "label": "A",
+          "text": "are unlikely now that"
+        },
+        {
+          "label": "B",
+          "text": "unlikely whenever"
+        },
+        {
+          "label": "C",
+          "text": "are unlikely"
+        },
+        {
+          "label": "D",
+          "text": "they are unlikely"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "are unlikely now that",
+      "explanation": "Esta frase tiene una oración principal incompleta —«Más cambios...»— y una oración adverbial —«Se ha constituido la Unión Astronómica Internacional». La oración principal necesita un verbo para estar completa, y las dos oraciones necesitan un conector que las una. La opción (A) es la respuesta correcta porque contiene el verbo «son» y el conector «ahora que». A la opción (B) le falta un verbo, y a las opciones C y D les falta un conector, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0237",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Verb Problems",
+      "question": "Caffeine is primarily consumed in coffee and tea, __________ also found in cocoa, cola, and other soft drinks.",
+      "options": [
+        {
+          "label": "A",
+          "text": "but"
+        },
+        {
+          "label": "B",
+          "text": "but it"
+        },
+        {
+          "label": "C",
+          "text": "but it is"
+        },
+        {
+          "label": "D",
+          "text": "it is"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "but it is",
+      "explanation": "Esta frase contiene una oración principal completa «La cafeína se... consume...» y una oración principal incompleta «...también se encuentra en...». La oración incompleta necesita un sujeto y un verbo auxiliar para completarse, y la frase necesita un conector de coordinación para unir las dos oraciones. La opción (C) es la respuesta correcta porque contiene el sujeto «it», el verbo auxiliar «is» y el conector de coordinación «but». A la opción (A) le falta un sujeto y un verbo auxiliar, a la opción (B) le falta un verbo auxiliar y a la opción (D) le falta un conector de coordinación, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0238",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Noun Clauses",
+      "question": "__________ farmers extra hours of light by which to harvest crops before frost and winter come.",
+      "options": [
+        {
+          "label": "A",
+          "text": "The harvest moon"
+        },
+        {
+          "label": "B",
+          "text": "Whenever the harvest moon allows"
+        },
+        {
+          "label": "C",
+          "text": "During the harvest moon"
+        },
+        {
+          "label": "D",
+          "text": "The harvest moon gives"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "The harvest moon gives",
+      "explanation": "Esta frase contiene una oración adverbial completa antes de «lleguen las heladas y el invierno» y una oración principal incompleta... «a los agricultores horas extra de luz...». La oración principal necesita un sujeto y un verbo para estar completa. La opción (D) es la respuesta correcta porque contiene el sujeto «La luna de la cosecha» y el verbo «da». A la opción (A) le falta un verbo, la opción (B) contiene un conector de cláusula nominal de más, y la opción (C) contiene una locución preposicional, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0239",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Adjective Clauses",
+      "question": "__________ built in 1931, the Empire State Building has actually shrunk six inches.",
+      "options": [
+        {
+          "label": "A",
+          "text": "It was"
+        },
+        {
+          "label": "B",
+          "text": "Because it"
+        },
+        {
+          "label": "C",
+          "text": "Until it was"
+        },
+        {
+          "label": "D",
+          "text": "Since it was"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "Since it was",
+      "explanation": "Esta frase contiene una oración principal completa —«El Empire State Building se ha encogido realmente...»— y una oración adverbial incompleta —«...construido en 1931». La oración adverbial necesita un conector temporal, un sujeto y un verbo auxiliar para estar completa. La opción (D) es la respuesta correcta porque contiene el conector «Since», el sujeto «it» y el verbo auxiliar «was». A la opción (A) le falta un conector, a la opción (B) le falta un verbo y la opción (C) contiene un conector de cláusula adverbial, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0240",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Adjective Clauses",
+      "question": "Galileo's observations of the phases of Venus proved __________ formed the center of the planetary system.",
+      "options": [
+        {
+          "label": "A",
+          "text": "that the Sun"
+        },
+        {
+          "label": "B",
+          "text": "the Sun is"
+        },
+        {
+          "label": "C",
+          "text": "it is the Sun"
+        },
+        {
+          "label": "D",
+          "text": "what is the Sun"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "that the Sun",
+      "explanation": "Esta frase tiene una oración principal —«Las observaciones de Galileo... demostraron...»— y una oración sustantiva incompleta —«...constituían el centro...». La oración sustantiva necesita un conector y un sujeto para estar completa. La opción (A) es la respuesta correcta porque contiene el conector «que» y el sujeto «el Sol». A las respuestas (B) y (C) les falta un conector de oración sustantiva, y la opción (D) tiene el sujeto y el verbo invertidos, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0241",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Noun Clauses",
+      "question": "Skin color is determined by a chemical called melanin, __________ in greater or lesser amounts.",
+      "options": [
+        {
+          "label": "A",
+          "text": "which human skin contains"
+        },
+        {
+          "label": "B",
+          "text": "human skin contains"
+        },
+        {
+          "label": "C",
+          "text": "in human skin contains"
+        },
+        {
+          "label": "D",
+          "text": "there is in human skin"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "which human skin contains",
+      "explanation": "Esta frase contiene una oración principal —«El color de la piel viene determinado...»— y una oración adjetiva incompleta —«...en mayor o menor medida»—. Para que la oración adjetiva esté completa, necesita un conector, un sujeto y un verbo. La opción (A) es la respuesta correcta porque contiene el conector «que», el sujeto «la piel humana» y el verbo «contiene». A las respuestas B, C y D les falta un conector, por lo que son incorrectas."
+    },
+    {
+      "id": "A0242",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Noun Clauses",
+      "question": "Historical records __________ were used in China for centuries before spreading to Europe.",
+      "options": [
+        {
+          "label": "A",
+          "text": "suggesting that fireworks"
+        },
+        {
+          "label": "B",
+          "text": "fireworks"
+        },
+        {
+          "label": "C",
+          "text": "that fireworks"
+        },
+        {
+          "label": "D",
+          "text": "suggest that fireworks"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "suggest that fireworks",
+      "explanation": "Esta frase contiene una oración principal incompleta («Los registros históricos...») y una oración sustantiva incompleta («...se utilizaron...»). La oración principal necesita un verbo, y la oración sustantiva necesita un sujeto y un conector para que la frase esté completa. La opción (D) es la respuesta correcta porque contiene el verbo «sugerir» de la oración principal, el conector «que» y el sujeto «fuegos artificiales» de la oración sustantiva. La opción (A) tiene un verbo incompleto, a la opción (B) le falta un conector y a la opción (C) le falta un verbo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0243",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Participial Phrases",
+      "question": "The first mention of the cultivation of tea __________ in a Chinese dictionary which dates about the year 350.",
+      "options": [
+        {
+          "label": "A",
+          "text": "finding"
+        },
+        {
+          "label": "B",
+          "text": "to be found"
+        },
+        {
+          "label": "C",
+          "text": "it is found"
+        },
+        {
+          "label": "D",
+          "text": "can be found"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "can be found",
+      "explanation": "Esta frase tiene una oración principal incompleta —«La primera mención...»— y una oración adjetiva que se remonta a... La oración principal necesita un verbo para que la frase esté completa. La opción (D) es la respuesta correcta porque contiene el verbo «se puede encontrar». La opción (A) tiene un verbo incompleto, la opción (B) tiene un infinitivo y la opción (C) tiene un sujeto de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0244",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Adjective Clauses",
+      "question": "__________ global climate is warming has been well documented.",
+      "options": [
+        {
+          "label": "A",
+          "text": "There is the"
+        },
+        {
+          "label": "B",
+          "text": "It is the"
+        },
+        {
+          "label": "C",
+          "text": "The"
+        },
+        {
+          "label": "D",
+          "text": "That the"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "That the",
+      "explanation": "Esta frase contiene una oración sustantiva incompleta... «el clima global se está calentando», ya que el sujeto del verbo «ha sido». El sujeto de la oración sustantiva necesita un conector para estar completo. La opción (D) es la respuesta correcta porque contiene el conector de la oración sustantiva «That». A las respuestas A, B y C les falta un conector de oración sustantiva, por lo que son incorrectas."
+    },
+    {
+      "id": "A0245",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Noun Clauses",
+      "question": "Bank employees collect worn-out dollar bills, __________ to a central office to be destroyed in a furnace.",
+      "options": [
+        {
+          "label": "A",
+          "text": "who send them"
+        },
+        {
+          "label": "B",
+          "text": "which are sent"
+        },
+        {
+          "label": "C",
+          "text": "who are sent"
+        },
+        {
+          "label": "D",
+          "text": "are sent"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "which are sent",
+      "explanation": "Esta frase tiene una oración principal «Los empleados del banco recogen...» y una oración adjetiva incompleta «...a una oficina central...». La oración adjetiva necesita un conector, un sujeto y un verbo para estar completa. La opción (B) es la respuesta correcta porque contiene el conector/sujeto «which» y el verbo «are sent». Las respuestas A y C contienen cada una un conector/sujeto personal, «which», que no concuerda con el sustantivo no personal «bills de dólar», y a la opción (D) le falta un conector/sujeto, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0246",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Participial Phrases",
+      "question": "The blue-ringed octopus, __________ found in tropical lagoons, is so venomous that it can paralyze or kill a person in a matter of minutes.",
+      "options": [
+        {
+          "label": "A",
+          "text": "is"
+        },
+        {
+          "label": "B",
+          "text": "who is"
+        },
+        {
+          "label": "C",
+          "text": "that"
+        },
+        {
+          "label": "D",
+          "text": "which is"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "which is",
+      "explanation": "Esta frase tiene una oración principal completa: «El pulpo de anillos azules... es...» y una oración adjetiva incompleta: «...que se encuentra en...». La oración adjetiva necesita un conector, un sujeto y un verbo auxiliar para estar completa. La opción (D) es la respuesta correcta porque contiene el conector/sujeto «which» y el verbo auxiliar «is». A la opción (A) le falta un conector y un sujeto; la opción (B) contiene un conector/sujeto personal, «which», que no concuerda con el sustantivo no personal «octopus»; y a la opción (C) le falta un verbo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0247",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Noun Clauses",
+      "question": "__________ floats or sinks is determined by its density rather than its weight.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Whether an object"
+        },
+        {
+          "label": "B",
+          "text": "An object if it"
+        },
+        {
+          "label": "C",
+          "text": "Because an object"
+        },
+        {
+          "label": "D",
+          "text": "An object"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "Whether an object",
+      "explanation": "Esta frase tiene una oración sustantiva incompleta... «flota o se hunde», ya que el sujeto del verbo está determinado. La oración sustantiva necesita un conector y un sujeto para estar completa. La opción (A) es la respuesta correcta porque contiene el conector «Whether» y el sujeto «object». La opción (B) contiene un sujeto de más, la opción (C) contiene un conector de cláusula adverbial en lugar de un conector de cláusula nominal, y a la opción (D) le falta un conector de cláusula nominal, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0248",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Noun Clauses",
+      "question": "Bees perform a complex dance __________ other bees about the location of a good source of nectar.",
+      "options": [
+        {
+          "label": "A",
+          "text": "tells"
+        },
+        {
+          "label": "B",
+          "text": "tell"
+        },
+        {
+          "label": "C",
+          "text": "it tells"
+        },
+        {
+          "label": "D",
+          "text": "that tells"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "that tells",
+      "explanation": "Esta frase contiene una oración principal completa («Las abejas realizan...») y una oración adjetiva incompleta («...otras abejas»). Para que la oración adjetiva esté completa, necesita un conector, un sujeto y un verbo. La opción (D) es la respuesta correcta porque contiene el conector/sujeto «que» y el verbo «dice». A las respuestas A y B les falta un conector o un sujeto, y a la opción (C) le falta un conector, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0249",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Adjective Clauses",
+      "question": "Some radioisotopes which __________ as radioactive waste are now being used in experimental cancer therapies.",
+      "options": [
+        {
+          "label": "A",
+          "text": "once discarded by scientists"
+        },
+        {
+          "label": "B",
+          "text": "scientists discarded"
+        },
+        {
+          "label": "C",
+          "text": "to discard by scientists"
+        },
+        {
+          "label": "D",
+          "text": "were discarded scientists"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "scientists discarded",
+      "explanation": "Esta frase contiene una oración principal —Algunos radioisótopos... se están utilizando actualmente...— y una oración adjetiva incompleta que... La oración adjetiva necesita un sujeto y un verbo para estar completa. La opción (B) es la respuesta correcta porque contiene el sujeto «científicos» y el verbo «descartados». A la opción (A) le falta el verbo auxiliar «were», la opción (C) contiene un infinitivo y a la opción (D) le falta «by» después del verbo en pasiva, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0250",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Noun Clauses",
+      "question": "Although seismologists know __________, they are unable to predict with accuracy when or where a tremor might occur.",
+      "options": [
+        {
+          "label": "A",
+          "text": "what causes earthquakes"
+        },
+        {
+          "label": "B",
+          "text": "what earthquakes"
+        },
+        {
+          "label": "C",
+          "text": "causes earthquakes"
+        },
+        {
+          "label": "D",
+          "text": "that the quaking of the Earth"
+        }
+      ],
+      "correct_index": 0,
+      "correct_label": "A",
+      "correct_answer": "what causes earthquakes",
+      "explanation": "Esta frase contiene una oración principal «no son capaces de...» y una oración adverbial incompleta «Aunque los sismólogos saben...», que necesita un complemento directo para completarse. Se puede utilizar una oración sustantiva como complemento directo de «saben», y una oración sustantiva necesita un conector, un sujeto y un verbo. La opción (A) es la respuesta correcta porque contiene el conector/sujeto «lo que» y el verbo «provoca». A las respuestas B y D les falta un verbo, y a la opción (C) le faltan un conector y un sujeto, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0251",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Prepositional Phrases",
+      "question": "The abundant grain harvests of North America can be credited to Norman Borlag, a little-known scientist __________ modern strains of high-yield wheat.",
+      "options": [
+        {
+          "label": "A",
+          "text": "which cultivated"
+        },
+        {
+          "label": "B",
+          "text": "cultivated"
+        },
+        {
+          "label": "C",
+          "text": "who cultivated"
+        },
+        {
+          "label": "D",
+          "text": "the cultivation of"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "who cultivated",
+      "explanation": "Esta frase tiene una oración principal completa —«las cosechas de cereales»... «se pueden atribuir»...— y una oración adjetiva incompleta —«variedades modernas»...—. La oración adjetiva necesita un conector, un sujeto y un verbo para estar completa. La opción (C) es la respuesta correcta porque contiene el conector/sujeto «who» y el verbo «cultivated». La opción (A) contiene un sujeto/conector impersonal que no concuerda con el sustantivo personal «scientist»; a la opción (B) le falta un conector o un sujeto, y a la opción (D) le falta un conector o un verbo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0252",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Reduced Adverb Clauses Correctly",
+      "question": "Unless __________ as injury-free as possible, older athletes can have their activity and quality of life affected.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the remnants of"
+        },
+        {
+          "label": "B",
+          "text": "to remain"
+        },
+        {
+          "label": "C",
+          "text": "remaining"
+        },
+        {
+          "label": "D",
+          "text": "remain"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "remaining",
+      "explanation": "Esta frase contiene una oración principal completa —«los deportistas de más edad pueden tener...»— y una oración adverbial reducida e incompleta —«A menos que...». Esta oración adverbial reducida e incompleta necesita un verbo reducido para completarse. La opción (C) es la respuesta correcta porque contiene el verbo reducido «remaining». La opción (A) contiene un sustantivo, la opción (B) contiene un infinitivo y la opción (D) contiene un verbo no reducido, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0253",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Reduced Adverb Clauses Correctly",
+      "question": "After __________ seven years to journey to Saturn, the spacecraft Cassini will spend four years exploring Saturn, its rings, and its icy moons.",
+      "options": [
+        {
+          "label": "A",
+          "text": "takes"
+        },
+        {
+          "label": "B",
+          "text": "taken"
+        },
+        {
+          "label": "C",
+          "text": "was taken"
+        },
+        {
+          "label": "D",
+          "text": "taking"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "taking",
+      "explanation": "Esta frase contiene una oración principal completa —la nave espacial {Cassini} pasará...— y una oración adverbial reducida e incompleta —después de...—. Esta oración adverbial reducida e incompleta necesita un verbo activo reducido para completarse. La opción (D) es la respuesta correcta, ya que contiene el verbo reducido «taking». Las respuestas A y C contienen cada una un verbo no reducido, y la opción (B) contiene un verbo pasivo reducido, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0254",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Reduced Adverb Clauses Correctly",
+      "question": "While __________ those who are not working members of the press, press pins provide access to a press box for media members.",
+      "options": [
+        {
+          "label": "A",
+          "text": "kept out"
+        },
+        {
+          "label": "B",
+          "text": "keeping out"
+        },
+        {
+          "label": "C",
+          "text": "the keeper"
+        },
+        {
+          "label": "D",
+          "text": "was kept out"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "keeping out",
+      "explanation": "Esta frase contiene una oración principal completa («los alfileres de presión proporcionan...») y una oración adverbial reducida e incompleta («Mientras que...»). Esta oración adverbial reducida e incompleta necesita un verbo activo reducido para completarse. La opción (B) es la respuesta correcta porque contiene el verbo reducido «mantener fuera». La opción (A) contiene un verbo pasivo reducido, la opción (C) contiene un sustantivo y la opción (D) contiene un verbo no reducido, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0255",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Verbs",
+      "question": "If introduced into avocado groves, the seed and stem weevils, seed moth, and fruit fly __________ the avocado industry in California.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the ending"
+        },
+        {
+          "label": "B",
+          "text": "may end"
+        },
+        {
+          "label": "C",
+          "text": "to end"
+        },
+        {
+          "label": "D",
+          "text": "they will end"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "may end",
+      "explanation": "Esta frase contiene una proposición adverbial reducida completa —«Si se introduce...»— y una proposición principal incompleta —«los gorgojos de las semillas y del tallo, la polilla de las semillas y la mosca de la fruta...». Esta proposición principal incompleta necesita un verbo no reducido para completarse. La opción (B) es la respuesta correcta porque contiene el verbo no reducido «puede acabar». La opción (A) contiene un sustantivo, la opción (C) contiene un infinitivo y la opción (D) contiene un sujeto de más, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0256",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Reduced Adverb Clauses Correctly",
+      "question": "While __________, Chu developed a way of trapping thousands of gas atoms using lasers.",
+      "options": [
+        {
+          "label": "A",
+          "text": "to work at Bell Laboratories"
+        },
+        {
+          "label": "B",
+          "text": "working at Bell Laboratories"
+        },
+        {
+          "label": "C",
+          "text": "worked at Bell Laboratories"
+        },
+        {
+          "label": "D",
+          "text": "was working at Bell Laboratories"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "working at Bell Laboratories",
+      "explanation": "Esta frase contiene una oración principal completa («Chu desarrolló...») y una oración adverbial reducida e incompleta («Mientras...»). Esta oración adverbial reducida e incompleta necesita un verbo activo reducido para completarse. La opción (B) es la respuesta correcta porque contiene el verbo activo reducido «trabajando». La opción (A) contiene un infinitivo, la opción (C) contiene un verbo pasivo reducido y la opción (D) contiene un verbo no reducido, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0257",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Verbs",
+      "question": "Though racing toward the Milky Way galaxy at 300,000 miles an hour, the Andromeda galaxy __________ with the Milky Way for about five billion years.",
+      "options": [
+        {
+          "label": "A",
+          "text": "colliding"
+        },
+        {
+          "label": "B",
+          "text": "will not collide"
+        },
+        {
+          "label": "C",
+          "text": "to collide"
+        },
+        {
+          "label": "D",
+          "text": "the collision"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "will not collide",
+      "explanation": "Esta frase contiene una proposición adverbial reducida completa —«Aunque se dirijan a gran velocidad...»— y una proposición principal incompleta —«la galaxia de Andrómeda...». Esta proposición principal incompleta necesita un verbo no reducido para completarse. La opción (B) es la respuesta correcta porque contiene el verbo no reducido «no chocarán». La opción (A) contiene un verbo reducido, la opción (C) contiene un infinitivo y la opción (D) contiene un sustantivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0258",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Verbs",
+      "question": "In the halcyon days of the civil rights movement, a small group of dedicated lawyers, mostly black, __________ carefully craft the strategy that led to the destruction of legal segregation.",
+      "options": [
+        {
+          "label": "A",
+          "text": "which is able to"
+        },
+        {
+          "label": "B",
+          "text": "was able to"
+        },
+        {
+          "label": "C",
+          "text": "able to"
+        },
+        {
+          "label": "D",
+          "text": "were able"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "was able to",
+      "explanation": "Esta frase contiene una proposición adjetiva reducida completa («en su mayor parte negro») y una proposición principal incompleta («un pequeño grupo...»). Esta proposición principal incompleta necesita un verbo en singular para completarse. La opción (B) es la respuesta correcta porque contiene el verbo en singular «was». La opción (A) contiene un conector o sujeto de más y un tiempo verbal que no es lógico; la opción (C) contiene un adjetivo, y la opción (D) contiene un verbo en plural, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0259",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Be Sure the Sentence Has a Subject and a Verb",
+      "question": "There __________ launched in 1958 that fell back to Earth and burned up in the atmosphere.",
+      "options": [
+        {
+          "label": "A",
+          "text": "a lunar probe was"
+        },
+        {
+          "label": "B",
+          "text": "was a lunar probe"
+        },
+        {
+          "label": "C",
+          "text": "a lunar probe"
+        },
+        {
+          "label": "D",
+          "text": "with a lunar probe"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "was a lunar probe",
+      "explanation": "Esta frase comienza con la expresión de lugar «There». Para que la frase esté completa, es necesario que, tras la expresión de lugar introductoria, aparezcan el sujeto y el verbo invertidos. La opción (B) es la respuesta correcta, ya que contiene el sujeto y el verbo invertidos: «was a lunar probe». La opción (A) contiene un sujeto y un verbo que no están invertidos; a la opción (C) le falta un verbo; y la opción (D) contiene una frase preposicional, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0260",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Comparatives",
+      "question": "A motionless atom is colder than __________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "in the movement"
+        },
+        {
+          "label": "B",
+          "text": "to be moved"
+        },
+        {
+          "label": "C",
+          "text": "the atom moving"
+        },
+        {
+          "label": "D",
+          "text": "is a moving atom"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "is a moving atom",
+      "explanation": "Esta frase contiene una oración principal —«Un átomo inmóvil es»— y una expresión comparativa —«más frío que»—. Una expresión comparativa puede ir seguida de un sujeto y un verbo invertidos. La opción (D) es la respuesta correcta porque contiene un sujeto y un verbo invertidos: «es un átomo en movimiento». La opción (A) contiene una locución preposicional, la opción (B) contiene un infinitivo y la opción (C) contiene un verbo reducido, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0261",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Subject and a Verb",
+      "question": "There __________ called Epstein-Barr which leaves people feeling chronically fatigued and feeling as if they have a recurring case of the flu.",
+      "options": [
+        {
+          "label": "A",
+          "text": "a viral"
+        },
+        {
+          "label": "B",
+          "text": "in a disease"
+        },
+        {
+          "label": "C",
+          "text": "a virus is"
+        },
+        {
+          "label": "D",
+          "text": "is a virus"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "is a virus",
+      "explanation": "Esta frase comienza con la expresión de lugar «There». Para que la frase esté completa, es necesario que, tras la expresión de lugar introductoria, aparezcan el sujeto y el verbo invertidos. La opción (D) es la respuesta correcta, ya que contiene el sujeto y el verbo invertidos: «is a virus». La opción (A) contiene un adjetivo, la opción (B) contiene una locución preposicional y la opción (C) contiene un sujeto y un verbo que no están invertidos, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0262",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Comparatives",
+      "question": "Lifestyle is more important __________ in a person's lifespan.",
+      "options": [
+        {
+          "label": "A",
+          "text": "as genetics are"
+        },
+        {
+          "label": "B",
+          "text": "with genes"
+        },
+        {
+          "label": "C",
+          "text": "genetically"
+        },
+        {
+          "label": "D",
+          "text": "than are genetics"
+        }
+      ],
+      "correct_index": 3,
+      "correct_label": "D",
+      "correct_answer": "than are genetics",
+      "explanation": "Esta frase contiene una oración principal completa —«El estilo de vida es...»— y una expresión comparativa incompleta —«más importante...». Una expresión comparativa puede ir seguida de un sujeto y un verbo invertidos. La opción (D) es la respuesta correcta porque contiene parte de una comparación («que») y el sujeto y el verbo invertidos son «la genética». La opción (A) contiene un conector de más y el sujeto y el verbo no están invertidos; la opción (B) contiene una locución preposicional, y la opción (C) contiene un adverbio, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0263",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Inversions",
+      "question": "In the vessels of the vascular system of the giraffe __________ of valves that ensures a needed supply of blood to the head.",
+      "options": [
+        {
+          "label": "A",
+          "text": "are series"
+        },
+        {
+          "label": "B",
+          "text": "is serious"
+        },
+        {
+          "label": "C",
+          "text": "is a series"
+        },
+        {
+          "label": "D",
+          "text": "a series is"
+        }
+      ],
+      "correct_index": 2,
+      "correct_label": "C",
+      "correct_answer": "is a series",
+      "explanation": "Esta frase comienza con las expresiones de lugar «En los cuernos... de la jirafa». Para que la frase esté completa, es necesario que, tras las expresiones de lugar introductorias, aparezcan un sujeto y un verbo en singular invertidos. La opción (C) es la respuesta correcta porque contiene el sujeto y el verbo en singular invertidos, que forman una serie. La opción (A) contiene un sujeto y un verbo en plural invertidos; a la opción (B) le falta el sujeto; y la opción (D) contiene un sujeto y un verbo que no están invertidos, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0264",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Comparatives",
+      "question": "There has been a string of recent technology advances aimed at building new engines which are more clean and efficient than __________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "to engineer"
+        },
+        {
+          "label": "B",
+          "text": "are current engines"
+        },
+        {
+          "label": "C",
+          "text": "in engines currently"
+        },
+        {
+          "label": "D",
+          "text": "current"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "are current engines",
+      "explanation": "Esta frase contiene una oración principal —«Ha habido una serie...»— y una expresión comparativa —«más... que»—. Una expresión comparativa puede ir seguida de un sujeto y un verbo invertidos. La opción (B) es la respuesta correcta porque contiene un sujeto y un verbo invertidos: «los motores actuales». La opción (A) contiene un infinitivo, la opción (C) contiene una locución preposicional y la opción (D) contiene un adjetivo, por lo que estas respuestas son incorrectas."
+    },
+    {
+      "id": "A0265",
+      "type": "A",
+      "difficulty": "Medium",
+      "category": "Comparatives",
+      "question": "The hunting season for firearms is more restricted than __________ because hunting with firearms is more dangerous and less challenging.",
+      "options": [
+        {
+          "label": "A",
+          "text": "to season"
+        },
+        {
+          "label": "B",
+          "text": "is the archery season"
+        },
+        {
+          "label": "C",
+          "text": "for archery"
+        },
+        {
+          "label": "D",
+          "text": "is seasoning"
+        }
+      ],
+      "correct_index": 1,
+      "correct_label": "B",
+      "correct_answer": "is the archery season",
+      "explanation": "Esta frase contiene una oración principal —«La temporada de caza con armas de fuego es»— y una expresión comparativa «más... que». Una expresión comparativa puede ir seguida de un sujeto y un verbo invertidos. La opción (B) es la respuesta correcta porque contiene un sujeto y un verbo invertidos: «es la temporada de caza con arco». La opción (A) contiene un infinitivo, la opción (C) contiene una locución preposicional y la opción (D) contiene un verbo, por lo que estas respuestas son incorrectas."
+    }
+  ]
+}
