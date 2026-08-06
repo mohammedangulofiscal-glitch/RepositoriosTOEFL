@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "A0001",
+    "type": "A",
+    "question": "Dairy farming is __________ leading agricultural activity in the United States.",
+    "options": [
+      "a",
+      "at",
+      "then",
+      "none"
+    ],
+    "answer_index": 1,
+    "answer": "a",
+    "explanation": "Un sustantivo contable singular («activity») requiere un artículo; la opción correcta es «a», ya que precede a una palabra que comienza con un sonido consonántico («leading»). «The» daría a entender que el oyente ya sabe a qué actividad se refiere, lo cual no es el caso aquí.",
+    "category": "Articles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0002",
+    "type": "A",
+    "question": "Although thunder and lightening are produced at the same time, light waves travel faster __________, so we see the lightening before we hear the thunder.",
+    "options": [
+      "than sound waves do",
+      "than sound waves are",
+      "do sound waves",
+      "sound waves"
+    ],
+    "answer_index": 1,
+    "answer": "than sound waves do",
+    "explanation": "El espacio en blanco requiere un nexo comparativo, como «than soundwaves do» o simplemente «than sound», para completar la comparación «faster than». Sin él, la comparación carece de un segundo término y resulta gramaticalmente incompleta.",
+    "category": "Comparatives and Superlatives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0003",
+    "type": "A",
+    "question": "Beef cattle __________ of all livestock for economic growth in certain geographic regions.",
+    "options": [
+      "the most are important",
+      "are the most important",
+      "the most important are",
+      "that are the most important"
+    ],
+    "answer_index": 2,
+    "answer": "are the most important",
+    "explanation": "«Beef cattle» es un sustantivo plural que requiere un verbo en plural; la respuesta correcta es «are the most important» (o una frase verbal en superlativo similar). El superlativo «of all livestock» indica que se necesita una construcción comparativa o superlativa.",
+    "category": "Word Order",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0004",
+    "type": "A",
+    "question": "The discovery of the halftone process in photography in 1881 made it __________ photographs in books and newspapers.",
+    "options": [
+      "the possible reproduction",
+      "possible to reproduce",
+      "the possibility of reproducing",
+      "possibly reproduce"
+    ],
+    "answer_index": 2,
+    "answer": "possible to reproduce",
+    "explanation": "La estructura «make it \\+ adjetivo/posible \\+ infinitivo» requiere la forma «possible to reproduce» (infinitivo básico). La forma causativa «made it possible» lleva un complemento en infinitivo con «to», no un gerundio ni la forma básica sola.",
+    "category": "Infinitive and Gerund",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0005",
+    "type": "A",
+    "question": "__________ vastness of the Grand Canyon, it is difficult to capture it in a single photograph.",
+    "options": [
+      "While the",
+      "The",
+      "For the",
+      "Because of the"
+    ],
+    "answer_index": 4,
+    "answer": "Because of the",
+    "explanation": "La respuesta correcta es «Because of the» — «the vastness» requiere el artículo definido, ya que el sustantivo se refiere a una cualidad específica y única que ya se ha identificado (la inmensidad del Gran Cañón). La locución preposicional «because of» introduce la causa.",
+    "category": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0006",
+    "type": "A",
+    "question": "During the late fifteenth century, __________ of the native societies of America had professions in the fields of arts and crafts.",
+    "options": [
+      "only a few",
+      "a few but",
+      "few, but only",
+      "a few only"
+    ],
+    "answer_index": 1,
+    "answer": "only a few",
+    "explanation": "El espacio en blanco es una expresión partitiva que se utiliza como sujeto; la respuesta correcta es «many members» o «a large number of members», ya que «societies» es un sustantivo contable y la frase se refiere a individuos dentro de esas sociedades. Un cuantificador incontable o impreciso por sí solo sería gramaticalmente incorrecto.",
+    "category": "Word Order",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0007",
+    "type": "A",
+    "question": "The ponderosa pine is __________ of the most of the timber used by forestproduct firms in the Black Hills of South Dakota.",
+    "options": [
+      "the source",
+      "as source",
+      "the source which",
+      "because the source"
+    ],
+    "answer_index": 1,
+    "answer": "the source",
+    "explanation": "Después del verbo is, se necesita un complemento del sujeto que identifique o describa al sujeto. La expresión correcta es the source of..., una estructura fija que significa \"la fuente de...\".",
+    "category": "Articles",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0008",
+    "type": "A",
+    "question": "According to some educators, the goal of teaching is to help students learn what __________ to know to live a well-adjusted and successful life.",
+    "options": [
+      "do they need",
+      "they need",
+      "they are needed",
+      "as they may need"
+    ],
+    "answer_index": 2,
+    "answer": "they need",
+    "explanation": "Después del verbo learn, se utiliza una cláusula nominal con el orden normal de una oración afirmativa. La estructura correcta es what they need to know.",
+    "category": "Noun Clauses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0009",
+    "type": "A",
+    "question": "The sapphire’s transparency to ultraviolet and infrared radiation makes __________ in optical instruments.",
+    "options": [
+      "it is of use",
+      "it uses",
+      "it a useful",
+      "it useful"
+    ],
+    "answer_index": 4,
+    "answer": "it useful",
+    "explanation": "Después del verbo make, cuando significa \"hacer que algo sea...\", se utiliza un complemento del objeto formado por object \\+ adjective. La estructura correcta es makes it useful.",
+    "category": "Word Order",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0010",
+    "type": "A",
+    "question": "Mango trees, __________ densely covered with glossy leaves and bear small fragrant flowers, grow rapidly and can attain heights of up to 90 feet.",
+    "options": [
+      "whose",
+      "which are",
+      "are when",
+      "which"
+    ],
+    "answer_index": 2,
+    "answer": "which are",
+    "explanation": "El pronombre relativo which are introduce una cláusula relativa no restrictiva que añade información sobre Mango trees.",
+    "category": "Adjective Clauses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0011",
+    "type": "A",
+    "question": "__________ the Canadian composer Barbara Pentland wrote four symphonies, three concertos, and an opera, among other works.",
+    "options": [
+      "An artist who, prolific",
+      "Is a prolific artist",
+      "Prolific an artist",
+      "A prolific artist"
+    ],
+    "answer_index": 4,
+    "answer": "A prolific artist",
+    "explanation": "La frase A prolific artist es una aposición, que identifica a Barbara Pentland antes de mencionar sus logros, sin necesidad de añadir otro verbo.",
+    "category": "Appositives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0012",
+    "type": "A",
+    "question": "__________ many copper mines in the state of Arizona, a fact which contributes significantly to the state’s economy.",
+    "options": [
+      "They are",
+      "There are",
+      "Of the",
+      "The"
+    ],
+    "answer_index": 2,
+    "answer": "There are",
+    "explanation": "La estructura There are se utiliza para expresar la existencia de algo. La oración introduce correctamente la existencia de numerosas minas de cobre en Arizona.",
+    "category": "Independent Clauses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0013",
+    "type": "A",
+    "question": "Some snakes lay eggs, but others __________ birth to live offspring.",
+    "options": [
+      "give",
+      "giving",
+      "they give",
+      "to have given"
+    ],
+    "answer_index": 1,
+    "answer": "give",
+    "explanation": "El verbo give forma parte de la expresión fija give birth to, que significa \"dar a luz\". Como el sujeto es others (plural), el verbo debe ir en su forma base: others give birth....",
+    "category": "Verb Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0014",
+    "type": "A",
+    "question": "Because it was so closely related to communication, __________ art form to develop.",
+    "options": [
+      "drawing was probably the earliest",
+      "to draw early was probably",
+      "early drawing probably",
+      "the earliest draw"
+    ],
+    "answer_index": 1,
+    "answer": "drawing was probably the earliest",
+    "explanation": "Después del verbo was, se necesita un complemento del sujeto que identifique o describa al sujeto. La estructura correcta es drawing was probably the earliest art form to develop.",
+    "category": "Independent Clauses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0015",
+    "type": "A",
+    "question": "Halley's Comet had its first documented sighting in 240 B.C. in China and __________ it has been seen from the Earth 29 times.",
+    "options": [
+      "after",
+      "because of",
+      "since then",
+      "that is"
+    ],
+    "answer_index": 3,
+    "answer": "since then",
+    "explanation": "La expresión since then significa \"desde entonces\" y se utiliza con el presente perfecto para indicar una acción que comenzó en el pasado y continúa hasta el presente.",
+    "category": "Adverb Clauses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0016",
+    "type": "A",
+    "question": "__________ that managers commit in problem solving is jumping to a conclusion about the cause of a given problem.",
+    "options": [
+      "Major errors",
+      "Since the major error",
+      "The major error",
+      "Of the major errors"
+    ],
+    "answer_index": 3,
+    "answer": "The major error",
+    "explanation": "El sujeto de la oración es The major error, un sustantivo singular. Por ello, el verbo también debe estar en singular: The major error ... is....",
+    "category": "Independent Clauses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0017",
+    "type": "A",
+    "question": "Precious metals, gems, and ivory have been used to make buttons, but most buttons are made of __________ wood, glass, or plastic.",
+    "options": [
+      "such materials that",
+      "materials as such",
+      "such materials as",
+      "such materials"
+    ],
+    "answer_index": 3,
+    "answer": "such materials as",
+    "explanation": "La estructura such... as se utiliza para introducir ejemplos. La expresión correcta es such materials as wood, glass, or plastic.",
+    "category": "Prepositions",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0018",
+    "type": "A",
+    "question": "Portland, Maine, is __________ the poet Henry Wadsworth Longfellow spent his early years.",
+    "options": [
+      "where",
+      "it where",
+      "where is",
+      "which is where"
+    ],
+    "answer_index": 1,
+    "answer": "where",
+    "explanation": "El pronombre relativo where introduce una cláusula relativa para referirse a un lugar. La estructura correcta es Portland, Maine, is where..., indicando el lugar donde ocurrió la acción.",
+    "category": "Adverb Clauses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0019",
+    "type": "A",
+    "question": "As consumers' response to traditional advertising techniques declines, businesses are beginning __________ new methods of reaching customers.",
+    "options": [
+      "the development that",
+      "it developing",
+      "develop",
+      "to develop"
+    ],
+    "answer_index": 4,
+    "answer": "to develop",
+    "explanation": "Después del verbo begin, cuando significa \"empezar\", puede utilizarse un infinitivo. La estructura correcta es beginning to develop new methods.",
+    "category": "Infinitive and Gerund",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0020",
+    "type": "A",
+    "question": "The knee is __________ most other joints in the body because it cannot twist without injury.",
+    "options": [
+      "more likely to be damaged than",
+      "likely to be more than damaged",
+      "more than likely to be damaged",
+      "to be damaged more than likely"
+    ],
+    "answer_index": 1,
+    "answer": "more likely to be damaged than",
+    "explanation": "Cuando se comparan dos elementos utilizando un adjetivo largo, se emplea la estructura more \\+ adjective \\+ than. La forma correcta es more likely to be damaged than.",
+    "category": "Comparatives and Superlatives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0021",
+    "type": "A",
+    "question": "The quince is an attractive shrub or small tree __________ closely related to the apple and pear trees.",
+    "options": [
+      "is",
+      "that is",
+      "that it is",
+      "is that which"
+    ],
+    "answer_index": 2,
+    "answer": "that is",
+    "explanation": "El pronombre relativo that introduce una cláusula relativa que modifica al sustantivo shrub or small tree. La estructura correcta es a shrub or small tree that is closely related....",
+    "category": "Adjective Clauses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0022",
+    "type": "A",
+    "question": "Many gases, including the nitrogen and oxygen in air, __________ color or odor.",
+    "options": [
+      "have no",
+      "which have no",
+      "not having",
+      "they do not have"
+    ],
+    "answer_index": 1,
+    "answer": "have no",
+    "explanation": "El sujeto Many gases es plural, por lo que el verbo también debe ir en plural. La estructura correcta es Many gases have no color or odor.",
+    "category": "Independent Clauses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0023",
+    "type": "A",
+    "question": "Scientists believe the first inhabitants of the Americas arrived by crossing the land bridge that connected Siberia and __________ more than I 0,000 years ago.",
+    "options": [
+      "this is Alaska now",
+      "Alaska is now",
+      "is now Alaska",
+      "what is now Alaska"
+    ],
+    "answer_index": 4,
+    "answer": "what is now Alaska",
+    "explanation": "La expresión what is now Alaska es una cláusula nominal que significa \"lo que ahora es Alaska\". Se utiliza para referirse a un lugar cuyo nombre o condición actual es diferente del pasado.",
+    "category": "Noun Clauses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0024",
+    "type": "A",
+    "question": "Fibers of hair and wool are not continuous and must normally be spun into thread __________ woven into textile fabrics.",
+    "options": [
+      "as are they",
+      "when to be",
+      "that they are",
+      "If they are to be"
+    ],
+    "answer_index": 4,
+    "answer": "If they are to be",
+    "explanation": "La estructura if \\+ sujeto \\+ be \\+ infinitivo (if they are to be woven...) expresa una condición o requisito para que ocurra una acción.",
+    "category": "Adverb Clauses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0025",
+    "type": "A",
+    "question": "Margaret Brent, because of her skill in managing estates, became __________ largest landholders in colonial Maryland.",
+    "options": [
+      "what the",
+      "one of the",
+      "who the",
+      "the one that"
+    ],
+    "answer_index": 2,
+    "answer": "one of the",
+    "explanation": "Después de la expresión one of the, el sustantivo debe ir en plural. La estructura correcta es one of the largest landholders.",
+    "category": "Comparatives and Superlatives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0026",
+    "type": "A",
+    "question": "United States spends more money on advertising __________ country in the world.",
+    "options": [
+      "other",
+      "other than",
+      "than any other",
+      "while other"
+    ],
+    "answer_index": 3,
+    "answer": "than any other",
+    "explanation": "La respuesta correcta es than any other. Para hacer comparaciones de superioridad entre un elemento y todos los demás dentro de un grupo, se utiliza la estructura comparative \\+ than any other \\+ sustantivo singular. Ejemplo: more money than any other country.",
+    "category": "Comparatives and Superlatives",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0027",
+    "type": "A",
+    "question": "Although Emily Dickinson is now a well-known American poet, only seven of her poems __________ while she was alive.",
+    "options": [
+      "publishing",
+      "to publish",
+      "have published",
+      "were published"
+    ],
+    "answer_index": 4,
+    "answer": "were published",
+    "explanation": "La respuesta correcta es were published. La oración está en voz pasiva porque los poemas reciben la acción de publicar. La estructura correcta es subject \\+ be \\+ past participle: seven of her poems were published.",
+    "category": "Verb Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0028",
+    "type": "A",
+    "question": "Part of the Great Plains, Kansas is famous for __________ fields of wheat.",
+    "options": [
+      "its seemingly endless",
+      "it seems endless",
+      "it is seemingly endless",
+      "it is endless it seems"
+    ],
+    "answer_index": 1,
+    "answer": "its seemingly endless",
+    "explanation": "La respuesta correcta es its seemingly endless. Se necesita un adjetivo posesivo para modificar el sustantivo fields. La estructura correcta es Kansas is famous for its \\+ noun. Seemingly endless funciona como adjetivo compuesto que describe los campos.",
+    "category": "Word Choice",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0029",
+    "type": "A",
+    "question": "Helicopters can rise or descend vertically, hover, and move forward, backward__________.",
+    "options": [
+      "they move laterally",
+      "and are lateral",
+      "or lateral motion",
+      "or laterally"
+    ],
+    "answer_index": 4,
+    "answer": "or laterally",
+    "explanation": "La respuesta correcta es or laterally. La oración presenta una lista de acciones paralelas: rise, descend, hover, move forward, backward, or laterally. Después de varios verbos coordinados se necesita un adverbio que mantenga la estructura paralela.",
+    "category": "Parallel Structures",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0030",
+    "type": "A",
+    "question": "A microscope can reveal vastly __________ detail than is visible to the naked eye.",
+    "options": [
+      "than",
+      "than more",
+      "more than",
+      "more"
+    ],
+    "answer_index": 4,
+    "answer": "more",
+    "explanation": "Después de vastly se necesita un adjetivo comparativo. La estructura correcta es more detail than, porque se compara la cantidad de detalle visible con la del ojo humano. More funciona como comparativo de much.",
+    "category": "Comparisons",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0031",
+    "type": "A",
+    "question": "Narcissus bulbs __________ at least three inches apart and covered with about four inches of well-drained soil.",
+    "options": [
+      "should planted",
+      "to plant",
+      "must planting",
+      "should plant"
+    ],
+    "answer_index": 1,
+    "answer": "should planted",
+    "explanation": "La oración necesita una estructura de voz pasiva con modal implícito de obligación/recomendación. La forma correcta es should be planted; después de should se usa el verbo base (be) y el participio pasado (planted) para formar la pasiva.",
+    "category": "Verb Problems",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0032",
+    "type": "A",
+    "question": "Wherever there is plenty of rain during the growing season, life is __________ in various forms.",
+    "options": [
+      "abundant",
+      "the abundance",
+      "an abundant",
+      "it abundant"
+    ],
+    "answer_index": 1,
+    "answer": "abundant",
+    "explanation": "Después del verbo is, se necesita un adjetivo que describa la condición de la vida en el desierto. La forma correcta es is abundant, donde abundant funciona como adjetivo predicativo.",
+    "category": "Independent Clauses",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "A0033",
+    "type": "A",
+    "question": "Civil Rights are the freedoms and rights __________ as a member of a community, state, or nation.",
+    "options": [
+      "may have a person",
+      "may have a person who",
+      "a person may have",
+      "and a person may have"
+    ],
+    "answer_index": 3,
+    "answer": "a person may have",
+    "explanation": "El espacio en blanco forma parte de una proposición adjetiva reducida que modifica «libertades y derechos»; la forma correcta es «que uno tiene» o, en su forma reducida, «tenía» / «disfrutaba» (participio pasado). La frase participial en pasiva nos indica cuáles son esos derechos.",
+    "category": "Adjective Clauses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0034",
+    "type": "A",
+    "question": "__________ of large mammals once dominated the North American Prairies: the American bison and the pronghorn antelope.",
+    "options": [
+      "There are two species",
+      "With two species",
+      "Two species are",
+      "Two species"
+    ],
+    "answer_index": 4,
+    "answer": "Two species",
+    "explanation": "El espacio en blanco es el sujeto de la frase; la respuesta correcta es «Two species» o «Two kinds», ya que los dos puntos introducen exactamente dos elementos. Se requiere un sustantivo contable en plural para que coincida con el par mencionado.",
+    "category": "Independent Clauses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0035",
+    "type": "A",
+    "question": "Franklin D. Roosevelt was __________ the great force of radio and the opportunity it provided for taking government policies directly to the people.",
+    "options": [
+      "as the first President he understood fully",
+      "the first President that, to fully understand",
+      "the first President fully understand",
+      "the first President to understand fully"
+    ],
+    "answer_index": 4,
+    "answer": "the first President to understand fully",
+    "explanation": "El espacio en blanco requiere una frase con un participio pasivo que indique la relación de FDR con la radio; la respuesta correcta es «aware of» o «the first to recognize». La frase describe lo que la radio significaba para él, por lo que se necesita una construcción pasiva que exprese conciencia.",
+    "category": "Infinitive and Gerund",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0036",
+    "type": "A",
+    "question": "With age, the mineral content of human bones decreases, __________ them more fragile.",
+    "options": [
+      "make",
+      "and to make",
+      "thereby making",
+      "which it makes"
+    ],
+    "answer_index": 3,
+    "answer": "thereby making",
+    "explanation": "La frase thereby making es una frase participial de resultado. Indica la consecuencia de la disminución del contenido mineral de los huesos: haciéndolos, por lo tanto, más frágiles.",
+    "category": "Participial Phrases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0037",
+    "type": "A",
+    "question": "Not until Kentucky’s Mammoth Cave had been completely explored in 1972 __________.",
+    "options": [
+      "when was its full extent realized",
+      "that its full extent was realized",
+      "was its full extent realized",
+      "the realization of its full extent"
+    ],
+    "answer_index": 3,
+    "answer": "was its full extent realized",
+    "explanation": "Cuando una oración comienza con una expresión negativa como Not until..., se produce inversión entre el auxiliar y el sujeto. La estructura correcta es was its full extent realized.",
+    "category": "Negative Words",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0038",
+    "type": "A",
+    "question": "The first explorer __________ California by land was Jedediah Strong Smith, a trapper who crossed the southwestern deserts of the United States in 1826.",
+    "options": [
+      "that he reached",
+      "reached",
+      "to reach",
+      "reaching it"
+    ],
+    "answer_index": 3,
+    "answer": "to reach",
+    "explanation": "Después de un sustantivo acompañado por un ordinal (the first explorer), se utiliza un infinitivo para indicar la acción que lo distingue: the first explorer to reach California.",
+    "category": "Infinitive and Gerund",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0039",
+    "type": "A",
+    "question": "Written to be performed on a __________, Thornton Wilder’s play Our Town depicts life in a small New England community.",
+    "options": [
+      "stage scenery of bare",
+      "bare of stage scenery",
+      "scenery bare of stage",
+      "stage bare of scenery"
+    ],
+    "answer_index": 4,
+    "answer": "stage bare of scenery",
+    "explanation": "Cuando varios adjetivos modifican un sustantivo, siguen un orden específico. La expresión correcta es a stage bare of scenery, donde bare describe el estado del escenario y la frase preposicional of scenery completa su significado.",
+    "category": "Word Order",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0040",
+    "type": "A",
+    "question": "Outside the bright primary rainbow, __________ much fainter secondary rainbow may be visible.",
+    "options": [
+      "so",
+      "a",
+      "since",
+      "still"
+    ],
+    "answer_index": 2,
+    "answer": "a",
+    "explanation": "Antes de un sustantivo singular contable que se menciona por primera vez, se utiliza el artículo indefinido. La expresión correcta es a much fainter secondary rainbow.",
+    "category": "Articles",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0041",
+    "type": "A",
+    "question": "Following the guidelines for speaking and voting established by the book Robert's Rules of Order, __________ during meetings.",
+    "options": [
+      "and avoid large decision-making organizations' procedural confusion",
+      "large decision-making organizations avoid procedural confusion",
+      "is procedural confusion avoided by large decisionmaking organizations",
+      "are avoiding procedural contusion in large decisionmaking organizations"
+    ],
+    "answer_index": 2,
+    "answer": "large decision-making organizations avoid procedural confusion",
+    "explanation": "Cuando dos acciones coordinadas comparten el mismo sujeto, ambas deben mantener una estructura paralela. La forma correcta es large decision-making organizations avoid procedural confusion.",
+    "category": "Participial Phrases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0042",
+    "type": "A",
+    "question": "Indigo is a vat color, __________ called because it does not dissolve in water.",
+    "options": [
+      "which it",
+      "it is",
+      "but",
+      "so"
+    ],
+    "answer_index": 4,
+    "answer": "so",
+    "explanation": "La palabra so funciona como un adverbio conjuntivo para expresar una consecuencia. En esta oración introduce la explicación de por qué el índigo recibe ese nombre: it does not dissolve in water.",
+    "category": "Independent Clauses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0043",
+    "type": "A",
+    "question": "Associated with the Denishawn company from 1916 until 1923, Martha Graham developed a powerful, __________ that was integral to the foundations of modern dance.",
+    "options": [
+      "expressively stylish",
+      "a style expressive",
+      "stylishly expressive",
+      "expressive style"
+    ],
+    "answer_index": 4,
+    "answer": "expressive style",
+    "explanation": "Cuando un sustantivo es modificado por más de un adjetivo, estos deben seguir el orden natural de los adjetivos en inglés. La expresión correcta es a powerful, expressive style.",
+    "category": "Parallel Structures",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0044",
+    "type": "A",
+    "question": "A regional writer with a gift for dialect, __________ her fiction with the eccentric, comic, but vital inhabitants of rural Mississippi.",
+    "options": [
+      "and Eudora Welty is peopling",
+      "Eudora Welty peoples",
+      "because Eudora Welty peoples",
+      "Eudora Welty, to people"
+    ],
+    "answer_index": 2,
+    "answer": "Eudora Welty peoples",
+    "explanation": "La oración necesita un sujeto seguido de un verbo principal. La estructura correcta es Eudora Welty peoples her fiction..., donde Eudora Welty es el sujeto y peoples el verbo.",
+    "category": "Independent Clauses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0045",
+    "type": "A",
+    "question": "Relative humidity is the amount of water vapor the air contains at a certain temperature __________ with the amount it could hold at that temperature.",
+    "options": [
+      "to compare",
+      "compared",
+      "comparing",
+      "compares"
+    ],
+    "answer_index": 2,
+    "answer": "compared",
+    "explanation": "El participio pasado compared introduce una frase participial reducida equivalente a when it is compared with.... Se utiliza para evitar repetir el sujeto y el verbo.",
+    "category": "Participial Phrases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0046",
+    "type": "A",
+    "question": "Skimming along the surface of the ocean or rising from its depths like delicate balloons, __________ to their aquatic habitat.",
+    "options": [
+      "the perfect adaptation of jellyfish",
+      "jellyfish are perfectly adapted",
+      "jellyfish are adapted to perfectly",
+      "and the adaption is perfect for jellyfish"
+    ],
+    "answer_index": 2,
+    "answer": "jellyfish are perfectly adapted",
+    "explanation": "La respuesta correcta es jellyfish are perfectly adapted. La frase inicial Skimming along the surface... funciona como una cláusula reducida de participio y debe modificar al sujeto principal. El sujeto correcto es jellyfish, no the adaptation. La estructura completa sería: Jellyfish are perfectly adapted to their aquatic habitat.",
+    "category": "Participial Phrases",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0047",
+    "type": "A",
+    "question": "A strong swimmer, __________.",
+    "options": [
+      "that fish and seal are eaten chiefly by the polar bear",
+      "the polar bear eats chiefly fish and seal",
+      "the polar bear eating chiefly fish and seal",
+      "eating fish and seal chiefly by the polar bear"
+    ],
+    "answer_index": 2,
+    "answer": "the polar bear eats chiefly fish and seal",
+    "explanation": "La respuesta correcta es the polar bear eats chiefly fish and seal. La frase inicial A strong swimmer es una frase descriptiva que debe modificar al sujeto. El sujeto debe ser el oso polar, que es el nadador fuerte. La estructura correcta requiere un sujeto y verbo completos después de la frase introductoria.",
+    "category": "Independent Clauses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0048",
+    "type": "A",
+    "question": "__________ stem from the everyday life of common people, the most popular themes are love, jealousy, revenge, disaster, and adventure.",
+    "options": [
+      "Because folk ballads",
+      "There are folk ballads",
+      "With folk ballads",
+      "Folk ballads to"
+    ],
+    "answer_index": 1,
+    "answer": "Because folk ballads",
+    "explanation": "La respuesta correcta es Because folk ballads. Se necesita un conector de causa seguido de un sujeto y verbo. La estructura Because \\+ subject \\+ verb explica la razón por la cual ciertos temas son populares en las baladas folclóricas.",
+    "category": "Independent Clauses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0049",
+    "type": "A",
+    "question": "__________ around us gives us vital information about our environment.",
+    "options": [
+      "The sounds are heard",
+      "That the hearing of sounds",
+      "Hearing the sounds",
+      "Whatever the sounds are heard"
+    ],
+    "answer_index": 3,
+    "answer": "Hearing the sounds",
+    "explanation": "La respuesta correcta es Hearing the sounds. Un gerundio (-ing) puede funcionar como sujeto de una oración. Aquí Hearing the sounds around us significa \"escuchar los sonidos a nuestro alrededor\" y funciona como el sujeto del verbo gives.",
+    "category": "Gerunds and Infinitives",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0050",
+    "type": "A",
+    "question": "Color and light, taken together, __________ the aesthetic impact of the interior of a building.",
+    "options": [
+      "very powerfully influence",
+      "very influence powerfully",
+      "powerfully very influence",
+      "influence powerfully very"
+    ],
+    "answer_index": 1,
+    "answer": "very powerfully influence",
+    "explanation": "Los adverbios que modifican verbos normalmente se colocan antes del verbo principal o después del verbo auxiliar. La estructura correcta es very powerfully influence, donde very powerfully modifica al verbo influence.",
+    "category": "Word Order",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0051",
+    "type": "A",
+    "question": "__________ around stones that are sun warmed, even the smallest of stones creates tiny currents of warm air.",
+    "options": [
+      "The cool air",
+      "If the air is cool",
+      "That the air cools",
+      "The cooler the air"
+    ],
+    "answer_index": 2,
+    "answer": "If the air is cool",
+    "explanation": "La estructura The cooler the air is, the smallest... corresponde a una comparación correlativa. La forma the \\+ comparative, the \\+ comparative indica que un cambio en una condición produce otro cambio relacionado.",
+    "category": "Adverb Clauses",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0052",
+    "type": "A",
+    "question": "According to some critics, the novels of William Burroughs demonstrate the major hazard of absurd literature, __________ tendency toward overembellishment and incoherence.",
+    "options": [
+      "notwithstanding",
+      "besides",
+      "is a",
+      "its"
+    ],
+    "answer_index": 4,
+    "answer": "its",
+    "explanation": "El pronombre posesivo correcto es its porque hace referencia al sustantivo singular absurd literature. La estructura correcta es its tendency toward overembellishment, donde its indica posesión.",
+    "category": "Pronouns",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0053",
+    "type": "A",
+    "question": "Coinciding with the development of jazz in New Orleans in the 1920's __________ in blues music.",
+    "options": [
+      "was one of the greatest periods",
+      "one of the greatest periods",
+      "was of the greatest",
+      "the greatest periods"
+    ],
+    "answer_index": 1,
+    "answer": "was one of the greatest periods",
+    "explanation": "Cuando una oración comienza con una expresión negativa o de lugar que funciona como complemento inicial, se puede producir inversión. La estructura correcta es Coinciding with the development of jazz... was one of the greatest periods..., donde el verbo aparece antes del sujeto.",
+    "category": "Word Order",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "A0054",
+    "type": "A",
+    "question": "Flag Day is a legal holiday only in the state of Pennsylvania, __________ Betsy Ross sewed the first American flag.",
+    "options": [
+      "which",
+      "where",
+      "that",
+      "has"
+    ],
+    "answer_index": 2,
+    "answer": "where",
+    "explanation": "El espacio en blanco introduce una oración relativa (adjetiva) que modifica a «Pennsylvania»; el conector correcto es «where», ya que se refiere a un lugar. «Which» o «that» requerirían una función de sujeto u objeto, no una función locativa.",
+    "category": "Adjective Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0055",
+    "type": "A",
+    "question": "Speciation, __________, results when an animal population becomes isolated by some factor, usually geographic.",
+    "options": [
+      "form biological species",
+      "biological species are formed",
+      "which forming biological species",
+      "the formation of biological species"
+    ],
+    "answer_index": 4,
+    "answer": "the formation of biological species",
+    "explanation": "El espacio en blanco está separado por comas entre el sujeto y el verbo, lo que lo convierte en un apositivo: un sintagma nominal que renombra o define «especiación». La respuesta correcta es un sintagma nominal como «el desarrollo de nuevas especies».",
+    "category": "Appositives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0056",
+    "type": "A",
+    "question": "In its pure state antimony has no important uses, but __________ with other substances, it is extremely useful metal.",
+    "options": [
+      "when combined physically or chemically",
+      "combined when physically or chemically",
+      "the physical and chemical combination",
+      "it is combined physically and chemically"
+    ],
+    "answer_index": 1,
+    "answer": "when combined physically or chemically",
+    "explanation": "La frase incompleta da inicio a una subordenada adverbial de condición reducida que modifica la oración principal; la forma correcta es «combined» (participio pasado), que reduce «when it is combined with». El uso de un participio presente («combining») daría a entender erróneamente que el antimonio realiza la acción.",
+    "category": "Participial Phrases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0057",
+    "type": "A",
+    "question": "The dawn redwood appears __________ some 100 million years ago in northern forests around the world.",
+    "options": [
+      "was flourished",
+      "having to flourished",
+      "to have flourished",
+      "have flourished"
+    ],
+    "answer_index": 3,
+    "answer": "to have flourished",
+    "explanation": "La expresión temporal «hace unos 100 millones de años» requiere un tiempo verbal en pasado; la respuesta correcta es «haber existido» (infinitivo perfecto después de «parece»). Esta estructura expresa que la presencia en el pasado se deduce a partir de pruebas actuales.",
+    "category": "Infinitive and Gerund",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0058",
+    "type": "A",
+    "question": "Beginning in the Middle Ages, composers of Western music used a system of notating their compositions __________ be performed by musicians.",
+    "options": [
+      "will",
+      "that",
+      "and when to",
+      "so they could"
+    ],
+    "answer_index": 4,
+    "answer": "so they could",
+    "explanation": "El espacio en blanco introduce una oración relativa (o una oración con infinitivo reducido) que modifica a «sistema»; la respuesta correcta es «para que sus composiciones pudieran» o, en su forma reducida, «para». El infinitivo «ser interpretadas» expresa el propósito dentro de la oración que modifica al sustantivo.",
+    "category": "Conjunctions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0059",
+    "type": "A",
+    "question": "Richard Wright enjoyed success and influence __________ among Black American writers of his era.",
+    "options": [
+      "were unparalleled",
+      "are unparalleled",
+      "unparalleled",
+      "the unparalleled"
+    ],
+    "answer_index": 3,
+    "answer": "unparalleled",
+    "explanation": "El espacio en blanco requiere un adverbio en superlativo o comparativo para calificar «success and influence»; la respuesta correcta es «unmatched» o «unparalleled», o una expresión en superlativo como «greater than that of any other writer». El contexto implica un grado de comparación.",
+    "category": "Participial Phrases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0060",
+    "type": "A",
+    "question": "Computers that once took up entire rooms are now __________ to put on desktops and into wristwatches.",
+    "options": [
+      "small enough",
+      "smaller than",
+      "so small",
+      "as small as"
+    ],
+    "answer_index": 1,
+    "answer": "small enough",
+    "explanation": "La estructura adjective \\+ enough \\+ to-infinitive expresa que algo tiene el grado suficiente de una cualidad para realizar una acción. La forma correcta es small enough to put....",
+    "category": "Comparisons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0061",
+    "type": "A",
+    "question": "__________ initial recognition while still quite young.",
+    "options": [
+      "Most famous scientists achieve",
+      "That most famous scientists achieved",
+      "Most famous scientists who achieved",
+      "For most famous scientists to achieve"
+    ],
+    "answer_index": 1,
+    "answer": "Most famous scientists achieve",
+    "explanation": "La oración necesita un sujeto completo seguido de un verbo principal. La estructura correcta comienza con Most famous scientists achieve..., donde Most famous scientists es el sujeto y achieve el verbo.",
+    "category": "Independent Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0062",
+    "type": "A",
+    "question": "The Chisos Mountains in Big Bend National park in Texas were created by volcanic eruptions that occurred __________.",
+    "options": [
+      "the area in which dinosaurs roamed",
+      "when dinosaurs roamed the area",
+      "did dinosaurs roam the area",
+      "dinosaurs roaming the area"
+    ],
+    "answer_index": 2,
+    "answer": "when dinosaurs roamed the area",
+    "explanation": "La conjunción when introduce una cláusula adverbial de tiempo, indicando el momento en que ocurrieron las erupciones volcánicas.",
+    "category": "Adverb Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0063",
+    "type": "A",
+    "question": "In bas-relief sculpture, a design projects very slightly from its background, __________ some coins.",
+    "options": [
+      "as on",
+      "because",
+      "the way that",
+      "similarly"
+    ],
+    "answer_index": 1,
+    "answer": "as on",
+    "explanation": "La expresión as on some coins establece una comparación de semejanza utilizando la preposición as, indicando que el relieve sobresale de la misma manera que en algunas monedas.",
+    "category": "Prepositions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0064",
+    "type": "A",
+    "question": "Alaska found the first years of its statehood costly because it had to take over the expense of services __________ previously by the federal government.",
+    "options": [
+      "to provide",
+      "be provided",
+      "providing",
+      "provided"
+    ],
+    "answer_index": 4,
+    "answer": "provided",
+    "explanation": "Después del sustantivo services, se utiliza un participio pasado para reducir una cláusula pasiva. La expresión correcta es services provided previously by the federal government.",
+    "category": "Participial Phrases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0065",
+    "type": "A",
+    "question": "Algonkian-speaking Native Americans greeted the Pilgrims __________ settled on the eastern shores of what is now New England.",
+    "options": [
+      "to whom",
+      "of which",
+      "who",
+      "which"
+    ],
+    "answer_index": 3,
+    "answer": "who",
+    "explanation": "El pronombre relativo who introduce una cláusula relativa que describe a the Pilgrims, ya que se refiere a personas.",
+    "category": "Adjective Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0066",
+    "type": "A",
+    "question": "The best known books of Ross Macdonald, __________ writer of detective novels, feature the character Lew Archer, a private detective.",
+    "options": [
+      "is the",
+      "is an",
+      "they are by",
+      "the"
+    ],
+    "answer_index": 4,
+    "answer": "the",
+    "explanation": "La frase the writer of detective novels es una aposición, que identifica a Ross Macdonald sin necesidad de añadir un verbo adicional.",
+    "category": "Appositives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0067",
+    "type": "A",
+    "question": "The first building to employ steel skeleton construction, __________.",
+    "options": [
+      "Chicago, Illinois, the home of the Home Insurance Company Building completed in 1885",
+      "the Home Insurance Company Building in Chicago, Illinois, was completed in 1885",
+      "because the Home Insurance Company Building in Chicago, Illinois, was completed in 1885",
+      "the Home Insurance Company Building in Chicago, Illinois, in 1885."
+    ],
+    "answer_index": 2,
+    "answer": "the Home Insurance Company Building in Chicago, Illinois, was completed in 1885",
+    "explanation": "La oración necesita un verbo principal para completar la idea. La estructura correcta es The Home Insurance Company Building... was completed in 1885.",
+    "category": "Independent Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0068",
+    "type": "A",
+    "question": "During the course of its growth, a frog undergoes a true metamorphosis __________ with a fishlike larval stage.",
+    "options": [
+      "begin",
+      "began",
+      "beginning",
+      "is begun"
+    ],
+    "answer_index": 3,
+    "answer": "beginning",
+    "explanation": "Después de una oración principal, el participio presente (-ing) puede introducir una frase participial que describe cómo ocurre la acción. La expresión correcta es beginning with a fishlike larval stage.",
+    "category": "Participial Phrases",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0069",
+    "type": "A",
+    "question": "Mahalia Jackson, __________ combined powerful vitality with great dignity, was one of the best-known gospel singers in the United States.",
+    "options": [
+      "it was her singing",
+      "which songs",
+      "who sang",
+      "whose singing"
+    ],
+    "answer_index": 4,
+    "answer": "whose singing",
+    "explanation": "El pronombre relativo posesivo whose indica posesión dentro de una cláusula relativa. La estructura correcta es whose singing combined....",
+    "category": "Adjective Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0070",
+    "type": "A",
+    "question": "Any critic, teacher, librarian, or poet who hopes to broaden poetry's audience faces the difficult challenge of persuading skeptical readers __________.",
+    "options": [
+      "that poetry is important today",
+      "for poetry to be important today",
+      "to be important poetry today",
+      "poetry that is important today"
+    ],
+    "answer_index": 1,
+    "answer": "that poetry is important today",
+    "explanation": "Después del verbo persuade, es común utilizar una cláusula nominal con that para expresar el contenido de la persuasión. La estructura correcta es persuading skeptical readers that poetry is important today.",
+    "category": "Noun Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0071",
+    "type": "A",
+    "question": "The American Academy of Poets, __________ the 1930's, provides financial assistance to support working poets.",
+    "options": [
+      "when it was founded",
+      "was founded",
+      "which was founded in",
+      "was founded in"
+    ],
+    "answer_index": 3,
+    "answer": "which was founded in",
+    "explanation": "El pronombre relativo which introduce una cláusula relativa no restrictiva que añade información adicional sobre The American Academy of Poets.",
+    "category": "Adjective Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0072",
+    "type": "A",
+    "question": "During the Pleistocene glacial periods __________ portions of the Earth where plant and animal life flourished, making it possible for people to subsist.",
+    "options": [
+      "the",
+      "it was",
+      "there were",
+      "have there been"
+    ],
+    "answer_index": 3,
+    "answer": "there were",
+    "explanation": "La estructura there were se utiliza para indicar la existencia de algo en el pasado. La oración expresa que había regiones de la Tierra donde la vida prosperaba.",
+    "category": "Independent Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0073",
+    "type": "A",
+    "question": "The photographs of Carrie Mae Weems, in which she often makes her family members __________, are an affectionate and incisive representation of the African American experience.",
+    "options": [
+      "are her subjects",
+      "her subjects",
+      "are subjects",
+      "which her subjects"
+    ],
+    "answer_index": 2,
+    "answer": "her subjects",
+    "explanation": "Después del verbo make, cuando significa \"hacer que alguien o algo sea...\", se utiliza un complemento del objeto. La estructura correcta es makes her family members her subjects.",
+    "category": "Verb Problems",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0074",
+    "type": "A",
+    "question": "Hubble's law states that the greater the distance between any two galaxies, __________ is their relative speed of separation.",
+    "options": [
+      "the greatest",
+      "the greater",
+      "greater than",
+      "as great as"
+    ],
+    "answer_index": 2,
+    "answer": "the greater",
+    "explanation": "La estructura correlativa the \\+ comparativo..., the \\+ comparativo... expresa que un cambio en un elemento provoca un cambio correspondiente en otro. La forma correcta es the greater..., the greater....",
+    "category": "Comparisons",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0075",
+    "type": "A",
+    "question": "The onion is characterized by an edible bulb composed of leaves rich in sugar and a pungent oil, __________ the vegetable's strong taste.",
+    "options": [
+      "which the source of",
+      "that the source is",
+      "the source of",
+      "of the source is"
+    ],
+    "answer_index": 3,
+    "answer": "the source of",
+    "explanation": "La frase the source of the vegetable's strong taste es una aposición, que explica o identifica al sustantivo anterior (a pungent oil) sin necesidad de un verbo adicional.",
+    "category": "Appositives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0076",
+    "type": "A",
+    "question": "In 1879, __________, Alice Freeman Palmer became head of the history department at Wellesley College.",
+    "options": [
+      "twenty-four years",
+      "at the age of twenty-four",
+      "age twenty-four",
+      "of twenty-four years"
+    ],
+    "answer_index": 2,
+    "answer": "at the age of twenty-four",
+    "explanation": "La respuesta correcta es at the age of twenty-four. Esta expresión se usa para indicar la edad específica en la que ocurre una acción. La estructura correcta es at the age of \\+ número, que significa \"a la edad de\". Las otras opciones no forman una expresión natural en inglés.",
+    "category": "Prepositions",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0077",
+    "type": "A",
+    "question": "Penicillin, probably __________, came into widespread use after the Second World War.",
+    "options": [
+      "an antibiotic of known",
+      "was known the antibiotic",
+      "the best-known antibiotic",
+      "known best antibiotic"
+    ],
+    "answer_index": 3,
+    "answer": "the best-known antibiotic",
+    "explanation": "La respuesta correcta es the best-known antibiotic. Se necesita un sustantivo con un modificador superlativo. The best-known significa \"el más conocido\" y funciona como adjetivo compuesto antes del sustantivo antibiotic.",
+    "category": "Comparatives and Superlatives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0078",
+    "type": "A",
+    "question": "Thomas Jefferson served as president of the American Philosophical Society, an organization that encouraged __________ of scientific and intellectual research.",
+    "options": [
+      "ranging wide",
+      "a wide range",
+      "which ranged widely",
+      "a widely ranging"
+    ],
+    "answer_index": 2,
+    "answer": "a wide range",
+    "explanation": "La respuesta correcta es a wide range. La palabra range es un sustantivo que significa \"variedad\" o \"amplitud\". Después del verbo encouraged se necesita un sustantivo: encouraged a wide range of scientific research.",
+    "category": "Verbs",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0079",
+    "type": "A",
+    "question": "The sidereal day is the period __________ the Earth completes one rotation on its axis.",
+    "options": [
+      "when does it",
+      "while it",
+      "during which",
+      "in that"
+    ],
+    "answer_index": 3,
+    "answer": "during which",
+    "explanation": "La respuesta correcta es during which. Se necesita un pronombre relativo para referirse al período mencionado (the period). La estructura correcta es the period during which \\+ subject \\+ verb, equivalente a \"el período durante el cual\".",
+    "category": "Adjective Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0080",
+    "type": "A",
+    "question": "__________ rainfall in the desert is low, it is one of the most important climatic factors in the formation of desert erosion features.",
+    "options": [
+      "Although",
+      "Why",
+      "Despite",
+      "Due to"
+    ],
+    "answer_index": 1,
+    "answer": "Although",
+    "explanation": "La respuesta correcta es Although. Se necesita un conector adverbial de contraste. Although \\+ sujeto \\+ verbo significa \"aunque\". La oración establece contraste entre la poca lluvia y su importancia en la erosión del desierto.",
+    "category": "Adverb Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0081",
+    "type": "A",
+    "question": "The Dallas Theater Center presents plays in two buildings,__________ was designed by the internationally renowned architect, Frank Lloyd Wright.",
+    "options": [
+      "which",
+      "which one",
+      "that which",
+      "one of which"
+    ],
+    "answer_index": 4,
+    "answer": "one of which",
+    "explanation": "La respuesta correcta es one of which. Esta estructura se usa para indicar uno de varios elementos previamente mencionados. La oración significa que el centro presenta obras en dos edificios, y uno de esos edificios fue diseñado por Frank Lloyd Wright.",
+    "category": "Adjective Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0082",
+    "type": "A",
+    "question": "Located in Boston, __________ in the United States was founded in 1852.",
+    "options": [
+      "the first public library was free",
+      "the first free public library",
+      "was the first free public library",
+      "where the first free public library was"
+    ],
+    "answer_index": 2,
+    "answer": "the first free public library",
+    "explanation": "La respuesta correcta es the first free public library. Después de una coma y una frase introductoria (Located in Boston), se necesita un sujeto nominal completo. La estructura correcta es: the first free public library in the United States was founded…",
+    "category": "Independent Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0083",
+    "type": "A",
+    "question": "Industrialization has been responsible for __________ most radical of the environmental changes caused by humans.",
+    "options": [
+      "a",
+      "the",
+      "some of which",
+      "which are the"
+    ],
+    "answer_index": 2,
+    "answer": "the",
+    "explanation": "Cuando un sustantivo singular contable aparece como una idea específica y se encuentra en grado superlativo, necesita un artículo definido. La estructura correcta es the most radical, porque se refiere al cambio ambiental más extremo.",
+    "category": "Articles",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0084",
+    "type": "A",
+    "question": "In many areas the slope and topography of the land __________ excess rainfall to run off into a natural outlet.",
+    "options": [
+      "neither permit",
+      "without permitting",
+      "nor permitting",
+      "do not permit"
+    ],
+    "answer_index": 4,
+    "answer": "do not permit",
+    "explanation": "El sujeto the slope and topography of the land es plural, por lo que requiere un verbo plural. La respuesta correcta es do not permit, ya que el verbo debe concordar con dos elementos unidos por and.",
+    "category": "Independent Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0085",
+    "type": "A",
+    "question": "__________ that Rachel Carson's 1962 book Silent Spring was one of the chief sources of inspiration for the development of nontoxic pesticides.",
+    "options": [
+      "There is likely",
+      "Likely to be",
+      "It is likely",
+      "Likely"
+    ],
+    "answer_index": 3,
+    "answer": "It is likely",
+    "explanation": "La estructura correcta es una cláusula nominal con sujeto impersonal: It is likely that.... Se utiliza it como sujeto anticipatorio y la información importante aparece después de that.",
+    "category": "Independent Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0086",
+    "type": "A",
+    "question": "Total color blindness, __________, is the result of a defect in the retina.",
+    "options": [
+      "a rare wndition that",
+      "a rare",
+      "that a rare condition",
+      "is a rare condition"
+    ],
+    "answer_index": 2,
+    "answer": "a rare",
+    "explanation": "La expresión correcta es una frase nominal en aposición: a rare condition. El sustantivo explica qué es la ceguera total de color, por lo que no necesita un verbo adicional.",
+    "category": "Appositives",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0087",
+    "type": "A",
+    "question": "__________ no conclusive evidence exists, many experts believe that the wheel was invented only once and then diffused to the rest of the world.",
+    "options": [
+      "Even",
+      "But",
+      "Although",
+      "so"
+    ],
+    "answer_index": 3,
+    "answer": "Although",
+    "explanation": "Although introduce una cláusula de contraste con sujeto y verbo completos. La estructura correcta es Although no conclusive evidence exists, equivalente a \"aunque no existe evidencia concluyente\".",
+    "category": "Adverb Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0088",
+    "type": "A",
+    "question": "Most of __________ archaeologists know about prehistoric cultures is based on studies of material remains.",
+    "options": [
+      "these",
+      "what",
+      "which",
+      "their"
+    ],
+    "answer_index": 2,
+    "answer": "what",
+    "explanation": "What introduce una cláusula nominal que funciona como objeto del verbo know. La estructura what archaeologists know significa \"lo que los arqueólogos saben\", mientras que which o these no pueden introducir esta idea.",
+    "category": "Noun Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0089",
+    "type": "A",
+    "question": "In her time, Isadora Duncan was __________ today a liberated woman.",
+    "options": [
+      "calling what we would",
+      "who would be calling",
+      "what we would call",
+      "she would call it"
+    ],
+    "answer_index": 3,
+    "answer": "what we would call",
+    "explanation": "La estructura correcta es what we would call, donde what introduce una cláusula nominal con el significado de \"lo que llamaríamos hoy\". Después de call se necesita un complemento que indique el nombre o definición dada a algo.",
+    "category": "Noun Clauses",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "A0090",
+    "type": "A",
+    "question": "Despite its wide range of styles and instrumentation, country music has certain common features __________ its own special character.",
+    "options": [
+      "give it that",
+      "that give it",
+      "give that",
+      "that gives it to"
+    ],
+    "answer_index": 2,
+    "answer": "that give it",
+    "explanation": "La oración necesita una cláusula relativa que describa common features. La estructura correcta es features that give it its own special character, donde that funciona como sujeto de la cláusula relativa.",
+    "category": "Adjective Clauses",
+    "difficulty": "Medium"
+  }
+]
