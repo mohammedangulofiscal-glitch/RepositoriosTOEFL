@@ -463,8 +463,8 @@
       "explanation": "El sustantivo singular contable «role» requiere un artículo. Para corregir esta frase, puedes cambiar «leading to» por «the leading».",
       "category": "Articles",
       "difficulty": "Medium",
-      "sentence": "In 1944, the Martha Graham ballet {Appalachian Spring,{ with music by Aaron Copland, premiered with Graham in leading role.",
-      "sentenceFormatted": "In 1944, **<u>the</u>** Martha Graham ballet {Appalachian Spring,{ with music **<u>by</u>** Aaron Copland, **<u>premiered</u>** with Graham in **<u>leading</u>** role.",
+      "sentence": "In 1944, the Martha Graham ballet Appalachian Spring, with music by Aaron Copland, premiered with Graham in leading role.",
+      "sentenceFormatted": "In 1944, **<u>the</u>** Martha Graham ballet Appalachian Spring, with music **<u>by</u>** Aaron Copland, **<u>premiered</u>** with Graham in **<u>leading</u>** role.",
       "underlinedOptions": [
         "the",
         "by",
@@ -1713,8 +1713,8 @@
       "explanation": "El artículo indefinido «a» se utiliza con «first». «First» indica que solo hay uno, por lo que debe emplearse el artículo definido. Para corregir esta frase, puedes cambiar «a» por «the».",
       "category": "Articles",
       "difficulty": "Easy",
-      "sentence": "In 1984, space shuttle {Challenger{ astronaut Kathy Sullivan became a first American woman to walk in space.",
-      "sentenceFormatted": "In 1984, space shuttle {Challenger{ astronaut Kathy Sullivan **<u>became</u>** **<u>a</u>** first American **<u>woman</u>** to walk **<u>in</u>** space.",
+      "sentence": "In 1984, space shuttle Challenger astronaut Kathy Sullivan became a first American woman to walk in space.",
+      "sentenceFormatted": "In 1984, space shuttle Challenger astronaut Kathy Sullivan **<u>became</u>** **<u>a</u>** first American **<u>woman</u>** to walk **<u>in</u>** space.",
       "underlinedOptions": [
         "became",
         "a",
@@ -2709,7 +2709,7 @@
       "explanation": "Esta oración contiene una cláusula nominal que comienza con la expresión de lugar at the cold dark corners of the moon. Para estar completa, la cláusula nominal necesita un sujeto y un verbo en orden invertido después de la expresión introductoria de lugar. La respuesta C es la mejor opción porque contiene el sujeto y el verbo invertidos might be water. La respuesta A carece de un verbo, la respuesta B contiene un sujeto y un verbo que no están invertidos, y la respuesta D contiene un sujeto y un verbo modal que no están invertidos y además carece de un verbo en su forma base, por lo que estas opciones son incorrectas.",
       "category": "Word Order",
       "difficulty": "Hard",
-      "question": "In 1994, the spacecraft {Clementine{ orbited the moon and discovered that at the cold dark corners of the moon _____.",
+      "question": "In 1994, the spacecraft Clementine orbited the moon and discovered that at the cold dark corners of the moon _____.",
       "options": [
         "the might of water",
         "water might be",
@@ -3684,8 +3684,8 @@
       "explanation": "El adjetivo lone se utiliza después del verbo de enlace is. Este tipo de adjetivo solamente puede utilizarse antes de un sustantivo. Para corregir la oración, lone debe cambiarse por alone.",
       "category": "Word Choice",
       "difficulty": "Medium",
-      "sentence": "Benjamin Britten's opera {Peter Grimes{ primarily uses the orchestra as the accompanist, but during \"Sea Interludes\" the orchestra is lone in carrying the opera.",
-      "sentenceFormatted": "Benjamin Britten's opera {Peter Grimes{ **<u>primarily</u>** uses the orchestra as the **<u>accompanist</u>**, but during \"Sea Interludes\" the orchestra is **<u>lone</u>** in **<u>carrying</u>** the opera.",
+      "sentence": "Benjamin Britten's opera Peter Grimes primarily uses the orchestra as the accompanist, but during \"Sea Interludes\" the orchestra is lone in carrying the opera.",
+      "sentenceFormatted": "Benjamin Britten's opera Peter Grimes **<u>primarily</u>** uses the orchestra as the **<u>accompanist</u>**, but during \"Sea Interludes\" the orchestra is **<u>lone</u>** in **<u>carrying</u>** the opera.",
       "underlinedOptions": [
         "primarily",
         "accompanist",
@@ -3929,7 +3929,7 @@
       "explanation": "Esta oración contiene una cláusula principal completa Volunteer Vacations, ..., lists... y una cláusula adverbial incompleta ...to teach.... Para estar completa, la cláusula adverbial necesita un conector, un sujeto y un verbo. La respuesta A es la mejor opción porque contiene el conector whether, el sujeto they y el verbo want. Las respuestas B, C y D carecen de un conector, por lo que estas opciones son incorrectas.",
       "category": "Adverb Clauses",
       "difficulty": "Medium",
-      "question": "{Volunteer Vacations,{ published by Chicago Review Press, lists opportunities for volunteers to travel and work, _____ to teach, help maintain parks, assist in archeological digs, or even decorate a Rose Parade float.",
+      "question": "Volunteer Vacations, published by Chicago Review Press, lists opportunities for volunteers to travel and work, _____ to teach, help maintain parks, assist in archeological digs, or even decorate a Rose Parade float.",
       "options": [
         "whether they want",
         "they want",
@@ -5179,7 +5179,7 @@
       "explanation": "Esta oración contiene una cláusula principal incompleta 41 Pilgrims... y una cláusula adjetiva reducida completa aboard the Mayflower, que describe al sustantivo Pilgrims. La cláusula principal incompleta necesita un verbo para estar completa. La respuesta D es la mejor opción porque contiene el verbo signed. La respuesta A contiene un sujeto y un verbo adicionales, la respuesta B contiene un infinitivo y la respuesta C contiene un verbo reducido, por lo que estas opciones son incorrectas.",
       "category": "Verb Problems",
       "difficulty": "Medium",
-      "question": "In 1620, 41 Pilgrims aboard the {Mayflower{, which was anchored off Massachusetts, _____ that called for a \"body politick.\"",
+      "question": "In 1620, 41 Pilgrims aboard the Mayflower, which was anchored off Massachusetts, _____ that called for a \"body politick.\"",
       "options": [
         "a compact was signed",
         "to sign a compact",
@@ -5543,8 +5543,8 @@
       "explanation": "El adjetivo lovely se utiliza para describir el verbo is evoked. La mayoría de las palabras que terminan en -ly son adverbios, pero lovely es un adjetivo formado de manera irregular. Para corregir la oración, lovely debe cambiarse por in a lovely musical piece.",
       "category": "Word Forms",
       "difficulty": "Medium",
-      "sentence": "Sir Walter Scott's book, {Rob Roy{, is evoked lovely in Hector Berlioz's Scottish concert overture \"Rob Roy Macgregor.\"",
-      "sentenceFormatted": "Sir Walter Scott's book, {Rob Roy{, **<u>is evoked</u>** **<u>lovely</u>** in Hector Berlioz's **<u>Scottish</u>** concert **<u>overture</u>** \"Rob Roy Macgregor.\"",
+      "sentence": "Sir Walter Scott's book, Rob Roy, is evoked lovely in Hector Berlioz's Scottish concert overture \"Rob Roy Macgregor.\"",
+      "sentenceFormatted": "Sir Walter Scott's book, Rob Roy, **<u>is evoked</u>** **<u>lovely</u>** in Hector Berlioz's **<u>Scottish</u>** concert **<u>overture</u>** \"Rob Roy Macgregor.\"",
       "underlinedOptions": [
         "is evoked",
         "lovely",
@@ -5992,8 +5992,8 @@
       "explanation": "was → were: El sujeto plural (skin and...compartments) no concuerda con el verbo singular was. Se necesita el verbo plural were.",
       "category": "Verbs",
       "difficulty": "Medium",
-      "sentence": "The double skin and watertight compartments of the {Titanic{ was not able to prevent the vessel from sinking.",
-      "sentenceFormatted": "The double **<u>skin</u>** and watertight compartments of the {Titanic{ **<u>was</u>** not able to **<u>prevent</u>** the vessel **<u>from</u>** sinking.",
+      "sentence": "The double skin and watertight compartments of the Titanic was not able to prevent the vessel from sinking.",
+      "sentenceFormatted": "The double **<u>skin</u>** and watertight compartments of the Titanic **<u>was</u>** not able to **<u>prevent</u>** the vessel **<u>from</u>** sinking.",
       "underlinedOptions": [
         "skin",
         "was",
