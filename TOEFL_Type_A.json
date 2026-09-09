@@ -1,11 +1,11 @@
 {
   "title": "TOEFL ITP - Section 2 Structure Questions",
   "description": "Preguntas para practicar la sección 2 parte A Estructura TOEFL ITP.",
-  "totalQuestions": 395,
+  "totalQuestions": 431,
   "difficultyBreakdown": {
-    "Easy": 101,
-    "Hard": 66,
-    "Medium": 228
+    "Easy": 113,
+    "Hard": 78,
+    "Medium": 240
   },
   "questions": [
     {
@@ -5932,6 +5932,381 @@
         "uniform"
       ],
       "correctAnswerIndex": 1
+    }
+    {
+      "id": "A0396",
+      "type": "A",
+      "explanation": "\"But\" une dos cláusulas independientes mostrando contraste: el Everest es el más alto sobre el nivel del mar, pero el Mauna Kea es más alto medido desde su base oceánica.",
+      "category": "Independent Clauses",
+      "difficulty": "Easy",
+      "question": "Mount Everest is the tallest mountain above sea level, _____ Mauna Kea is taller when measured from its base on the ocean floor.",
+      "options": ["but", "because", "so", "although"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0397",
+      "type": "A",
+      "explanation": "\"Consequently\" conecta dos cláusulas independientes separadas por punto y coma, mostrando la consecuencia lógica de la danza de las abejas.",
+      "category": "Independent Clauses",
+      "difficulty": "Medium",
+      "question": "Honeybees communicate the location of food sources through a special dance; _____, other members of the hive can locate flowers several miles away.",
+      "options": ["consequently", "although", "despite", "while"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0398",
+      "type": "A",
+      "explanation": "\"However\" es el conectivo correcto tras el punto y coma, pues introduce un contraste: aunque los humanos no llegaron a la Luna hasta 1969, las sondas ya la fotografiaban desde antes.",
+      "category": "Independent Clauses",
+      "difficulty": "Hard",
+      "question": "Human beings did not walk on the Moon until 1969; _____, robotic spacecraft had already been photographing its surface for years before that historic moment.",
+      "options": ["however", "therefore", "moreover", "consequently"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0399",
+      "type": "A",
+      "explanation": "\"Who\" introduce una cláusula adjetiva que funciona como sujeto, refiriéndose a una persona (Marie Curie).",
+      "category": "Adjective Clauses",
+      "difficulty": "Easy",
+      "question": "Marie Curie, _____ conducted pioneering research on radioactivity, was the first person to win Nobel Prizes in two different sciences.",
+      "options": ["who", "whom", "which", "whose"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0400",
+      "type": "A",
+      "explanation": "En cláusulas adjetivas no restrictivas (entre comas) que describen algo, no a una persona, se usa \"which\", no \"that\".",
+      "category": "Adjective Clauses",
+      "difficulty": "Medium",
+      "question": "The Great Barrier Reef, _____ can be seen from space, is the largest living structure on Earth.",
+      "options": ["that", "which", "who", "whom"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0401",
+      "type": "A",
+      "explanation": "\"Whose\" indica posesión, conectando \"theory of relativity\" con \"Einstein\" dentro de la cláusula adjetiva.",
+      "category": "Adjective Clauses",
+      "difficulty": "Hard",
+      "question": "Albert Einstein, _____ theory of relativity transformed modern physics, worked as a patent clerk before becoming a renowned scientist.",
+      "options": ["who", "whom", "whose", "which"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0402",
+      "type": "A",
+      "explanation": "Se usa el participio pasado \"Formed\" porque la Tierra recibe la acción de formarse (sentido pasivo).",
+      "category": "Participial Phrases",
+      "difficulty": "Easy",
+      "question": "_____ over 4.5 billion years ago, the Earth has since undergone dramatic geological transformations.",
+      "options": ["Forming", "Formed", "Form", "To form"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0403",
+      "type": "A",
+      "explanation": "Las dunas son moldeadas por el viento, por lo que se requiere el participio pasado \"Shaped\" (voz pasiva).",
+      "category": "Participial Phrases",
+      "difficulty": "Medium",
+      "question": "_____ by powerful desert winds, the sand dunes of the Sahara can shift several meters within a single year.",
+      "options": ["Shaping", "Shaped", "Shape", "To shape"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0404",
+      "type": "A",
+      "explanation": "\"Having discovered\" es una frase participial perfecta que indica una acción completada antes de la acción principal (el cambio que provocaron en la biología molecular).",
+      "category": "Participial Phrases",
+      "difficulty": "Hard",
+      "question": "_____ discovered the double-helix structure of DNA in 1953, Watson and Crick fundamentally changed the field of molecular biology.",
+      "options": ["Having", "Have", "Had", "Has"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0405",
+      "type": "A",
+      "explanation": "Una aposición renombra al sustantivo sin necesitar verbo propio; \"the largest planet...\" identifica a Júpiter directamente.",
+      "category": "Appositives",
+      "difficulty": "Easy",
+      "question": "Jupiter, _____, has a mass greater than that of all the other planets in the solar system combined.",
+      "options": [
+        "the largest planet in our solar system",
+        "it is the largest planet",
+        "which the largest planet",
+        "being it the largest"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0406",
+      "type": "A",
+      "explanation": "La aposición debe ser una frase nominal sin verbo conjugado propio; solo \"the largest animal known to have ever lived\" cumple esta condición gramaticalmente.",
+      "category": "Appositives",
+      "difficulty": "Medium",
+      "question": "The blue whale, _____, can weigh as much as 200 tons.",
+      "options": [
+        "the largest animal known to have ever lived",
+        "it is the largest animal",
+        "which is the largest animal known",
+        "the largest animal, it has lived"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0407",
+      "type": "A",
+      "explanation": "La aposición es una frase nominal que incluye una frase participial (\"occurring in chloroplasts\"), pero no puede contener un verbo conjugado propio como en las demás opciones.",
+      "category": "Appositives",
+      "difficulty": "Hard",
+      "question": "Photosynthesis, _____, allows plants to convert sunlight into chemical energy.",
+      "options": [
+        "a process occurring mainly in chloroplasts",
+        "a process it occurs in chloroplasts",
+        "which a process occurring in chloroplasts",
+        "occurring in chloroplasts a process"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0408",
+      "type": "A",
+      "explanation": "Se necesita el adverbio \"rapidly\" para modificar el verbo \"change\", describiendo cómo los pulpos cambian de color.",
+      "category": "Adverbs",
+      "difficulty": "Easy",
+      "question": "Octopuses can _____ change the color of their skin to blend in with their surroundings.",
+      "options": ["rapid", "rapidly", "rapidity", "rapidness"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0409",
+      "type": "A",
+      "explanation": "Después de \"so\", se requiere un adverbio (\"slowly\") para modificar el verbo \"move\", no un adjetivo.",
+      "category": "Adverbs",
+      "difficulty": "Medium",
+      "question": "Sloths move so _____ that algae can grow on their fur.",
+      "options": ["slow", "slowly", "slowness", "slowing"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0410",
+      "type": "A",
+      "explanation": "Cuando una oración comienza con el adverbio negativo \"No sooner\", se requiere inversión del sujeto y el auxiliar (\"had scientists\").",
+      "category": "Adverbs",
+      "difficulty": "Hard",
+      "question": "_____ had Charles Richter introduced his magnitude scale than seismologists worldwide adopted it to measure earthquakes.",
+      "options": ["No sooner", "Not until", "Hardly when", "Scarcely until"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0411",
+      "type": "A",
+      "explanation": "La cláusula nominal necesita \"how\" porque se refiere al método de construcción, que sigue siendo un misterio parcial para los arqueólogos.",
+      "category": "Noun Clauses",
+      "difficulty": "Easy",
+      "question": "No one knows exactly _____ the pyramids of Giza were built.",
+      "options": ["how", "what", "which", "who"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0412",
+      "type": "A",
+      "explanation": "\"That\" introduce una cláusula nominal que funciona como sujeto de la oración, expresando un hecho comprobado.",
+      "category": "Noun Clauses",
+      "difficulty": "Medium",
+      "question": "_____ Antarctica contains about 70 percent of the world's fresh water is a fact that surprises many people.",
+      "options": ["What", "That", "Which", "Whether"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0413",
+      "type": "A",
+      "explanation": "Después de verbos de exigencia como \"insist\", la cláusula nominal usa el subjuntivo con la forma base del verbo (\"complete\").",
+      "category": "Noun Clauses",
+      "difficulty": "Hard",
+      "question": "NASA scientists insisted that the astronaut _____ additional tests before the mission proceeded.",
+      "options": ["completes", "complete", "completed", "will complete"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0414",
+      "type": "A",
+      "explanation": "\"In\" se usa para indicar ubicación dentro de un área extensa, como una selva tropical.",
+      "category": "Prepositions",
+      "difficulty": "Easy",
+      "question": "More than half of the world's plant and animal species live _____ the Amazon rainforest.",
+      "options": ["on", "at", "in", "by"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0415",
+      "type": "A",
+      "explanation": "La expresión fija \"interested in\" requiere la preposición \"in\".",
+      "category": "Prepositions",
+      "difficulty": "Medium",
+      "question": "Leonardo da Vinci was interested _____ nearly every branch of science and art.",
+      "options": ["on", "at", "in", "for"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0416",
+      "type": "A",
+      "explanation": "El verbo \"comply\" se combina idiomáticamente con la preposición \"with\", no con las demás opciones.",
+      "category": "Prepositions",
+      "difficulty": "Hard",
+      "question": "Nearly 200 countries agreed to comply _____ the terms set out in the Paris Agreement on climate change.",
+      "options": ["with", "to", "for", "at"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0417",
+      "type": "A",
+      "explanation": "En inglés, los adjetivos siguen un orden fijo: tamaño antes que material, por lo que \"massive\" precede a \"stone\".",
+      "category": "Word Order",
+      "difficulty": "Easy",
+      "question": "The ancient Egyptians built _____ pyramid using an estimated 2.3 million limestone blocks.",
+      "options": ["a massive stone", "a stone massive", "massive a stone", "stone a massive"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0418",
+      "type": "A",
+      "explanation": "Cuando una oración comienza con \"Never before\", se requiere inversión: auxiliar + sujeto + participio (\"had there been\").",
+      "category": "Word Order",
+      "difficulty": "Medium",
+      "question": "Never before _____ a ship considered as technologically advanced as the Titanic.",
+      "options": ["had there been", "there had been", "had been there", "there been had"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0419",
+      "type": "A",
+      "explanation": "La estructura enfática \"Not only... but also\" exige la inversión del sujeto y el auxiliar después de \"Not only\".",
+      "category": "Word Order",
+      "difficulty": "Hard",
+      "question": "Not only _____ crucial X-ray images of DNA, but she also received little recognition for her contribution during her lifetime.",
+      "options": ["Rosalind Franklin did capture", "did Rosalind Franklin capture", "Rosalind Franklin captured", "captured Rosalind Franklin"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0420",
+      "type": "A",
+      "explanation": "\"Each\" es un pronombre singular, por lo que el verbo debe concordar en singular: \"plays\".",
+      "category": "Verb Problems",
+      "difficulty": "Easy",
+      "question": "Each bee in the colony _____ a specific role, such as forager, nurse, or guard.",
+      "options": ["play", "plays", "playing", "played play"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0421",
+      "type": "A",
+      "explanation": "Se usa el pasado perfecto \"had buried\" para indicar una acción completada antes de otro evento pasado (el asentamiento de la ceniza).",
+      "category": "Verb Problems",
+      "difficulty": "Medium",
+      "question": "By the time volcanic ash finally settled over Pompeii, the eruption of Mount Vesuvius _____ most of the city.",
+      "options": ["buries", "has buried", "had buried", "buried"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0422",
+      "type": "A",
+      "explanation": "En condicionales del tercer tipo (hechos hipotéticos pasados), la cláusula \"if\" requiere el pasado perfecto \"had taken\".",
+      "category": "Verb Problems",
+      "difficulty": "Hard",
+      "question": "If the Titanic's crew _____ the iceberg warnings more seriously, the disaster might have been avoided.",
+      "options": ["takes", "took", "had taken", "has taken"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0423",
+      "type": "A",
+      "explanation": "El verbo \"enjoy\" siempre va seguido de un gerundio, no de un infinitivo.",
+      "category": "Infinitives and Gerunds",
+      "difficulty": "Easy",
+      "question": "Dolphins enjoy _____ with other members of their pod.",
+      "options": ["play", "to play", "playing", "plays"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0424",
+      "type": "A",
+      "explanation": "El verbo \"decide\" se combina con un infinitivo (\"to fly\"), no con un gerundio.",
+      "category": "Infinitives and Gerunds",
+      "difficulty": "Medium",
+      "question": "Amelia Earhart decided _____ across the Atlantic Ocean alone in 1932.",
+      "options": ["flying", "fly", "to fly", "flies"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0425",
+      "type": "A",
+      "explanation": "\"Regret + gerundio\" se refiere a lamentar una acción pasada; la negación se coloca antes del gerundio (\"not receiving\").",
+      "category": "Infinitives and Gerunds",
+      "difficulty": "Hard",
+      "question": "Tesla regretted _____ credit for several of his inventions during his lifetime.",
+      "options": ["to not receive", "not receiving", "not to receive", "not receive"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0426",
+      "type": "A",
+      "explanation": "Para mantener el paralelismo con \"swim, dive\", se requiere la forma base \"hunt\" (sin \"to\", ya que comparten el mismo \"to\" inicial de \"ability to\").",
+      "category": "Parallel Structures",
+      "difficulty": "Easy",
+      "question": "Emperor penguins are known for their ability to swim, dive, and _____ in extremely cold water.",
+      "options": ["to hunt", "hunting", "hunt", "hunts"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0427",
+      "type": "A",
+      "explanation": "Después de la preposición \"for\", se requiere un gerundio para mantener el paralelismo con \"for coordinating... for checking\".",
+      "category": "Parallel Structures",
+      "difficulty": "Medium",
+      "question": "The mission commander was responsible not only for coordinating the spacewalk but also for _____ the equipment before reentry.",
+      "options": ["check", "checking", "checked", "to check"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0428",
+      "type": "A",
+      "explanation": "Los tres verbos (\"reduce\", \"increase\", \"decrease\") deben mantenerse en la misma forma base para lograr paralelismo dentro de la lista de infinitivos.",
+      "category": "Parallel Structures",
+      "difficulty": "Hard",
+      "question": "The new energy policy aims to reduce carbon emissions, increase the use of renewable resources, and _____ dependence on fossil fuels.",
+      "options": ["decreasing", "decrease", "decreases", "decreased"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0429",
+      "type": "A",
+      "explanation": "Para adjetivos cortos de una sílaba, el comparativo se forma agregando \"-er\", no con \"more\".",
+      "category": "Comparatives and Superlatives",
+      "difficulty": "Easy",
+      "question": "A cheetah can run _____ than any other land animal.",
+      "options": ["fast", "faster", "fastest", "more fast"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0430",
+      "type": "A",
+      "explanation": "El superlativo requiere el artículo \"the\" antes de \"most\" cuando se compara entre tres o más elementos (todos los lugares de la Tierra).",
+      "category": "Comparatives and Superlatives",
+      "difficulty": "Medium",
+      "question": "Of all the locations on Earth, the Mariana Trench has _____ known ocean depth.",
+      "options": ["more", "most", "the most", "much"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0431",
+      "type": "A",
+      "explanation": "La estructura correlativa \"The more..., the denser...\" expresa que dos cantidades cambian proporcionalmente; \"The more\" es la forma correcta para introducir la primera parte.",
+      "category": "Comparatives and Superlatives",
+      "difficulty": "Hard",
+      "question": "_____ rainfall a region receives annually, the denser its rainforest vegetation tends to be.",
+      "options": ["The more", "More", "The most", "As more"],
+      "correctAnswerIndex": 0
     }
   ]
 }
