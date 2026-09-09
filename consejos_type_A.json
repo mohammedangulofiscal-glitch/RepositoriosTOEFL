@@ -14,7 +14,10 @@
     "El sujeto puede ser un sustantivo, pronombre o frase nominal que realiza la acción",
     "El verbo debe concordar en número y persona con el sujeto de la cláusula",
     "Las cláusulas independientes pueden separarse con punto para formar oraciones simples",
-    "Reconoce los marcadores de cláusula independiente: sujeto + verbo conjugado + idea completa"
+    "Reconoce los marcadores de cláusula independiente: sujeto + verbo conjugado + idea completa",
+    "'However', 'therefore' y 'moreover' van después del punto y coma y llevan una coma inmediatamente después (';  however,')",
+    "Cuidado con el 'comma splice': unir dos cláusulas independientes solo con una coma (sin conjunción) es un error común",
+    "Antes de elegir el conector, identifica si la relación entre las cláusulas es de contraste, causa, consecuencia o adición"
   ],
   
   "Adjective Clauses": [
@@ -32,7 +35,10 @@
     "La preposición puede ir antes del pronombre relativo en lenguaje formal (in which, for whom)",
     "El verbo en la cláusula adjetiva concuerda con el antecedente (el sustantivo que modifica)",
     "Las cláusulas adjetivas pueden reducirse a participios en algunos casos",
-    "Reconoce si la cláusula es esencial (restrictiva) o no esencial (no restrictiva)"
+    "Reconoce si la cláusula es esencial (restrictiva) o no esencial (no restrictiva)",
+    "Usa 'who' para el sujeto y 'whom' para el objeto cuando el antecedente es una persona",
+    "'Whose' indica posesión y conecta un sustantivo con su poseedor dentro de la cláusula adjetiva",
+    "'That' se usa en cláusulas restrictivas (sin comas); 'which' se usa en cláusulas no restrictivas (entre comas) para cosas"
   ],
   
   "Participial Phrases": [
@@ -50,7 +56,10 @@
     "Las frases participiales añaden información sin usar un verbo conjugado adicional",
     "El participio presente puede expresar dos acciones simultáneas",
     "No confundir el gerundio (-ing como sustantivo) con el participio presente (-ing como adjetivo)",
-    "La frase participial debe estar cerca del sustantivo que modifica para evitar ambigüedad"
+    "La frase participial debe estar cerca del sustantivo que modifica para evitar ambigüedad",
+      "Usa el participio pasado (-ed/-en) cuando el sustantivo recibe la acción (voz pasiva): 'Formed by...', 'Shaped by...'",
+    "Usa el gerundio (-ing) cuando el sustantivo realiza la acción activamente: 'Analyzing the data, she...'",
+    "'Having + participio pasado' indica que una acción se completó antes de la acción principal de la oración"
   ],
   
   "Appositives": [
@@ -68,7 +77,10 @@
     "El apositivo puede ir después de un sustantivo propio para dar información adicional",
     "Los apositivos pueden ser introducidos por 'that is', 'for example', 'namely'",
     "No confundir apositivos con cláusulas adjetivas (los apositivos no tienen verbo)",
-    "Los apositivos pueden ser esenciales para identificar a un sustantivo específico"
+    "Los apositivos pueden ser esenciales para identificar a un sustantivo específico",
+    "Una aposición es una frase nominal que renombra a otro sustantivo y nunca lleva un verbo conjugado propio",
+    "Las aposiciones no restrictivas van separadas por comas a ambos lados dentro de la oración",
+    "Evita agregar pronombres redundantes (it, he, she) dentro de la aposición; la frase debe funcionar sola"
   ],
   
   "Adverbs": [
@@ -86,7 +98,10 @@
     "Los adverbios interrogativos (when, where, why, how) introducen preguntas",
     "Los adverbios relativos (when, where, why) introducen cláusulas adjetivas",
     "Algunos adverbios tienen forma irregular: well (good), hard (hardly tiene otro significado)",
-    "Los adverbios pueden expresar comparación: más/menos + adverbio + than"
+    "Los adverbios pueden expresar comparación: más/menos + adverbio + than",
+    "Los adverbios modifican verbos, adjetivos u otros adverbios, y muchos se forman agregando '-ly' al adjetivo",
+    "Cuando una oración comienza con un adverbio negativo (Never, No sooner, Hardly), se requiere inversión de sujeto y auxiliar",
+    "Distingue entre el adjetivo (describe sustantivos) y el adverbio (describe la acción del verbo): 'slow' vs. 'slowly'"
   ],
   
   "Noun Clauses": [
@@ -104,7 +119,10 @@
     "El verbo en la cláusula nominal concuerda con el sujeto de la cláusula",
     "Las cláusulas nominales pueden ser introducidas por 'the fact that' para dar énfasis",
     "Los verbos de comunicación (say, think, believe) suelen ir seguidos de cláusulas nominales",
-    "Las cláusulas nominales pueden expresar hechos, ideas, preguntas o deseos"
+    "Las cláusulas nominales pueden expresar hechos, ideas, preguntas o deseos",
+    "Las cláusulas nominales pueden funcionar como sujeto, objeto o complemento dentro de la oración principal",
+    "'That' introduce hechos o afirmaciones; los pronombres interrogativos (what, how, why) introducen preguntas indirectas",
+    "Después de verbos de exigencia o recomendación (insist, demand, recommend), la cláusula nominal usa el subjuntivo (forma base del verbo)"
   ],
   
   "Prepositions": [
@@ -122,7 +140,10 @@
     "Las preposiciones de agente: by (para la voz pasiva)",
     "Las preposiciones de instrumento: with (para herramientas y medios)",
     "Algunas expresiones fijas: in time (a tiempo), on time (puntual), at last (finalmente)",
-    "Las preposiciones pueden expresar relación entre dos elementos en la oración"
+    "Las preposiciones pueden expresar relación entre dos elementos en la oración",
+    "Muchas preposiciones forman combinaciones fijas con verbos y adjetivos (interested in, comply with) que deben memorizarse",
+    "Las preposiciones de lugar (in, on, at) varían según si se trata de un área extensa, una superficie o un punto específico",
+    "Después de una preposición, el verbo siempre toma la forma de gerundio, nunca de infinitivo"
   ],
   
   "Word Order": [
@@ -140,7 +161,10 @@
     "Los complementos del sujeto van después del verbo 'to be'",
     "En comparaciones, el orden es: comparativo + than + elemento comparado",
     "Los artículos y determinadores van antes del sustantivo y sus adjetivos",
-    "Las preposiciones generalmente van antes del sustantivo o pronombre"
+    "Las preposiciones generalmente van antes del sustantivo o pronombre",
+    "En inglés, los adjetivos siguen un orden fijo: opinión, tamaño, edad, forma, color, origen, material antes del sustantivo",
+    "Con estructuras enfáticas al inicio de la oración (Not only, Never, No sooner), se requiere inversión de sujeto y auxiliar",
+    "El orden natural en inglés es sujeto + verbo + objeto; cualquier elemento colocado al frente para dar énfasis exige reordenar el resto"
   ],
   
   "Verb Problems": [
@@ -158,7 +182,10 @@
     "Los verbos irregulares tienen formas especiales en pasado y participio",
     "Los verbos pueden ser transitivos (requieren objeto) o intransitivos (no requieren objeto)",
     "La voz pasiva: to be + participio pasado (se usa cuando la acción es más importante que el actor)",
-    "Los tiempos verbales deben ser consistentes en toda la oración"
+    "Los tiempos verbales deben ser consistentes en toda la oración",
+    "El pasado perfecto (had + participio) se usa para la acción que ocurrió primero cuando se narran dos eventos en el pasado",
+    "En condicionales del tercer tipo (situaciones hipotéticas pasadas), la cláusula 'if' usa el pasado perfecto y la cláusula principal usa 'would have + participio'",
+    "Verifica siempre la concordancia sujeto-verbo con pronombres indefinidos como 'each', 'everyone' o 'each of' (son singulares)"
   ],
   
   "Infinitives and Gerunds": [
@@ -176,7 +203,10 @@
     "El infinitivo se usa con 'too' y 'enough': too big to carry, old enough to drive",
     "Los verbos 'make' y 'let' van seguidos de infinitivo sin 'to' (bare infinitive)",
     "El gerundio se usa para actividades y pasatiempos: I like swimming, He enjoys reading",
-    "El infinitivo puede ser con 'to' o sin 'to' (bare infinitive) después de verbos modales"
+    "El infinitivo puede ser con 'to' o sin 'to' (bare infinitive) después de verbos modales",
+    "Verbos como 'enjoy', 'avoid' y 'regret' (acción pasada) van seguidos de gerundio, no de infinitivo",
+    "Verbos como 'decide', 'want' y 'plan' van seguidos de infinitivo ('to' + verbo base)",
+    "Para negar un gerundio o infinitivo, 'not' se coloca inmediatamente antes de la forma verbal: 'not receiving', 'not to receive'"
   ],
   
   "Parallel Structures": [
@@ -194,7 +224,10 @@
     "Las cláusulas adjetivas en serie deben ser consistentes",
     "Los elementos paralelos mejoran la claridad y fluidez de la oración",
     "Revisa siempre que los elementos unidos por conjunciones sean gramaticalmente similares",
-    "El paralelismo se aplica a todos los niveles: palabras, frases y cláusulas"
+    "El paralelismo se aplica a todos los niveles: palabras, frases y cláusulas",
+    "En una lista o serie, todos los elementos deben compartir la misma forma gramatical (todos gerundios, todos infinitivos, todos verbos base)",
+    "Con estructuras correlativas (not only...but also, both...and, either...or), ambas partes deben tener la misma estructura sintáctica",
+    "Después de una preposición compartida (for, of, with), todos los elementos paralelos deben usar gerundio"
   ],
   
    "Comparatives and Superlatives": [
@@ -227,6 +260,9 @@
     "No confundir 'alike' (adjetivo) con 'like' (preposición): 'They look alike' vs 'They look like each other'",
     "Las comparaciones con 'than' requieren que ambos elementos estén en la misma forma gramatical",
     "En comparaciones, evitar comparar cosas que no son comparables: 'The price of coffee is higher than tea' (incorrecto) → 'The price of coffee is higher than that of tea' (correcto)",
-    "Los comparativos pueden usar pronombres personales: 'He is taller than I' (formal) o 'He is taller than me' (informal)"
+    "Los comparativos pueden usar pronombres personales: 'He is taller than I' (formal) o 'He is taller than me' (informal)",
+     "Los adjetivos de una sílaba forman el comparativo agregando '-er' y el superlativo con '-est'; los de dos o más sílabas usan 'more/most'",
+    "El superlativo siempre lleva el artículo 'the' cuando se comparan tres o más elementos",
+    "La estructura correlativa 'The + comparativo..., the + comparativo...' expresa que dos cantidades cambian proporcionalmente juntas"
   ]
 }
