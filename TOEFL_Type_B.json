@@ -1,11 +1,11 @@
 {
   "title": "TOEFL ITP - Section 2 Part B Written Expressions Questions",
   "description": "Preguntas para practicar la sección 2 parte B Expresión Escrita del TOEFL ITP.",
-  "totalQuestions": 535,
+  "totalQuestions": 568,
   "difficultyBreakdown": {
-    "Easy": 144,
-    "Hard": 83,
-    "Medium": 308
+    "Easy": 155,
+    "Hard": 94,
+    "Medium": 319
   },
   "questions": [
     {
@@ -8567,6 +8567,369 @@
         "likely"
       ],
       "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0536",
+      "type": "B",
+      "explanation": "careful → care: Después de \"with great\", se necesita el sustantivo \"care\", no el adjetivo \"careful\".",
+      "category": "Word Form",
+      "difficulty": "Easy",
+      "sentence": "The Great Wall of China, which stretches thousands of miles, was built with great careful planning and remains one of the most impressive structures ever constructed by human civilization.",
+      "sentenceFormatted": "The Great Wall of China, which stretches thousands of miles, was built with great **<u>careful</u>** planning and remains one of the most **<u>impressive</u>** structures ever **<u>constructed</u>** by human **<u>civilization</u>**.",
+      "underlinedOptions": ["careful", "impressive", "constructed", "civilization"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0537",
+      "type": "B",
+      "explanation": "efficient → efficiently: Se necesita un adverbio para modificar el verbo \"convert\", no un adjetivo.",
+      "category": "Word Form",
+      "difficulty": "Medium",
+      "sentence": "Photosynthesis is a biological process that allows plants to efficient convert sunlight into chemical energy, which is essential for their survival and growth.",
+      "sentenceFormatted": "Photosynthesis is a **<u>biological</u>** process that allows plants to **<u>efficient</u>** convert sunlight into chemical energy, which is essential for their **<u>survival</u>** and **<u>growth</u>**.",
+      "underlinedOptions": ["biological", "efficient", "survival", "growth"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0538",
+      "type": "B",
+      "explanation": "complexity → complex: La estructura \"so + adjetivo + that\" requiere el adjetivo \"complex\", no el sustantivo \"complexity\".",
+      "category": "Word Form",
+      "difficulty": "Hard",
+      "sentence": "Einstein's theory of relativity, which fundamentally altered our understanding of space and time, was based on mathematical reasoning so complexity that few physicists of his era could fully grasp its implications.",
+      "sentenceFormatted": "Einstein's theory of relativity, which fundamentally **<u>altered</u>** our understanding of space and time, was based on mathematical **<u>reasoning</u>** so **<u>complexity</u>** that few physicists of his era could fully grasp its **<u>implications</u>**.",
+      "underlinedOptions": ["altered", "reasoning", "complexity", "implications"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0539",
+      "type": "B",
+      "explanation": "effect → affect: \"Affect\" es el verbo que significa \"influir en algo\"; \"effect\" es generalmente un sustantivo que significa \"resultado\".",
+      "category": "Word Choice",
+      "difficulty": "Easy",
+      "sentence": "Coral reefs, which provide habitat for approximately a quarter of all marine species, are extremely sensitive to changes in water temperature, and even a slight rise can effect their delicate ecosystem dramatically.",
+      "sentenceFormatted": "Coral reefs, which provide habitat for **<u>approximately</u>** a quarter of all marine species, are extremely sensitive to **<u>changes</u>** in water temperature, and even a slight rise can **<u>effect</u>** their delicate ecosystem **<u>dramatically</u>**.",
+      "underlinedOptions": ["approximately", "changes", "effect", "dramatically"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0540",
+      "type": "B",
+      "explanation": "than → then: \"Then\" indica secuencia temporal (\"y luego\"); \"than\" se usa únicamente en comparaciones.",
+      "category": "Word Choice",
+      "difficulty": "Medium",
+      "sentence": "Volcanic eruptions can dramatically alter local climate, since ash and gas are released into the atmosphere, and than global temperatures may drop for months or even years afterward, affecting agriculture worldwide in ways scientists still struggle to fully understand.",
+      "sentenceFormatted": "Volcanic eruptions can dramatically alter local climate, since ash and gas are released into the atmosphere, and **<u>than</u>** global temperatures may drop for months or even years afterward, affecting agriculture **<u>worldwide</u>** in ways scientists still **<u>struggle</u>** to fully **<u>understand</u>**.",
+      "underlinedOptions": ["than", "worldwide", "struggle", "understand"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0541",
+      "type": "B",
+      "explanation": "affect → effect: \"Effect\" es el sustantivo que significa \"resultado\" o \"consecuencia\"; \"affect\" es generalmente un verbo.",
+      "category": "Word Choice",
+      "difficulty": "Hard",
+      "sentence": "Marie Curie's research was so groundbreaking that it fundamentally changed scientific understanding of radioactivity, although her prolonged exposure to radioactive materials eventually had a devastating affect on her health, ultimately contributing to her death.",
+      "sentenceFormatted": "Marie Curie's research was so **<u>groundbreaking</u>** that it fundamentally changed scientific understanding of radioactivity, **<u>although</u>** her prolonged exposure to radioactive materials eventually had a devastating **<u>affect</u>** on her health, ultimately **<u>contributing</u>** to her death.",
+      "underlinedOptions": ["groundbreaking", "although", "affect", "contributing"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0542",
+      "type": "B",
+      "explanation": "contain → contains: El sujeto singular \"The Great Barrier Reef\" requiere el verbo en tercera persona del singular.",
+      "category": "Verbs",
+      "difficulty": "Easy",
+      "sentence": "The Great Barrier Reef stretches over 2,300 kilometers along the coast of Australia and contain thousands of species of coral and fish that attract millions of tourists each year.",
+      "sentenceFormatted": "The Great Barrier Reef **<u>stretches</u>** over 2,300 kilometers along the coast of Australia and **<u>contain</u>** thousands of species of coral and fish that **<u>attract</u>** millions of tourists **<u>each</u>** year.",
+      "underlinedOptions": ["stretches", "contain", "attract", "each"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0543",
+      "type": "B",
+      "explanation": "allows → allowed: El contexto narrativo está en pasado, por lo que el verbo debe mantenerse en pasado simple.",
+      "category": "Verbs",
+      "difficulty": "Medium",
+      "sentence": "By the time European explorers arrived in the Americas, indigenous civilizations had already developed sophisticated agricultural systems that allows them to support large populations and build complex cities.",
+      "sentenceFormatted": "By the time European explorers **<u>arrived</u>** in the Americas, indigenous civilizations **<u>had already developed</u>** sophisticated agricultural systems that **<u>allows</u>** them to support large populations and **<u>build</u>** complex cities.",
+      "underlinedOptions": ["arrived", "had already developed", "allows", "build"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0544",
+      "type": "B",
+      "explanation": "continuing → continued: Debe mantenerse el paralelismo con \"might have survived and (might have) continued\", usando el participio pasado tras \"have\".",
+      "category": "Verbs",
+      "difficulty": "Hard",
+      "sentence": "Had the ancient Library of Alexandria not been destroyed, countless scientific and literary works that were lost to history might have survived and continuing to influence scholars today.",
+      "sentenceFormatted": "Had the ancient Library of Alexandria not **<u>been destroyed</u>**, countless scientific and literary works that **<u>were lost</u>** to history **<u>might have survived</u>** and **<u>continuing</u>** to influence scholars today.",
+      "underlinedOptions": ["been destroyed", "were lost", "might have survived", "continuing"],
+      "incorrectOptionIndex": 3
+    },
+    {
+      "id": "B0545",
+      "type": "B",
+      "explanation": "surviving → survive: Para mantener el paralelismo con \"dive\" y \"hold\", se necesita la forma base \"survive\".",
+      "category": "Parallel Structures",
+      "difficulty": "Easy",
+      "sentence": "Emperor penguins are known for their ability to dive deep, hold their breath for long periods, and surviving extremely cold temperatures.",
+      "sentenceFormatted": "Emperor penguins are **<u>known</u>** for their ability to **<u>dive</u>** deep, hold their breath for long periods, and **<u>surviving</u>** extremely cold **<u>temperatures</u>**.",
+      "underlinedOptions": ["known", "dive", "surviving", "temperatures"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0546",
+      "type": "B",
+      "explanation": "fostering → to foster: Para mantener el paralelismo con \"to conduct\" y \"to test\", se necesita el infinitivo \"to foster\".",
+      "category": "Parallel Structures",
+      "difficulty": "Medium",
+      "sentence": "The mission of the International Space Station is to conduct scientific research, to test new technologies, and fostering international cooperation among participating space agencies around the world.",
+      "sentenceFormatted": "The mission of the International Space Station is to conduct scientific research, to test new technologies, and **<u>fostering</u>** international cooperation among **<u>participating</u>** space **<u>agencies</u>** around the **<u>world</u>**.",
+      "underlinedOptions": ["fostering", "participating", "agencies", "world"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0547",
+      "type": "B",
+      "explanation": "because he excelled → for his expertise: La estructura \"not only... but also\" requiere elementos paralelos; después de \"for his mastery\" se necesita otra frase con \"for\", no una cláusula con \"because\".",
+      "category": "Parallel Structures",
+      "difficulty": "Hard",
+      "sentence": "Leonardo da Vinci is remembered not only for his mastery of painting but also because he excelled in anatomy, engineering, and the study of natural phenomena, leaving behind notebooks filled with sketches and observations.",
+      "sentenceFormatted": "Leonardo da Vinci is remembered not only for his mastery of painting but also **<u>because he excelled</u>** in anatomy, engineering, and **<u>the study</u>** of natural phenomena, **<u>leaving</u>** behind notebooks filled with sketches and **<u>observations</u>**.",
+      "underlinedOptions": ["because he excelled", "the study", "leaving", "observations"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0548",
+      "type": "B",
+      "explanation": "it → she: El pronombre debe mantener concordancia; una vez establecido \"her\" para referirse a la osa, debe usarse \"she\", no \"it\".",
+      "category": "Pronouns",
+      "difficulty": "Easy",
+      "sentence": "When a mother polar bear leaves her den in spring, it usually brings her cubs with her so that they can learn to hunt.",
+      "sentenceFormatted": "When a mother polar bear leaves her den in spring, **<u>it</u>** usually brings **<u>her</u>** cubs with **<u>her</u>** so that **<u>they</u>** can learn to hunt.",
+      "underlinedOptions": ["it", "her", "her", "they"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0549",
+      "type": "B",
+      "explanation": "its → their: El pronombre debe concordar con el antecedente plural \"honeybees\", por lo que se requiere \"their\", no \"its\".",
+      "category": "Pronouns",
+      "difficulty": "Medium",
+      "sentence": "Although honeybees communicate through a complex dance, its precise meaning was not fully understood until Karl von Frisch dedicated himself to studying them throughout his career.",
+      "sentenceFormatted": "Although honeybees communicate through a complex dance, **<u>its</u>** precise meaning was not fully understood until Karl von Frisch dedicated **<u>himself</u>** to studying **<u>them</u>** throughout **<u>his</u>** career.",
+      "underlinedOptions": ["its", "himself", "them", "his"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0550",
+      "type": "B",
+      "explanation": "their → his: \"Each\" es un pronombre indefinido singular, por lo que en el registro formal del TOEFL requiere el pronombre singular \"his\", no el plural \"their\".",
+      "category": "Pronouns",
+      "difficulty": "Hard",
+      "sentence": "Each of the three astronauts aboard Apollo 11 had trained rigorously for years before their historic voyage, and each later described the experience as personally transformative.",
+      "sentenceFormatted": "Each of the three astronauts aboard Apollo 11 had trained rigorously for **<u>years</u>** before **<u>their</u>** historic voyage, and each later described **<u>the experience</u>** as personally **<u>transformative</u>**.",
+      "underlinedOptions": ["years", "their", "the experience", "transformative"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0551",
+      "type": "B",
+      "explanation": "cub → cubs: Se necesita la forma plural porque se refiere a las crías de varias leonas dentro del grupo.",
+      "category": "Singular and Plural Nouns",
+      "difficulty": "Easy",
+      "sentence": "A group of lions is called a pride, and each pride typically consists of several female lions, their cub, and a small number of adult males.",
+      "sentenceFormatted": "A group of **<u>lions</u>** is called a pride, and each pride typically consists of several **<u>female</u>** lions, their **<u>cub</u>**, and a small number of **<u>adult</u>** males.",
+      "underlinedOptions": ["lions", "female", "cub", "adult"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0552",
+      "type": "B",
+      "explanation": "organism → organisms: \"Many of these\" requiere un sustantivo en plural.",
+      "category": "Singular and Plural Nouns",
+      "difficulty": "Medium",
+      "sentence": "Scientists have identified thousands of species of bacteria that live in the human gut, and many of these organism play a crucial role in digestion, immunity, and overall health of the body.",
+      "sentenceFormatted": "Scientists have identified thousands of **<u>species</u>** of bacteria that live in the human gut, and many of these **<u>organism</u>** play a crucial role in digestion, immunity, and overall **<u>health</u>** of the **<u>body</u>**.",
+      "underlinedOptions": ["species", "organism", "health", "body"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0553",
+      "type": "B",
+      "explanation": "limb → limbs: Después de \"eight identical\", se necesita el sustantivo en plural \"limbs\".",
+      "category": "Singular and Plural Nouns",
+      "difficulty": "Hard",
+      "sentence": "Although octopuses are often mistaken for having eight identical limb, researchers have found that each arm can act somewhat independently, controlled by a network of neurons distributed throughout the creature's body rather than centralized in a single brain.",
+      "sentenceFormatted": "Although octopuses are often mistaken for having eight identical **<u>limb</u>**, researchers have found that each arm can act somewhat **<u>independently</u>**, controlled by a network of **<u>neurons</u>** distributed throughout the creature's body rather than centralized in a single **<u>brain</u>**.",
+      "underlinedOptions": ["limb", "independently", "neurons", "brain"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0554",
+      "type": "B",
+      "explanation": "emit → emitting: Se necesita el gerundio \"emitting\" para mantener el paralelismo con la frase participial \"listening for echoes\".",
+      "category": "Verbals",
+      "difficulty": "Easy",
+      "sentence": "Bats use echolocation, emit high-pitched sounds and listening for echoes, to navigate in complete darkness.",
+      "sentenceFormatted": "Bats use echolocation, **<u>emit</u>** high-pitched sounds and **<u>listening</u>** for echoes, **<u>to navigate</u>** in complete **<u>darkness</u>**.",
+      "underlinedOptions": ["emit", "listening", "to navigate", "darkness"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0555",
+      "type": "B",
+      "explanation": "transmit → to transmit: Después de \"continues\", se necesita un infinitivo (\"to transmit\") o gerundio (\"transmitting\"), nunca la forma base sola.",
+      "category": "Verbals",
+      "difficulty": "Medium",
+      "sentence": "NASA's Voyager 1 spacecraft, launched in 1977, continues transmit data from interstellar space, providing scientists with information about regions no human-made object had ever reached.",
+      "sentenceFormatted": "NASA's Voyager 1 spacecraft, **<u>launched</u>** in 1977, continues **<u>transmit</u>** data from interstellar space, **<u>providing</u>** scientists with information about **<u>regions</u>** no human-made object had ever reached.",
+      "underlinedOptions": ["launched", "transmit", "providing", "regions"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0556",
+      "type": "B",
+      "explanation": "protect → protecting: Se necesita un gerundio para que la frase funcione como sujeto del verbo \"required\".",
+      "category": "Verbals",
+      "difficulty": "Hard",
+      "sentence": "Having spent years studying gorilla behavior in the wild, Dian Fossey became convinced that protect the endangered primates required not only scientific research but also direct intervention against poachers threatening their survival.",
+      "sentenceFormatted": "Having **<u>spent</u>** years studying gorilla behavior in the wild, Dian Fossey became convinced that **<u>protect</u>** the endangered primates required not only scientific research but also direct intervention against poachers **<u>threatening</u>** their **<u>survival</u>**.",
+      "underlinedOptions": ["spent", "protect", "threatening", "survival"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0557",
+      "type": "B",
+      "explanation": "to → into: El verbo \"empty\" (desembocar) se combina idiomáticamente con la preposición \"into\", no \"to\".",
+      "category": "Prepositions",
+      "difficulty": "Easy",
+      "sentence": "The Amazon River flows through several South American countries and eventually empties to the Atlantic Ocean, carrying more water than any other river on Earth.",
+      "sentenceFormatted": "The Amazon River flows **<u>through</u>** several South American countries and eventually empties **<u>to</u>** the Atlantic Ocean, carrying more water than any other river **<u>on</u>** **<u>Earth</u>**.",
+      "underlinedOptions": ["through", "to", "on", "Earth"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0558",
+      "type": "B",
+      "explanation": "on → in: La expresión fija correcta es \"interested in\", no \"interested on\".",
+      "category": "Prepositions",
+      "difficulty": "Medium",
+      "sentence": "Charles Darwin was greatly influenced by his voyage aboard the HMS Beagle, during which he collected specimens from numerous islands and became increasingly interested on the mechanisms behind natural selection.",
+      "sentenceFormatted": "Charles Darwin was greatly influenced **<u>by</u>** his voyage aboard the HMS Beagle, during which he collected specimens **<u>from</u>** numerous islands and became increasingly interested **<u>on</u>** the mechanisms **<u>behind</u>** natural selection.",
+      "underlinedOptions": ["by", "from", "on", "behind"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0559",
+      "type": "B",
+      "explanation": "with → to: El verbo \"contribute\" se combina idiomáticamente con la preposición \"to\", no \"with\".",
+      "category": "Prepositions",
+      "difficulty": "Hard",
+      "sentence": "The Treaty of Versailles, signed at the end of World War I, imposed harsh economic penalties on Germany, a decision that many historians believe contributed with the political instability that eventually led to World War II.",
+      "sentenceFormatted": "The Treaty of Versailles, signed **<u>at</u>** the end of World War I, imposed harsh economic penalties **<u>on</u>** Germany, a decision that many historians believe contributed **<u>with</u>** the political instability that eventually led **<u>to</u>** World War II.",
+      "underlinedOptions": ["at", "on", "with", "to"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0560",
+      "type": "B",
+      "explanation": "The Mount Everest → Mount Everest: No se utiliza el artículo definido \"the\" antes de nombres propios de montañas individuales.",
+      "category": "Articles",
+      "difficulty": "Easy",
+      "sentence": "The Mount Everest is the tallest mountain above sea level, standing at an impressive height of over 29,000 feet above the sea level.",
+      "sentenceFormatted": "**<u>The</u>** Mount Everest is **<u>the</u>** tallest mountain above sea level, standing at **<u>an</u>** impressive height of over 29,000 feet above **<u>the</u>** sea level.",
+      "underlinedOptions": ["The", "the", "an", "the"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0561",
+      "type": "B",
+      "explanation": "the bacteria → bacteria: Cuando se habla de las bacterias en sentido general, no se utiliza el artículo definido \"the\".",
+      "category": "Articles",
+      "difficulty": "Medium",
+      "sentence": "Honey never spoils because it contains very little water and has a naturally acidic pH, which creates an environment where the bacteria cannot easily survive.",
+      "sentenceFormatted": "Honey never spoils because it contains very little **<u>water</u>** and has **<u>a</u>** naturally acidic pH, which creates **<u>an</u>** environment where **<u>the</u>** bacteria cannot easily survive.",
+      "underlinedOptions": ["water", "a", "an", "the"],
+      "incorrectOptionIndex": 3
+    },
+    {
+      "id": "B0562",
+      "type": "B",
+      "explanation": "a largest dinosaurs → the largest dinosaurs: El superlativo requiere el artículo definido \"the\", y \"a\" no puede preceder a un sustantivo en plural.",
+      "category": "Articles",
+      "difficulty": "Hard",
+      "sentence": "According to the most recent estimates, blue whales can weigh as much as 200 tons, making them the heaviest animals ever known to have inhabited the Earth, far surpassing even a largest dinosaurs.",
+      "sentenceFormatted": "According to **<u>the</u>** most recent estimates, blue whales can weigh as much as 200 tons, making them **<u>the</u>** heaviest animals ever known to have inhabited **<u>the</u>** Earth, far surpassing even **<u>a</u>** largest dinosaurs.",
+      "underlinedOptions": ["the", "the", "the", "a"],
+      "incorrectOptionIndex": 3
+    },
+    {
+      "id": "B0563",
+      "type": "B",
+      "explanation": "more fast → faster: Los adjetivos de una sílaba forman el comparativo agregando \"-er\", no con \"more\".",
+      "category": "Comparatives and Superlatives",
+      "difficulty": "Easy",
+      "sentence": "A cheetah can run much faster than a lion, making it the fastest land animal, capable of reaching speeds more fast than 60 miles per hour in short bursts.",
+      "sentenceFormatted": "A cheetah can run much **<u>faster</u>** than a lion, making it **<u>the</u>** fastest land animal, capable of reaching speeds **<u>more fast</u>** than 60 miles per hour in short **<u>bursts</u>**.",
+      "underlinedOptions": ["faster", "the", "more fast", "bursts"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0564",
+      "type": "B",
+      "explanation": "the powerfulest → the most powerful: Los adjetivos de tres o más sílabas forman el superlativo con \"the most\", no agregando \"-est\".",
+      "category": "Comparatives and Superlatives",
+      "difficulty": "Medium",
+      "sentence": "Of all the planets in the solar system, Jupiter has the most powerful magnetic field, one that is stronger than Earth's by a factor of thousands, making it by far the powerfulest magnetosphere known.",
+      "sentenceFormatted": "Of all the planets in the solar system, Jupiter has **<u>the most</u>** powerful magnetic field, one that is **<u>stronger</u>** than Earth's by a factor of **<u>thousands</u>**, making it by far **<u>the powerfulest</u>** magnetosphere known.",
+      "underlinedOptions": ["the most", "stronger", "thousands", "the powerfulest"],
+      "incorrectOptionIndex": 3
+    },
+    {
+      "id": "B0565",
+      "type": "B",
+      "explanation": "less conclusive as → less conclusive than: La estructura comparativa \"less + adjetivo\" requiere \"than\", no \"as\".",
+      "category": "Comparatives and Superlatives",
+      "difficulty": "Hard",
+      "sentence": "Although the blue whale is far larger than any land animal that has ever existed, some researchers argue that certain dinosaur species may have been heavier, even than the largest whales, though fossil evidence remains less conclusive as that for modern marine giants.",
+      "sentenceFormatted": "Although the blue whale is **<u>far</u>** larger than any land animal that has ever existed, some researchers argue that certain dinosaur species may have been **<u>heavier</u>**, even **<u>than</u>** the largest whales, though fossil evidence remains **<u>less conclusive as</u>** that for modern marine giants.",
+      "underlinedOptions": ["far", "heavier", "than", "less conclusive as"],
+      "incorrectOptionIndex": 3
+    },
+    {
+      "id": "B0566",
+      "type": "B",
+      "explanation": "impressive stone large → impressive large stone: El orden correcto de los adjetivos en inglés es opinión, tamaño y luego material.",
+      "category": "Word Order",
+      "difficulty": "Easy",
+      "sentence": "Ancient Egyptians built impressive stone large pyramids using techniques that still puzzle modern engineers.",
+      "sentenceFormatted": "Ancient Egyptians built **<u>impressive stone large</u>** pyramids using techniques that **<u>still</u>** puzzle **<u>modern</u>** **<u>engineers</u>**.",
+      "underlinedOptions": ["impressive stone large", "still", "modern", "engineers"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0567",
+      "type": "B",
+      "explanation": "scientists had observed → had scientists observed: Cuando \"Never\" inicia la oración, se requiere la inversión del sujeto y el auxiliar.",
+      "category": "Word Order",
+      "difficulty": "Medium",
+      "sentence": "Never scientists had observed before such a powerful solar flare, one so intense that it disrupted radio communications across much of the planet.",
+      "sentenceFormatted": "Never **<u>scientists had observed</u>** **<u>before</u>** such a powerful solar flare, one so intense that it disrupted radio communications **<u>across</u>** much of the **<u>planet</u>**.",
+      "underlinedOptions": ["scientists had observed", "before", "across", "planet"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0568",
+      "type": "B",
+      "explanation": "the ancient Romans built → did the ancient Romans build: La estructura enfática \"Not only... but also\" requiere la inversión del sujeto y el auxiliar tras \"Not only\".",
+      "category": "Word Order",
+      "difficulty": "Hard",
+      "sentence": "Not only the ancient Romans built extensive road networks throughout their empire, but they also developed sophisticated systems of aqueducts that carried water over remarkable distances.",
+      "sentenceFormatted": "Not only **<u>the ancient Romans built</u>** extensive road networks throughout their empire, but they also developed sophisticated systems of aqueducts **<u>that</u>** **<u>carried</u>** water over **<u>remarkable</u>** distances.",
+      "underlinedOptions": ["the ancient Romans built", "that", "carried", "remarkable"],
+      "incorrectOptionIndex": 0
     }
   ]
 }
