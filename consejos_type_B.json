@@ -14,7 +14,10 @@
     "La forma del adverbio se usa para modificar verbos, adjetivos y otros adverbios: 'He spoke clearly'",
     "El adjetivo va antes del sustantivo o después del verbo 'to be': 'a careful driver' o 'the driver is careful'",
     "El adverbio va después del verbo o antes del adjetivo: 'She drives carefully' o 'She is very careful'",
-    "Identifica la función de la palabra en la oración para elegir la forma correcta"
+    "Identifica la función de la palabra en la oración para elegir la forma correcta",
+    "Identifica la función gramatical de la palabra subrayada dentro de la oración: si modifica a un sustantivo necesita ser adjetivo, si modifica a un verbo necesita ser adverbio",
+    "Después de 'with great', 'in a state of' o expresiones similares, se necesita un sustantivo (care, importance), no un adjetivo (careful, important)",
+    "La estructura 'so + adjetivo + that' y 'too + adjetivo + to' siempre requieren la forma adjetiva, nunca la forma sustantiva de la palabra"
   ],
   
   "Word Choice": [
@@ -32,7 +35,10 @@
     "No confundir 'farther' (distancia física) con 'further' (distancia figurativa o adicional)",
     "No confundir 'less' (menos, para cosas no contables) con 'fewer' (menos, para cosas contables)",
     "No confundir 'lie' (reclinarse, yacer) con 'lay' (poner, colocar)",
-    "No confundir 'raise' (levantar, aumentar, para algo que necesita ser levantado) con 'rise' (levantarse, subir, algo que se levanta por sí mismo)"
+    "No confundir 'raise' (levantar, aumentar, para algo que necesita ser levantado) con 'rise' (levantarse, subir, algo que se levanta por sí mismo)",
+    "Memoriza los pares de palabras que se confunden frecuentemente: affect (verbo)/effect (sustantivo), than (comparación)/then (secuencia), accept/except",
+    "Verifica que la palabra elegida tenga el significado exacto que exige el contexto, no solo una forma o sonido similar a la palabra correcta",
+    "Presta especial atención a palabras que cambian de categoría gramatical según su significado, como 'effect' (efecto, sustantivo) que también puede funcionar como verbo con el significado de 'llevar a cabo'"
   ],
   
   "Verbs": [
@@ -50,7 +56,10 @@
     "En la voz pasiva, el verbo 'to be' + participio pasado: 'The book was written by him'",
     "El sujeto de un verbo en -ing debe ser el mismo que el de la oración principal",
     "Los verbos frasales (phrasal verbs) tienen preposiciones/partículas específicas: look for, look at",
-    "Verbos como 'suggest', 'recommend', 'advise' van seguidos de gerundio o 'that + sujeto + verbo base'"
+    "Verbos como 'suggest', 'recommend', 'advise' van seguidos de gerundio o 'that + sujeto + verbo base'",
+    "Verifica siempre la concordancia entre el sujeto y el verbo, especialmente cuando hay frases largas o cláusulas entre ambos",
+    "Identifica el tiempo verbal general de la oración (pasado, presente, futuro) y asegúrate de que todos los verbos relacionados lo mantengan de forma consistente",
+    "En oraciones con 'might have', 'could have' o 'would have', el segundo verbo elemento de una serie paralela debe mantener la misma estructura verbal, usando el participio pasado"
   ],
   
   "Parallel Structures": [
@@ -68,7 +77,10 @@
     "Revisa siempre que los elementos unidos por conjunciones sean gramaticalmente similares",
     "El paralelismo se aplica a todos los niveles: palabras, frases y cláusulas",
     "En comparaciones, los elementos comparados deben ser gramaticalmente iguales",
-    "Mantén consistencia en la voz (activa o pasiva) cuando uses elementos en serie"
+    "Mantén consistencia en la voz (activa o pasiva) cuando uses elementos en serie",
+    "En una lista de tres o más elementos unidos por 'and' u 'or', todos deben compartir la misma forma gramatical (todos gerundios, todos infinitivos, todos sustantivos)",
+    "Con estructuras correlativas como 'not only... but also', 'both... and' o 'either... or', ambas partes deben tener la misma estructura sintáctica",
+    "Revisa cuidadosamente el último elemento de una serie, ya que suele ser donde se rompe el paralelismo (por ejemplo, cambiando de infinitivo a gerundio)"
   ],
   
   "Pronouns": [
@@ -86,7 +98,10 @@
     "No confundir 'their' (posesivo de they) con 'they're' (contracción de they are) o 'there' (allí)",
     "Los pronombres reflexivos se usan para énfasis: 'I myself saw the accident'",
     "Los pronombres recíprocos (each other, one another) se usan para acciones mutuas",
-    "El antecedente del pronombre debe ser claro y no ambiguo"
+    "El antecedente del pronombre debe ser claro y no ambiguo",
+    "El pronombre debe concordar en número (singular/plural) y género con su antecedente; localiza primero a qué palabra se refiere el pronombre subrayado",
+    "Los pronombres indefinidos singulares como 'each', 'everyone' y 'everybody' requieren pronombres singulares (his, her, its), no plurales (their)",
+    "Mantén la consistencia del pronombre a lo largo de toda la oración: si comienzas refiriéndote a algo con 'she' o 'they', no cambies a 'it' o viceversa"
   ],
   
   "Singular and Plural Nouns": [
@@ -104,7 +119,10 @@
     "Sustantivos irregulares: child/children, man/men, woman/women, foot/feet, tooth/teeth, mouse/mice",
     "Sustantivos que son iguales en singular y plural: sheep, deer, fish, species, series",
     "Los sustantivos propios (nombres) generalmente no tienen plural: 'The Smiths' (la familia Smith)",
-    "Los títulos de obras (libros, películas) son siempre singulares: 'The Lord of the Rings is a great book'"
+    "Los títulos de obras (libros, películas) son siempre singulares: 'The Lord of the Rings is a great book'",
+    "Verifica que el sustantivo concuerde en número con las palabras que lo acompañan, como determinantes ('several', 'many', 'these') o pronombres posesivos",
+    "Algunos sustantivos que funcionan como modificadores de otro sustantivo permanecen en singular (chain restaurant → chain restaurants, no chains restaurant)",
+    "Presta atención a los plurales irregulares (child/children, leaf/leaves) y a los sustantivos incontables que nunca llevan forma plural (information, equipment, damage)"
   ],
   
   "Verbals": [
@@ -122,7 +140,10 @@
     "Los infinitivos con 'to' pueden ser sujetos: 'To learn English is important'",
     "Después de preposiciones, siempre se usa gerundio: 'He is good at playing soccer'",
     "Los verbales pueden tener sus propios objetos y complementos: 'Reading books is fun'",
-    "El 'sujeto' de un verbal debe ser el mismo que el de la oración principal (para evitar dangling modifiers)"
+    "El 'sujeto' de un verbal debe ser el mismo que el de la oración principal (para evitar dangling modifiers)",
+    "Distingue entre gerundio (-ing, funciona como sustantivo), infinitivo (to + verbo base) y participio (-ing o -ed, funciona como adjetivo) según el contexto",
+    "Cuando un verbal funciona como sujeto de la oración, generalmente se necesita el gerundio, no la forma base del verbo",
+    "En una frase participial reducida, verifica si se necesita voz activa (-ing) o pasiva (-ed) según si el sustantivo modificado realiza o recibe la acción"
   ],
   
   "Prepositions": [
@@ -140,7 +161,10 @@
     "La preposición de agente en voz pasiva es BY: 'The book was written by Gabriel García Márquez'",
     "La preposición de instrumento es WITH: 'She wrote the letter with a pen'",
     "Expresiones fijas con preposiciones: in time (con tiempo), on time (a tiempo), at last (por fin), by mistake (por error)",
-    "No confundir 'in' (dentro de) con 'into' (movimiento hacia adentro), ni 'on' (sobre) con 'onto' (movimiento hacia arriba)"
+    "No confundir 'in' (dentro de) con 'into' (movimiento hacia adentro), ni 'on' (sobre) con 'onto' (movimiento hacia arriba)",
+    "Memoriza las combinaciones fijas de verbo + preposición (contribute to, interested in, comply with) ya que no siempre siguen una lógica traducible del español",
+    "Las preposiciones de movimiento hacia un destino específico (empty into, arrive at/in) requieren atención especial, ya que 'to' no siempre es la opción correcta",
+    "Revisa las preposiciones que acompañan expresiones de tiempo y lugar, pues varían según se trate de un punto específico, una superficie o un área extensa"
   ],
   
   "Articles": [
@@ -158,7 +182,10 @@
     "Se usa 'the' cuando el contexto hace claro a qué nos referimos: 'Close the door' (la puerta de esta habitación)",
     "No se usa artículo con medios de transporte: 'by car', 'by train', 'by plane', 'on foot'",
     "No se usa artículo con instituciones sociales: 'go to school', 'in hospital', 'at home', 'in prison'",
-    "Los artículos deben concordar en número: 'a' + singular, 'the' + singular o plural"
+    "Los artículos deben concordar en número: 'a' + singular, 'the' + singular o plural",
+    "No se usa el artículo 'the' antes de nombres propios de montañas, lagos o continentes individuales (Mount Everest, Lake Superior), aunque sí se usa con cadenas montañosas o grupos (the Rocky Mountains)",
+    "Cuando se habla de una categoría o concepto en sentido general (bacteria, water, art), no se utiliza ningún artículo antes del sustantivo",
+    "El artículo 'a/an' nunca puede preceder a un sustantivo en plural; verifica siempre el número del sustantivo antes de elegir el artículo"
   ],
   
   "Comparatives and Superlatives": [
@@ -176,7 +203,10 @@
     "SIMILAR TO: estructura correcta 'similar to', no 'similar than'",
     "THE SAME AS: estructura correcta 'the same as', no 'the same that' ni 'the same like'",
     "DIFFERENT FROM: estructura correcta 'different from' (aceptado 'different than' en inglés americano)",
-    "COMPARED TO vs COMPARED WITH: 'compared to' enfatiza similitudes, 'compared with' enfatiza diferencias"
+    "COMPARED TO vs COMPARED WITH: 'compared to' enfatiza similitudes, 'compared with' enfatiza diferencias",
+    "Los adjetivos de una sílaba forman el comparativo y superlativo agregando '-er' y '-est'; los de tres o más sílabas usan 'more/most', nunca ambas formas juntas",
+    "Las estructuras comparativas siempre requieren 'than', mientras que las de igualdad requieren 'as'; no deben mezclarse ('less conclusive as' es incorrecto)",
+    "El superlativo siempre necesita el artículo 'the' cuando se comparan tres o más elementos dentro de un grupo"
   ],
   
   "Word Order": [
@@ -194,6 +224,9 @@
     "Los complementos del sujeto van después del verbo 'to be': 'She is a teacher'",
     "En comparaciones, el orden es: comparativo + than + elemento comparado",
     "Los artículos y determinadores van antes del sustantivo y sus adjetivos",
-    "Las preposiciones generalmente van antes del sustantivo o pronombre (no al final en inglés formal)"
+    "Las preposiciones generalmente van antes del sustantivo o pronombre (no al final en inglés formal)",
+    "Cuando una oración comienza con expresiones negativas o restrictivas (Never, Not only, No sooner, Rarely), se requiere la inversión del sujeto y el auxiliar",
+    "En inglés, los adjetivos que modifican a un mismo sustantivo siguen un orden fijo: opinión, tamaño, edad, forma, color, origen, material",
+    "Verifica que los adverbios estén colocados correctamente respecto al verbo que modifican; generalmente van antes del verbo principal o después del verbo auxiliar"
   ]
 }
