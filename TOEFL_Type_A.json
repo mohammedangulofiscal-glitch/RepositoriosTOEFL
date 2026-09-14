@@ -1,11 +1,11 @@
 {
   "title": "TOEFL ITP - Section 2 Structure Questions",
   "description": "Preguntas para practicar la sección 2 parte A Estructura TOEFL ITP.",
-  "totalQuestions": 431,
+  "totalQuestions": 467,
   "difficultyBreakdown": {
-    "Easy": 113,
-    "Hard": 78,
-    "Medium": 240
+    "Easy": 125,
+    "Hard": 90,
+    "Medium": 252
   },
   "questions": [
     {
@@ -6305,6 +6305,381 @@
       "category": "Comparatives and Superlatives",
       "difficulty": "Hard",
       "question": "_____ rainfall a region receives annually, the denser its rainforest vegetation tends to be.",
+      "options": ["The more", "More", "The most", "As more"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0432",
+      "type": "A",
+      "explanation": "\"So\" conecta dos cláusulas independientes mostrando una relación de causa y consecuencia: la atmósfera densa de Venus provoca su extremo calor superficial.",
+      "category": "Independent Clauses",
+      "difficulty": "Easy",
+      "question": "Venus has a thick atmosphere composed mostly of carbon dioxide, _____ its surface temperature is hot enough to melt lead.",
+      "options": ["so", "because", "although", "yet"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0433",
+      "type": "A",
+      "explanation": "\"Remarkably\" conecta dos cláusulas independientes separadas por punto y coma, añadiendo un dato sorprendente sobre la capacidad regenerativa del pulpo.",
+      "category": "Independent Clauses",
+      "difficulty": "Medium",
+      "question": "An octopus can lose one of its eight arms in an encounter with a predator; _____, it can regrow the lost limb within a few months.",
+      "options": ["remarkably", "although", "despite", "while"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0434",
+      "type": "A",
+      "explanation": "\"Tragically\" conecta dos cláusulas independientes tras el punto y coma, expresando el lamentable resultado de la destrucción de la biblioteca.",
+      "category": "Independent Clauses",
+      "difficulty": "Hard",
+      "question": "The Library of Alexandria housed hundreds of thousands of scrolls in the ancient world; _____, many of these irreplaceable texts were lost when the library was destroyed.",
+      "options": ["tragically", "therefore", "moreover", "consequently"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0435",
+      "type": "A",
+      "explanation": "\"Who\" introduce una cláusula adjetiva que funciona como sujeto, refiriéndose a una persona (Isaac Newton).",
+      "category": "Adjective Clauses",
+      "difficulty": "Easy",
+      "question": "Isaac Newton, _____ formulated the laws of motion, is considered one of the most influential scientists in history.",
+      "options": ["who", "whom", "which", "whose"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0436",
+      "type": "A",
+      "explanation": "En cláusulas adjetivas no restrictivas (entre comas) que describen algo, no a una persona, se usa \"which\", no \"that\".",
+      "category": "Adjective Clauses",
+      "difficulty": "Medium",
+      "question": "The Amazon River, _____ carries more water than the next several largest rivers combined, flows through nine countries in South America.",
+      "options": ["that", "which", "who", "whom"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0437",
+      "type": "A",
+      "explanation": "\"Whose\" indica posesión, conectando \"inventions\" con \"Tesla\" dentro de la cláusula adjetiva.",
+      "category": "Adjective Clauses",
+      "difficulty": "Hard",
+      "question": "Nikola Tesla, _____ inventions include the alternating current motor, is often overshadowed in popular history by his rival Thomas Edison.",
+      "options": ["who", "whom", "whose", "which"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0438",
+      "type": "A",
+      "explanation": "Se usa el gerundio \"Moving\" porque los glaciares realizan la acción de moverse por sí mismos (voz activa).",
+      "category": "Participial Phrases",
+      "difficulty": "Easy",
+      "question": "_____ slowly over thousands of years, glaciers have carved out many of the valleys found in mountainous regions today.",
+      "options": ["Moving", "Moved", "Move", "To move"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0439",
+      "type": "A",
+      "explanation": "Los arrecifes reciben la acción del calentamiento oceánico, por lo que se requiere el participio pasado \"Stressed\" (voz pasiva).",
+      "category": "Participial Phrases",
+      "difficulty": "Medium",
+      "question": "_____ by rising ocean temperatures, coral reefs around the world have experienced widespread bleaching events in recent decades.",
+      "options": ["Stressing", "Stressed", "Stress", "To stress"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0440",
+      "type": "A",
+      "explanation": "\"Having noticed\" es una frase participial perfecta que indica una acción completada antes de la acción principal (el descubrimiento de la penicilina).",
+      "category": "Participial Phrases",
+      "difficulty": "Hard",
+      "question": "_____ noticed that mold had killed the bacteria in a petri dish, Alexander Fleming went on to discover penicillin, one of the most important medical breakthroughs of the twentieth century.",
+      "options": ["Having", "Have", "Had", "Has"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0441",
+      "type": "A",
+      "explanation": "Una aposición renombra al sustantivo sin necesitar verbo propio; \"the planet known for its rings\" identifica a Saturno directamente.",
+      "category": "Appositives",
+      "difficulty": "Easy",
+      "question": "Saturn, _____, is easily recognizable through even a small telescope.",
+      "options": [
+        "the planet known for its rings",
+        "it is the planet with rings",
+        "which the planet with rings",
+        "being the planet with rings"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0442",
+      "type": "A",
+      "explanation": "La aposición debe ser una frase nominal sin verbo conjugado propio; solo \"a dormant volcano in Tanzania\" cumple esta condición gramaticalmente.",
+      "category": "Appositives",
+      "difficulty": "Medium",
+      "question": "Mount Kilimanjaro, _____, is the highest peak on the African continent.",
+      "options": [
+        "a dormant volcano in Tanzania",
+        "it is a dormant volcano",
+        "which a dormant volcano",
+        "a dormant volcano it is"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0443",
+      "type": "A",
+      "explanation": "La aposición es una frase nominal que renombra a \"Mitochondria\"; no puede contener un verbo conjugado propio ni un conector que rompa la estructura nominal.",
+      "category": "Appositives",
+      "difficulty": "Hard",
+      "question": "Mitochondria, _____, convert nutrients into the energy that cells need to function.",
+      "options": [
+        "the powerhouse organelles of the cell",
+        "the powerhouse organelles it is",
+        "which the powerhouse organelles",
+        "organelles they power the cell"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0444",
+      "type": "A",
+      "explanation": "Se necesita el adverbio \"accurately\" para modificar el verbo \"locate\", describiendo cómo los murciélagos ubican a los insectos.",
+      "category": "Adverbs",
+      "difficulty": "Easy",
+      "question": "Bats can _____ locate flying insects in complete darkness using echolocation.",
+      "options": ["accurate", "accurately", "accuracy", "accurateness"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0445",
+      "type": "A",
+      "explanation": "Después de \"so\", se requiere un adverbio (\"gradually\") para modificar el verbo \"change\", no un adjetivo.",
+      "category": "Adverbs",
+      "difficulty": "Medium",
+      "question": "Chameleons change color so _____ that scientists once believed the process was solely for camouflage.",
+      "options": ["gradual", "gradually", "gradualness", "gradation"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0446",
+      "type": "A",
+      "explanation": "Cuando una oración comienza con el adverbio negativo \"No sooner\", se requiere inversión del sujeto y el auxiliar (\"had researchers\").",
+      "category": "Adverbs",
+      "difficulty": "Hard",
+      "question": "_____ had researchers identified the healing properties of penicillin than it began saving thousands of lives during World War II.",
+      "options": ["No sooner", "Not until", "Hardly when", "Scarcely until"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0447",
+      "type": "A",
+      "explanation": "La cláusula nominal necesita \"what\" porque se refiere a la composición desconocida de la materia oscura.",
+      "category": "Noun Clauses",
+      "difficulty": "Easy",
+      "question": "Astronomers still do not fully understand _____ dark matter is made of, even though it accounts for most of the mass in the universe.",
+      "options": ["what", "where", "which", "who"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0448",
+      "type": "A",
+      "explanation": "\"That\" introduce una cláusula nominal que funciona como sujeto de la oración, expresando un hecho comprobado.",
+      "category": "Noun Clauses",
+      "difficulty": "Medium",
+      "question": "_____ the Sahara Desert was once a lush, green landscape thousands of years ago surprises many people today.",
+      "options": ["What", "That", "Which", "Whether"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0449",
+      "type": "A",
+      "explanation": "Después de verbos de recomendación como \"recommend\", la cláusula nominal usa el subjuntivo con la forma base del verbo (\"take\").",
+      "category": "Noun Clauses",
+      "difficulty": "Hard",
+      "question": "The physician recommended that the patient _____ complete bed rest for at least a week following the surgery.",
+      "options": ["takes", "take", "took", "will take"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0450",
+      "type": "A",
+      "explanation": "\"In\" se usa para indicar ubicación dentro de un área extensa, como una región del continente africano.",
+      "category": "Prepositions",
+      "difficulty": "Easy",
+      "question": "The Sahara Desert, the largest hot desert in the world, is located _____ northern Africa.",
+      "options": ["on", "at", "in", "by"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0451",
+      "type": "A",
+      "explanation": "La expresión fija \"interested in\" requiere la preposición \"in\".",
+      "category": "Prepositions",
+      "difficulty": "Medium",
+      "question": "Galileo Galilei was deeply interested _____ the movement of celestial bodies, which led him to support the heliocentric model of the solar system.",
+      "options": ["on", "at", "in", "for"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0452",
+      "type": "A",
+      "explanation": "El verbo \"comply\" se combina idiomáticamente con la preposición \"with\", no con las demás opciones.",
+      "category": "Prepositions",
+      "difficulty": "Hard",
+      "question": "Many industrialized nations agreed to comply _____ the emission reduction targets outlined in the Kyoto Protocol.",
+      "options": ["with", "to", "for", "at"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0453",
+      "type": "A",
+      "explanation": "En inglés, los adjetivos siguen un orden fijo: opinión (sturdy), edad (old) y luego material (wooden).",
+      "category": "Word Order",
+      "difficulty": "Easy",
+      "question": "Engineers in medieval Europe built _____ bridges that could withstand centuries of use.",
+      "options": ["sturdy old wooden", "old wooden sturdy", "wooden old sturdy", "old sturdy wooden"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": "A0454",
+      "type": "A",
+      "explanation": "Cuando una oración comienza con \"Never before\", se requiere inversión del sujeto y el auxiliar; el presente perfecto \"has the world seen\" concuerda con \"are recording today\".",
+      "category": "Word Order",
+      "difficulty": "Medium",
+      "question": "Never before _____ such a rapid rate of species extinction as scientists are recording today.",
+      "options": ["had the world seen", "the world had seen", "has the world seen", "the world has seen"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0455",
+      "type": "A",
+      "explanation": "La estructura enfática \"Not only... but also\" exige la inversión del sujeto y el auxiliar después de \"Not only\".",
+      "category": "Word Order",
+      "difficulty": "Hard",
+      "question": "Not only _____ tirelessly for women's right to vote, but she also helped found one of the first national suffrage organizations in the United States.",
+      "options": ["Susan B. Anthony did work", "did Susan B. Anthony work", "Susan B. Anthony worked", "worked Susan B. Anthony"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0456",
+      "type": "A",
+      "explanation": "\"Each\" es un pronombre singular, por lo que el verbo debe concordar en singular: \"performs\".",
+      "category": "Verb Problems",
+      "difficulty": "Easy",
+      "question": "Each ant in a colony _____ a specific task, such as foraging, defending the nest, or caring for the young.",
+      "options": ["perform", "performs", "performing", "performed perform"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0457",
+      "type": "A",
+      "explanation": "Se usa el pasado perfecto \"had been\" para indicar una condición que ya existía antes de otro evento pasado (la aparición de los primeros humanos).",
+      "category": "Verb Problems",
+      "difficulty": "Medium",
+      "question": "By the time the first humans appeared on Earth, dinosaurs _____ extinct for more than sixty million years.",
+      "options": ["have been", "had been", "are", "were"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0458",
+      "type": "A",
+      "explanation": "En condicionales del tercer tipo (hechos hipotéticos pasados), la cláusula \"if\" requiere el pasado perfecto \"had given up\".",
+      "category": "Verb Problems",
+      "difficulty": "Hard",
+      "question": "If the Wright brothers _____ their early failures, they might never have achieved the first powered flight in 1903.",
+      "options": ["gave up over", "had given up over", "give up over", "have given up over"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0459",
+      "type": "A",
+      "explanation": "El verbo \"enjoy\" siempre va seguido de un gerundio, no de un infinitivo.",
+      "category": "Infinitives and Gerunds",
+      "difficulty": "Easy",
+      "question": "Elephants enjoy _____ in rivers and mud holes to cool off and protect their skin from the sun.",
+      "options": ["bathe", "to bathe", "bathing", "bathed"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0460",
+      "type": "A",
+      "explanation": "El verbo \"decide\" se combina con un infinitivo (\"to find\"), no con un gerundio.",
+      "category": "Infinitives and Gerunds",
+      "difficulty": "Medium",
+      "question": "Ferdinand Magellan decided _____ a new route to Asia by sailing westward across the Atlantic Ocean.",
+      "options": ["finding", "find", "to find", "finds"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0461",
+      "type": "A",
+      "explanation": "\"Regret + gerundio\" se refiere a lamentar una situación pasada; la negación se coloca antes del gerundio (\"not achieving\").",
+      "category": "Infinitives and Gerunds",
+      "difficulty": "Hard",
+      "question": "Philo Farnsworth, the inventor of electronic television, regretted _____ greater financial success from his invention during his lifetime.",
+      "options": ["to not achieve", "not achieving", "not to achieve", "not achieve"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0462",
+      "type": "A",
+      "explanation": "Para mantener el paralelismo con \"pollinate\" y \"produce\", se requiere la forma base \"make\".",
+      "category": "Parallel Structures",
+      "difficulty": "Easy",
+      "question": "Bees are essential to ecosystems because they pollinate flowers, produce honey, and _____ wax used in various products.",
+      "options": ["to make", "making", "make", "makes"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0463",
+      "type": "A",
+      "explanation": "Después de la preposición \"for\", se requiere un gerundio para mantener el paralelismo con \"for building... for establishing\".",
+      "category": "Parallel Structures",
+      "difficulty": "Medium",
+      "question": "The Wright brothers were responsible not only for building the first successful airplane but also for _____ many of the fundamental principles of aeronautics.",
+      "options": ["establish", "established", "establishing", "establishes"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0464",
+      "type": "A",
+      "explanation": "Los tres verbos (\"prevent\", \"promote\", \"expand\") deben mantenerse en la misma forma base para lograr paralelismo dentro de la lista de infinitivos.",
+      "category": "Parallel Structures",
+      "difficulty": "Hard",
+      "question": "The mission of the World Health Organization is to prevent the spread of disease, to promote healthy lifestyles, and to _____ access to medical care worldwide.",
+      "options": ["expanding", "expand", "expands", "expanded"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0465",
+      "type": "A",
+      "explanation": "Para adjetivos cortos de una sílaba, el comparativo se forma agregando \"-er\", no con \"more\".",
+      "category": "Comparatives and Superlatives",
+      "difficulty": "Easy",
+      "question": "The Greenland shark can live _____ than any other known vertebrate, with some individuals surviving for several centuries.",
+      "options": ["long", "longer", "longest", "more long"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": "A0466",
+      "type": "A",
+      "explanation": "El superlativo requiere el artículo \"the\" antes de \"largest\" cuando se compara entre tres o más elementos (todos los desiertos cálidos de la Tierra).",
+      "category": "Comparatives and Superlatives",
+      "difficulty": "Medium",
+      "question": "Of all the hot deserts on Earth, the Sahara is _____ in total area.",
+      "options": ["larger", "largest", "the largest", "more large"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": "A0467",
+      "type": "A",
+      "explanation": "La estructura correlativa \"The more..., the more...\" expresa que dos cantidades cambian proporcionalmente; \"The more\" es la forma correcta para introducir la primera parte.",
+      "category": "Comparatives and Superlatives",
+      "difficulty": "Hard",
+      "question": "_____ you practice a skill, the more naturally it tends to come to you over time.",
       "options": ["The more", "More", "The most", "As more"],
       "correctAnswerIndex": 0
     }
