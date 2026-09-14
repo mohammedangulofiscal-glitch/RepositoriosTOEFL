@@ -1,11 +1,11 @@
 {
   "title": "TOEFL ITP - Section 2 Part B Written Expressions Questions",
   "description": "Preguntas para practicar la sección 2 parte B Expresión Escrita del TOEFL ITP.",
-  "totalQuestions": 568,
+  "totalQuestions": 601,
   "difficultyBreakdown": {
-    "Easy": 155,
-    "Hard": 94,
-    "Medium": 319
+    "Easy": 166,
+    "Hard": 105,
+    "Medium": 320
   },
   "questions": [
     {
@@ -8929,6 +8929,369 @@
       "sentence": "Not only the ancient Romans built extensive road networks throughout their empire, but they also developed sophisticated systems of aqueducts that carried water over remarkable distances.",
       "sentenceFormatted": "Not only **<u>the ancient Romans built</u>** extensive road networks throughout their empire, but they also developed sophisticated systems of aqueducts **<u>that</u>** **<u>carried</u>** water over **<u>remarkable</u>** distances.",
       "underlinedOptions": ["the ancient Romans built", "that", "carried", "remarkable"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0569",
+      "type": "B",
+      "explanation": "mystery → mysterious: Se necesita el adjetivo \"mysterious\" para modificar al sustantivo \"structures\", no el sustantivo \"mystery\".",
+      "category": "Word Form",
+      "difficulty": "Easy",
+      "sentence": "Stonehenge, which was constructed thousands of years ago, remains one of the most mystery structures in the world, attracting curious visitors who marvel at its precise alignment with the solstices.",
+      "sentenceFormatted": "Stonehenge, which was constructed thousands of years ago, remains one of the most **<u>mystery</u>** structures in the world, attracting **<u>curious</u>** visitors who marvel at its **<u>precise</u>** alignment with the **<u>solstices</u>**.",
+      "underlinedOptions": ["mystery", "curious", "precise", "solstices"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0570",
+      "type": "B",
+      "explanation": "continuous → continuously: Se necesita un adverbio para modificar el verbo \"pumps\", no un adjetivo.",
+      "category": "Word Form",
+      "difficulty": "Medium",
+      "sentence": "The human heart is a remarkably efficient organ that continuous pumps blood throughout the body, delivering oxygen and nutrients to every tissue.",
+      "sentenceFormatted": "The human heart is a **<u>remarkably</u>** efficient organ that **<u>continuous</u>** pumps blood throughout the body, delivering oxygen and **<u>nutrients</u>** to every **<u>tissue</u>**.",
+      "underlinedOptions": ["remarkably", "continuous", "nutrients", "tissue"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0571",
+      "type": "B",
+      "explanation": "intense → intensity: La estructura \"such + adjetivo + sustantivo + that\" requiere el sustantivo \"intensity\", no el adjetivo \"intense\".",
+      "category": "Word Form",
+      "difficulty": "Hard",
+      "sentence": "Vincent van Gogh's paintings, though largely unappreciated during his lifetime, are now regarded as masterpieces of such emotional intense that they continue to captivate viewers more than a century later.",
+      "sentenceFormatted": "Vincent van Gogh's paintings, though **<u>largely</u>** unappreciated during his lifetime, are now regarded as **<u>masterpieces</u>** of such emotional **<u>intense</u>** that they continue to captivate **<u>viewers</u>** more than a century later.",
+      "underlinedOptions": ["largely", "masterpieces", "intense", "viewers"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0572",
+      "type": "B",
+      "explanation": "its → it's: \"It's\" es la contracción de \"it is\", necesaria antes del participio \"considered\"; \"its\" es un pronombre posesivo.",
+      "category": "Word Choice",
+      "difficulty": "Easy",
+      "sentence": "Antarctica receives very little precipitation each year, and its considered by scientists to be the driest continent on Earth despite being almost entirely covered in ice.",
+      "sentenceFormatted": "Antarctica receives very little precipitation each year, and **<u>its</u>** **<u>considered</u>** by scientists to be the **<u>driest</u>** continent on Earth despite being almost entirely **<u>covered</u>** in ice.",
+      "underlinedOptions": ["its", "considered", "driest", "covered"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0573",
+      "type": "B",
+      "explanation": "than → then: \"Then\" indica secuencia temporal (\"y luego\"); \"than\" se usa únicamente en comparaciones.",
+      "category": "Word Choice",
+      "difficulty": "Medium",
+      "sentence": "The Titanic was believed to be practically unsinkable, but than the ship struck an iceberg on its maiden voyage in 1912 and sank within hours.",
+      "sentenceFormatted": "The Titanic was believed to be practically unsinkable, but **<u>than</u>** the ship **<u>struck</u>** an iceberg on its **<u>maiden</u>** voyage in 1912 and **<u>sank</u>** within hours.",
+      "underlinedOptions": ["than", "struck", "maiden", "sank"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0574",
+      "type": "B",
+      "explanation": "affect → effect: \"Effect\" es el sustantivo que significa \"resultado\" o \"impacto\"; \"affect\" es generalmente un verbo.",
+      "category": "Word Choice",
+      "difficulty": "Hard",
+      "sentence": "Rosalind Franklin's X-ray images were crucial in revealing the structure of DNA, although the affect of her contribution was not widely recognized until decades after her death.",
+      "sentenceFormatted": "Rosalind Franklin's X-ray images were **<u>crucial</u>** in **<u>revealing</u>** the structure of DNA, although the **<u>affect</u>** of her contribution was not widely recognized until **<u>decades</u>** after her death.",
+      "underlinedOptions": ["crucial", "revealing", "affect", "decades"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0575",
+      "type": "B",
+      "explanation": "grows → grow: El sujeto plural \"Giant sequoia trees\" requiere el verbo en su forma plural.",
+      "category": "Verbs",
+      "difficulty": "Easy",
+      "sentence": "Giant sequoia trees, which grows in parts of California, can live for thousands of years and reach heights of over 300 feet.",
+      "sentenceFormatted": "Giant sequoia trees, which **<u>grows</u>** in parts of California, can **<u>live</u>** for thousands of years and **<u>reach</u>** **<u>heights</u>** of over 300 feet.",
+      "underlinedOptions": ["grows", "live", "reach", "heights"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0576",
+      "type": "B",
+      "explanation": "had already weaken → had already weakened: Después de \"had already\", se necesita el participio pasado \"weakened\", no la forma base del verbo.",
+      "category": "Verbs",
+      "difficulty": "Medium",
+      "sentence": "By the time the Western Roman Empire officially fell in 476 CE, its economy and military had already weaken significantly over the previous century.",
+      "sentenceFormatted": "By the time the Western Roman Empire **<u>officially</u>** **<u>fell</u>** in 476 CE, its economy and military **<u>had already weaken</u>** **<u>significantly</u>** over the previous century.",
+      "underlinedOptions": ["officially", "fell", "had already weaken", "significantly"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0577",
+      "type": "B",
+      "explanation": "might never have happen → might never have happened: Después de \"have\" en un modal perfecto, se necesita el participio pasado \"happened\".",
+      "category": "Verbs",
+      "difficulty": "Hard",
+      "sentence": "Had proper safety protocols been followed at Chernobyl, the catastrophic nuclear accident that occurred in 1986 might never have happen and countless lives could have been saved.",
+      "sentenceFormatted": "Had proper safety protocols **<u>been followed</u>** at Chernobyl, the **<u>catastrophic</u>** nuclear accident that occurred in 1986 **<u>might never have happen</u>** and countless lives **<u>could have been saved</u>**.",
+      "underlinedOptions": ["been followed", "catastrophic", "might never have happen", "could have been saved"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0578",
+      "type": "B",
+      "explanation": "to use → using: Para mantener el paralelismo con \"observing\" y \"sensing\", se necesita el gerundio \"using\".",
+      "category": "Parallel Structures",
+      "difficulty": "Easy",
+      "sentence": "Many migratory birds navigate long distances by observing the position of the sun, sensing the Earth's magnetic field, and to use familiar landmarks along their route.",
+      "sentenceFormatted": "Many migratory birds navigate long distances by **<u>observing</u>** the position of the sun, **<u>sensing</u>** the Earth's magnetic field, and **<u>to use</u>** **<u>familiar</u>** landmarks along their route.",
+      "underlinedOptions": ["observing", "sensing", "to use", "familiar"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0579",
+      "type": "B",
+      "explanation": "promote → promoting: La estructura \"not only... but also\" requiere elementos paralelos; después de \"to ending\" se necesita otro gerundio, \"promoting\".",
+      "category": "Parallel Structures",
+      "difficulty": "Medium",
+      "sentence": "Nelson Mandela dedicated his life not only to ending apartheid in South Africa but also to promote reconciliation between former political enemies after his release from prison.",
+      "sentenceFormatted": "Nelson Mandela **<u>dedicated</u>** his life not only to **<u>ending</u>** apartheid in South Africa but also to **<u>promote</u>** **<u>reconciliation</u>** between former political enemies after his release from prison.",
+      "underlinedOptions": ["dedicated", "ending", "promote", "reconciliation"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0580",
+      "type": "B",
+      "explanation": "it fosters → fostering: Para mantener el paralelismo con \"protecting\" y \"promoting\", se necesita el gerundio \"fostering\".",
+      "category": "Parallel Structures",
+      "difficulty": "Hard",
+      "sentence": "UNESCO's mission includes protecting cultural heritage sites, promoting international collaboration in education, and it fosters scientific research across borders.",
+      "sentenceFormatted": "UNESCO's mission includes **<u>protecting</u>** cultural heritage sites, **<u>promoting</u>** international collaboration in education, and **<u>it fosters</u>** scientific research **<u>across</u>** borders.",
+      "underlinedOptions": ["protecting", "promoting", "it fosters", "across"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0581",
+      "type": "B",
+      "explanation": "their → its: El pronombre debe concordar con el antecedente singular \"a sea turtle\", por lo que se requiere \"its\", no \"their\".",
+      "category": "Pronouns",
+      "difficulty": "Easy",
+      "sentence": "When a sea turtle returns to lay their eggs, it usually comes back to the very beach where it was born decades earlier.",
+      "sentenceFormatted": "When a sea turtle returns to lay **<u>their</u>** eggs, it **<u>usually</u>** comes back to the very beach **<u>where</u>** it was born **<u>decades</u>** earlier.",
+      "underlinedOptions": ["their", "usually", "where", "decades"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0582",
+      "type": "B",
+      "explanation": "their → its: El pronombre debe concordar con el antecedente singular \"a redwood forest\", por lo que se requiere \"its\", no \"their\".",
+      "category": "Pronouns",
+      "difficulty": "Medium",
+      "sentence": "Although a redwood forest supports a rich variety of wildlife, their delicate root systems can be easily damaged by foot traffic and construction near the trees.",
+      "sentenceFormatted": "Although a redwood forest supports a **<u>rich</u>** variety of wildlife, **<u>their</u>** delicate root systems can be **<u>easily</u>** damaged by foot traffic and construction **<u>near</u>** the trees.",
+      "underlinedOptions": ["rich", "their", "easily", "near"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0583",
+      "type": "B",
+      "explanation": "their → his or her: \"Each\" es un pronombre indefinido singular, por lo que en el registro formal del TOEFL requiere \"his or her\", no el plural \"their\".",
+      "category": "Pronouns",
+      "difficulty": "Hard",
+      "sentence": "Each of the researchers involved in the Human Genome Project contributed to their portion of the mapping effort, and each later reflected on how the project changed their career.",
+      "sentenceFormatted": "Each of the researchers involved in the Human Genome Project contributed to **<u>their</u>** **<u>portion</u>** of the mapping effort, and each later **<u>reflected</u>** on how the project changed their **<u>career</u>**.",
+      "underlinedOptions": ["their", "portion", "reflected", "career"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0584",
+      "type": "B",
+      "explanation": "wolf → wolves: Después de \"several\", se necesita el sustantivo en plural \"wolves\".",
+      "category": "Singular and Plural Nouns",
+      "difficulty": "Easy",
+      "sentence": "A pack of wolves typically includes an alpha pair, several adult wolf, and their offspring from previous years.",
+      "sentenceFormatted": "A **<u>pack</u>** of wolves typically **<u>includes</u>** an alpha pair, several adult **<u>wolf</u>**, and their **<u>offspring</u>** from previous years.",
+      "underlinedOptions": ["pack", "includes", "wolf", "offspring"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0585",
+      "type": "B",
+      "explanation": "polyp → polyps: Después de \"thousands of individual\", se necesita el sustantivo en plural \"polyps\".",
+      "category": "Singular and Plural Nouns",
+      "difficulty": "Medium",
+      "sentence": "A single coral reef can be home to thousands of individual polyp, each one a tiny organism that contributes to the structure of the reef over time.",
+      "sentenceFormatted": "A **<u>single</u>** coral reef can be home to **<u>thousands</u>** of individual **<u>polyp</u>**, each one a tiny organism that **<u>contributes</u>** to the structure of the reef over time.",
+      "underlinedOptions": ["single", "thousands", "polyp", "contributes"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0586",
+      "type": "B",
+      "explanation": "wingspan → wingspans: La comparación superlativa \"the longest... of any bird\" implica comparar múltiples envergaduras, por lo que se necesita el plural \"wingspans\".",
+      "category": "Singular and Plural Nouns",
+      "difficulty": "Hard",
+      "sentence": "Although albatrosses are known for having some of the longest wingspan of any bird, individual measurements can vary significantly between different species.",
+      "sentenceFormatted": "Although albatrosses are known for having some of the **<u>longest</u>** **<u>wingspan</u>** of any bird, individual measurements can **<u>vary</u>** **<u>significantly</u>** between different species.",
+      "underlinedOptions": ["longest", "wingspan", "vary", "significantly"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0587",
+      "type": "B",
+      "explanation": "hop → hopping: Después de \"capable of\", se necesita el gerundio \"hopping\", ya que \"of\" es una preposición.",
+      "category": "Verbals",
+      "difficulty": "Easy",
+      "sentence": "Kangaroos are capable of hop at speeds of over 35 miles per hour, covering long distances while conserving energy.",
+      "sentenceFormatted": "Kangaroos are **<u>capable</u>** of **<u>hop</u>** at speeds of over 35 miles per hour, **<u>covering</u>** long distances while **<u>conserving</u>** energy.",
+      "underlinedOptions": ["capable", "hop", "covering", "conserving"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0588",
+      "type": "B",
+      "explanation": "hoping avoid → hoping to avoid: Después de \"hoping\", se necesita un infinitivo, no la forma base del verbo.",
+      "category": "Verbals",
+      "difficulty": "Medium",
+      "sentence": "Every year, over a million wildebeest migrate across the Serengeti, hoping avoid the harsh conditions of the dry season while searching for fresh grazing land.",
+      "sentenceFormatted": "Every year, over a million wildebeest **<u>migrate</u>** across the Serengeti, **<u>hoping avoid</u>** the **<u>harsh</u>** conditions of the dry season while **<u>searching</u>** for fresh grazing land.",
+      "underlinedOptions": ["migrate", "hoping avoid", "harsh", "searching"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0589",
+      "type": "B",
+      "explanation": "spend → spent: Después de \"Having\", se necesita el participio pasado \"spent\" para formar la frase participial perfecta.",
+      "category": "Verbals",
+      "difficulty": "Hard",
+      "sentence": "Having spend more than twenty years developing and refining his theory, Charles Darwin finally published On the Origin of Species in 1859, forever changing the field of biology.",
+      "sentenceFormatted": "Having **<u>spend</u>** more than twenty years developing and **<u>refining</u>** his theory, Charles Darwin finally **<u>published</u>** On the Origin of Species in 1859, forever **<u>changing</u>** the field of biology.",
+      "underlinedOptions": ["spend", "refining", "published", "changing"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0590",
+      "type": "B",
+      "explanation": "marvel about → marvel at: La expresión fija correcta es \"marvel at\", no \"marvel about\".",
+      "category": "Prepositions",
+      "difficulty": "Easy",
+      "sentence": "Niagara Falls, located between the United States and Canada, attracts millions of visitors who come to marvel about its powerful, roaring waters.",
+      "sentenceFormatted": "Niagara Falls, **<u>located</u>** between the United States and Canada, **<u>attracts</u>** millions of visitors who come to **<u>marvel about</u>** its **<u>powerful</u>**, roaring waters.",
+      "underlinedOptions": ["located", "attracts", "marvel about", "powerful"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0591",
+      "type": "B",
+      "explanation": "relying in → relying on: La expresión fija correcta es \"relying on\", no \"relying in\".",
+      "category": "Prepositions",
+      "difficulty": "Medium",
+      "sentence": "Ludwig van Beethoven continued composing music even after he became completely deaf, relying in his memory of sound rather than his ability to hear.",
+      "sentenceFormatted": "Ludwig van Beethoven **<u>continued</u>** composing music even after he became **<u>completely</u>** deaf, **<u>relying in</u>** his memory of sound rather than his **<u>ability</u>** to hear.",
+      "underlinedOptions": ["continued", "completely", "relying in", "ability"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0592",
+      "type": "B",
+      "explanation": "calls with reform → calls for reform: La expresión fija correcta es \"calls for reform\", no \"calls with reform\".",
+      "category": "Prepositions",
+      "difficulty": "Hard",
+      "sentence": "The fall of the Berlin Wall in 1989 is often credited to a combination of political pressure, economic hardship, and growing calls with reform across Eastern Europe.",
+      "sentenceFormatted": "The fall of the Berlin Wall in 1989 is often **<u>credited to</u>** a combination of political pressure, **<u>economic hardship</u>**, and growing **<u>calls with reform</u>** **<u>across</u>** Eastern Europe.",
+      "underlinedOptions": ["credited to", "economic hardship", "calls with reform", "across"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0593",
+      "type": "B",
+      "explanation": "a longest → the longest: El superlativo requiere el artículo definido \"the\", no el artículo indefinido \"a\".",
+      "category": "Articles",
+      "difficulty": "Easy",
+      "sentence": "The Nile is generally considered a longest river in the world, stretching more than 6,600 kilometers through northeastern Africa.",
+      "sentenceFormatted": "**<u>The</u>** Nile is generally considered **<u>a longest</u>** river in the world, **<u>stretching</u>** more than 6,600 kilometers through **<u>northeastern</u>** Africa.",
+      "underlinedOptions": ["The", "a longest", "stretching", "northeastern"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0594",
+      "type": "B",
+      "explanation": "about existence → about the existence: Cuando se hace referencia a un concepto específico ya mencionado o conocido, se requiere el artículo definido \"the\".",
+      "category": "Articles",
+      "difficulty": "Medium",
+      "sentence": "Scientists have long theorized about existence of black holes, but it was not until 2019 that the first direct image of one was captured.",
+      "sentenceFormatted": "Scientists have long **<u>theorized</u>** **<u>about existence</u>** of black holes, but it was not until 2019 that the first **<u>direct</u>** image of one was **<u>captured</u>**.",
+      "underlinedOptions": ["theorized", "about existence", "direct", "captured"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0595",
+      "type": "B",
+      "explanation": "an unemployment → unemployment: \"Unemployment\" es un sustantivo incontable y no se utiliza con el artículo indefinido \"a/an\".",
+      "category": "Articles",
+      "difficulty": "Hard",
+      "sentence": "During the Great Depression, an unemployment in the United States reached nearly twenty-five percent, leaving millions of families without a steady income.",
+      "sentenceFormatted": "**<u>During</u>** the Great Depression, **<u>an unemployment</u>** in the United States **<u>reached</u>** nearly twenty-five percent, leaving millions of families **<u>without</u>** a steady income.",
+      "underlinedOptions": ["During", "an unemployment", "reached", "without"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0596",
+      "type": "B",
+      "explanation": "more faster → faster: Los adjetivos de una sílaba forman el comparativo agregando \"-er\"; no debe combinarse con \"more\" (doble comparativo).",
+      "category": "Comparatives and Superlatives",
+      "difficulty": "Easy",
+      "sentence": "The peregrine falcon can dive much more faster than any other bird, reaching speeds of more than 240 miles per hour during its hunting dives.",
+      "sentenceFormatted": "The peregrine falcon can dive **<u>much</u>** **<u>more faster</u>** than any other bird, **<u>reaching</u>** speeds of more than 240 miles per hour during its **<u>hunting</u>** dives.",
+      "underlinedOptions": ["much", "more faster", "reaching", "hunting"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0597",
+      "type": "B",
+      "explanation": "unpredictablest → most unpredictable: Los adjetivos de tres o más sílabas forman el superlativo con \"most\", no agregando \"-est\".",
+      "category": "Comparatives and Superlatives",
+      "difficulty": "Medium",
+      "sentence": "Although Denali is not as tall as Mount Everest, it is often considered more difficult to climb because of its extreme cold, isolation, and unpredictablest weather.",
+      "sentenceFormatted": "Although Denali is **<u>not as tall</u>** as Mount Everest, it is often considered **<u>more difficult</u>** to climb because of its extreme cold, **<u>isolation</u>**, and **<u>unpredictablest</u>** weather.",
+      "underlinedOptions": ["not as tall", "more difficult", "isolation", "unpredictablest"],
+      "incorrectOptionIndex": 3
+    },
+    {
+      "id": "B0598",
+      "type": "B",
+      "explanation": "less deep as → less deep than: La estructura comparativa \"less + adjetivo\" requiere \"than\", no \"as\".",
+      "category": "Comparatives and Superlatives",
+      "difficulty": "Hard",
+      "sentence": "The Puerto Rico Trench, which reaches depths of over 8,000 meters, is considered less deep as the Mariana Trench, the deepest known point in any ocean.",
+      "sentenceFormatted": "The Puerto Rico Trench, which **<u>reaches</u>** depths of over 8,000 meters, is **<u>considered</u>** **<u>less deep as</u>** the Mariana Trench, the **<u>deepest</u>** known point in any ocean.",
+      "underlinedOptions": ["reaches", "considered", "less deep as", "deepest"],
+      "incorrectOptionIndex": 2
+    },
+    {
+      "id": "B0599",
+      "type": "B",
+      "explanation": "delicate valuable silk → valuable delicate silk: El orden correcto de los adjetivos en inglés coloca la opinión (\"valuable\") antes de la cualidad física (\"delicate\").",
+      "category": "Word Order",
+      "difficulty": "Easy",
+      "sentence": "Merchants along the Silk Road traded delicate valuable silk fabrics that were highly prized throughout Europe and Asia.",
+      "sentenceFormatted": "**<u>Merchants</u>** along the Silk Road traded **<u>delicate valuable silk</u>** fabrics that were **<u>highly prized</u>** **<u>throughout</u>** Europe and Asia.",
+      "underlinedOptions": ["Merchants", "delicate valuable silk", "highly prized", "throughout"],
+      "incorrectOptionIndex": 1
+    },
+    {
+      "id": "B0600",
+      "type": "B",
+      "explanation": "the internet had become → had the internet become: Cuando \"No sooner\" inicia la oración, se requiere la inversión del sujeto y el auxiliar.",
+      "category": "Word Order",
+      "difficulty": "Medium",
+      "sentence": "No sooner the internet had become publicly available in the 1990s than it began transforming nearly every aspect of communication and commerce.",
+      "sentenceFormatted": "No sooner **<u>the internet had become</u>** **<u>publicly</u>** available in the 1990s than it began **<u>transforming</u>** nearly every aspect of communication and **<u>commerce</u>**.",
+      "underlinedOptions": ["the internet had become", "publicly", "transforming", "commerce"],
+      "incorrectOptionIndex": 0
+    },
+    {
+      "id": "B0601",
+      "type": "B",
+      "explanation": "Rosa Parks refused → did Rosa Parks refuse: La estructura enfática \"Not only... but also\" requiere la inversión del sujeto y el auxiliar tras \"Not only\".",
+      "category": "Word Order",
+      "difficulty": "Hard",
+      "sentence": "Not only Rosa Parks refused to give up her seat on a segregated bus in 1955, but her arrest also sparked a boycott that lasted more than a year and helped ignite the American civil rights movement.",
+      "sentenceFormatted": "Not only **<u>Rosa Parks refused</u>** to give up her seat on a **<u>segregated</u>** bus in 1955, but her arrest also **<u>sparked</u>** a boycott that lasted more than a year and helped **<u>ignite</u>** the American civil rights movement.",
+      "underlinedOptions": ["Rosa Parks refused", "segregated", "sparked", "ignite"],
       "incorrectOptionIndex": 0
     }
   ]
