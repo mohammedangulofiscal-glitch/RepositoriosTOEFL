@@ -6682,6 +6682,231 @@
       "question": "_____ you practice a skill, the more naturally it tends to come to you over time.",
       "options": ["The more", "More", "The most", "As more"],
       "correctAnswerIndex": 0
-    }
+    },
+		{
+			"id": "A0468",
+			"type": "A",
+			"explanation": "Los diamantes reciben la acción de formarse bajo calor y presión, por lo que se requiere el participio pasado \"Created\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Easy",
+			"question": "_____ by intense heat and pressure deep within the Earth, diamonds can take billions of years to form.",
+			"options": [
+				"Creating",
+				"Created",
+				"Create",
+				"To create"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0469",
+			"type": "A",
+			"explanation": "Se usa el gerundio \"Flying\" porque los gansos realizan la acción de volar por sí mismos (voz activa).",
+			"category": "Participial Phrases",
+			"difficulty": "Easy",
+			"question": "_____ south for the winter, Canada geese travel in a distinctive V-formation to conserve energy.",
+			"options": [
+				"Flying",
+				"Flown",
+				"Fly",
+				"To fly"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0470",
+			"type": "A",
+			"explanation": "El parque recibe la acción de ser moldeado por la actividad volcánica, por lo que se requiere el participio pasado \"Shaped\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Easy",
+			"question": "_____ largely by volcanic activity beneath its surface, Yellowstone National Park is home to hundreds of geysers, including the famous Old Faithful.",
+			"options": [
+				"Shaping",
+				"Shaped",
+				"Shape",
+				"To shape"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0471",
+			"type": "A",
+			"explanation": "Se usa el gerundio \"Reaching\" porque el tiburón ballena realiza la acción de alcanzar esa longitud (voz activa).",
+			"category": "Participial Phrases",
+			"difficulty": "Easy",
+			"question": "_____ up to 40 feet in length, the whale shark is the largest fish species found in the world's oceans.",
+			"options": [
+				"Reaching",
+				"Reached",
+				"Reach",
+				"To reach"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0472",
+			"type": "A",
+			"explanation": "La ciudad recibe la acción de ser tallada en la roca, por lo que se requiere el participio pasado \"Carved\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Easy",
+			"question": "_____ directly into rose-colored sandstone cliffs, the ancient city of Petra served as a major trading hub in the Nabataean kingdom.",
+			"options": [
+				"Carving",
+				"Carved",
+				"Carve",
+				"To carve"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0473",
+			"type": "A",
+			"explanation": "Se usa el gerundio \"Traveling\" porque las mariposas monarca realizan la acción de viajar por sí mismas (voz activa).",
+			"category": "Participial Phrases",
+			"difficulty": "Medium",
+			"question": "_____ across vast distances each year, monarch butterflies rely on environmental cues to guide their multigenerational migration.",
+			"options": [
+				"Traveling",
+				"Traveled",
+				"Travel",
+				"To travel"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0474",
+			"type": "A",
+			"explanation": "Las formaciones rocosas reciben la acción de ser moldeadas por la erosión, por lo que se requiere el participio pasado \"Shaped\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Medium",
+			"question": "_____ over thousands of years by wind and water erosion, the rock formations of the Grand Canyon reveal layers of geological history.",
+			"options": [
+				"Shaping",
+				"Shaped",
+				"Shape",
+				"To shape"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0475",
+			"type": "A",
+			"explanation": "Los cascos reciben la acción de ser diseñados para resistir la presión, por lo que se requiere el participio pasado \"Designed\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Medium",
+			"question": "_____ to withstand extreme pressure, the hulls of deep-sea submersibles must be constructed from specialized materials.",
+			"options": [
+				"Designing",
+				"Designed",
+				"Design",
+				"To design"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0476",
+			"type": "A",
+			"explanation": "Los mitos reciben la acción de ser transmitidos de generación en generación, por lo que se requiere el participio pasado \"Passed\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Medium",
+			"question": "_____ down from generation to generation, many ancient myths reveal how early societies attempted to explain natural phenomena.",
+			"options": [
+				"Passing",
+				"Passed",
+				"Pass",
+				"To pass"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0477",
+			"type": "A",
+			"explanation": "Se usa el gerundio \"Releasing\" porque el rayo realiza la acción de liberar energía por sí mismo (voz activa).",
+			"category": "Participial Phrases",
+			"difficulty": "Medium",
+			"question": "_____ enormous amounts of energy, a single bolt of lightning can heat the surrounding air to temperatures hotter than the surface of the Sun.",
+			"options": [
+				"Releasing",
+				"Released",
+				"Release",
+				"To release"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0478",
+			"type": "A",
+			"explanation": "\"Having discovered\" es una frase participial perfecta que indica una acción completada antes de la acción principal (el escepticismo que enfrentó McClintock).",
+			"category": "Participial Phrases",
+			"difficulty": "Hard",
+			"question": "_____ discovered the phenomenon of genetic transposition, Barbara McClintock initially faced skepticism from the scientific community before eventually winning the Nobel Prize.",
+			"options": [
+				"Having",
+				"Have",
+				"Had",
+				"Has"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0479",
+			"type": "A",
+			"explanation": "\"Having been discovered\" es una frase participial perfecta en voz pasiva, ya que la Piedra de Rosetta recibe la acción de ser descubierta antes de la acción principal.",
+			"category": "Participial Phrases",
+			"difficulty": "Hard",
+			"question": "_____ been discovered in 1799 by French soldiers in Egypt, the Rosetta Stone eventually allowed scholars to decipher ancient Egyptian hieroglyphics.",
+			"options": [
+				"Having",
+				"Have",
+				"Had",
+				"Has"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0480",
+			"type": "A",
+			"explanation": "Después de \"Once\", se necesita el participio pasado \"completed\" para formar una cláusula adverbial reducida en voz pasiva.",
+			"category": "Participial Phrases",
+			"difficulty": "Hard",
+			"question": "Once _____, the results of the Human Genome Project were made freely available to scientists worldwide, accelerating research into genetic diseases.",
+			"options": [
+				"completing",
+				"completed",
+				"complete",
+				"to complete"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0481",
+			"type": "A",
+			"explanation": "El mecanismo recibe la acción de ser recuperado del naufragio, por lo que se requiere el participio pasado \"Recovered\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Hard",
+			"question": "_____ from an ancient shipwreck in 1901, the Antikythera mechanism puzzled researchers for over a century before its true purpose as an astronomical calculator was understood.",
+			"options": [
+				"Recovering",
+				"Recovered",
+				"Recover",
+				"To recover"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0482",
+			"type": "A",
+			"explanation": "\"Having traveled\" es una frase participial perfecta que indica una acción completada repetidamente antes de la valoración expresada en la oración principal.",
+			"category": "Participial Phrases",
+			"difficulty": "Hard",
+			"question": "_____ traveled to the Moon and back six times, NASA's Apollo program is often regarded as one of the greatest achievements in the history of space exploration.",
+			"options": [
+				"Having",
+				"Have",
+				"Had",
+				"Has"
+			],
+			"correctAnswerIndex": 0
+		}    
   ]
 }
