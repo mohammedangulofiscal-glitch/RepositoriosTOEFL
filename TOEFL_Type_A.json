@@ -7207,6 +7207,306 @@
 				"rejected"
 			],
 			"correctAnswerIndex": 3
+		},
+	  	{
+			"id": "A0503",
+			"type": "A",
+			"explanation": "Se necesita el adverbio \"effectively\" para modificar el verbo \"communicate\", describiendo cómo se comunican los delfines.",
+			"category": "Adverbs",
+			"difficulty": "Easy",
+			"question": "Dolphins communicate _____ with one another through clicks, whistles, and body movements.",
+			"options": [
+				"effect",
+				"effectively",
+				"effectiveness",
+				"effective"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0504",
+			"type": "A",
+			"explanation": "\"Although\" introduce una cláusula adverbial de contraste con sujeto y verbo; \"Despite\" y \"Because of\" requieren un sustantivo, y \"However\" no puede introducir una cláusula subordinada.",
+			"category": "Adverbs",
+			"difficulty": "Easy",
+			"question": "_____ the Sun is about 109 times wider than Earth, it appears small in the sky because it is so far away.",
+			"options": [
+				"Despite",
+				"However",
+				"Because of",
+				"Although"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0505",
+			"type": "A",
+			"explanation": "Se necesita el adverbio \"easily\" para modificar el verbo \"remember\", describiendo cómo los estudiantes recuerdan el vocabulario.",
+			"category": "Adverbs",
+			"difficulty": "Easy",
+			"question": "Students tend to remember new vocabulary _____ when they use the words in real conversations.",
+			"options": [
+				"easily",
+				"easy",
+				"easiness",
+				"ease"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0506",
+			"type": "A",
+			"explanation": "\"Because\" introduce una cláusula adverbial de causa con sujeto y verbo; \"because of\", \"due to\" y \"despite\" requieren un sustantivo, no una cláusula completa.",
+			"category": "Adverbs",
+			"difficulty": "Easy",
+			"question": "Light from the Sun takes about eight minutes to reach Earth _____ the distance between them is roughly 150 million kilometers.",
+			"options": [
+				"because of",
+				"despite",
+				"due to",
+				"because"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0507",
+			"type": "A",
+			"explanation": "Se necesita el adverbio \"successfully\" para modificar el verbo \"landed\", describiendo cómo aterrizó la tripulación del Apolo 11.",
+			"category": "Adverbs",
+			"difficulty": "Easy",
+			"question": "The Apollo 11 crew _____ landed on the Moon on July 20, 1969, and returned safely to Earth four days later.",
+			"options": [
+				"successful",
+				"success",
+				"successfully",
+				"succeed"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0508",
+			"type": "A",
+			"explanation": "Se necesita el adverbio de frecuencia \"regularly\" para modificar el verbo \"flooded\", indicando con qué frecuencia se desbordaba el Nilo.",
+			"category": "Adverbs",
+			"difficulty": "Easy",
+			"question": "Before the Aswan High Dam was built in the 1960s, the Nile _____ flooded its banks every summer.",
+			"options": [
+				"regularize",
+				"regularity",
+				"regular",
+				"regularly"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0509",
+			"type": "A",
+			"explanation": "\"When\" introduce una cláusula adverbial de tiempo con sujeto y verbo; \"During\" y \"Despite\" requieren un sustantivo, y \"Therefore\" no puede introducir una cláusula subordinada.",
+			"category": "Adverbs",
+			"difficulty": "Easy",
+			"question": "_____ Antoni Gaudí died in 1926, the Sagrada Família remained unfinished.",
+			"options": [
+				"Therefore",
+				"When",
+				"During",
+				"Despite"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0510",
+			"type": "A",
+			"explanation": "\"As soon as\" introduce una cláusula adverbial de tiempo con sujeto y verbo; \"During\", \"Despite\" y \"Because of\" requieren un sustantivo, no una cláusula.",
+			"category": "Adverbs",
+			"difficulty": "Medium",
+			"question": "_____ emperor penguin chicks hatch, their parents take turns feeding them and shielding them from the cold.",
+			"options": [
+				"Because of",
+				"During",
+				"Despite",
+				"As soon as"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0511",
+			"type": "A",
+			"explanation": "\"Whenever\" introduce una cláusula adverbial de tiempo que expresa un hecho repetido; \"During\" y \"Despite\" requieren un sustantivo, y \"Therefore\" no introduce cláusulas subordinadas.",
+			"category": "Adverbs",
+			"difficulty": "Medium",
+			"question": "_____ students receive immediate feedback, they tend to correct their mistakes more quickly.",
+			"options": [
+				"During",
+				"Whenever",
+				"Despite",
+				"Therefore"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0512",
+			"type": "A",
+			"explanation": "\"By the time\" introduce una cláusula adverbial con sujeto y verbo y se combina con el pasado perfecto \"had already gone\"; las demás opciones no pueden introducir una cláusula completa de esta manera.",
+			"category": "Adverbs",
+			"difficulty": "Medium",
+			"question": "_____ aid workers reached the flooded villages by boat, residents had already gone without clean water for several days.",
+			"options": [
+				"By the time",
+				"Despite",
+				"As a result",
+				"During"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0513",
+			"type": "A",
+			"explanation": "Se necesita el adverbio \"rhythmically\" para modificar el verbo \"swings\"; \"rhythmical\" es un adjetivo y \"rhythm\" es un sustantivo.",
+			"category": "Adverbs",
+			"difficulty": "Medium",
+			"question": "Galileo noticed that a pendulum swings _____, taking nearly the same time for each swing even as the arc grows smaller.",
+			"options": [
+				"rhythm",
+				"rhythmically",
+				"rhythmical",
+				"rhythmic"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0514",
+			"type": "A",
+			"explanation": "La estructura \"so + adjetivo/adverbio + that\" introduce una cláusula adverbial de resultado; \"that\" es el conector correcto tras \"so far\".",
+			"category": "Adverbs",
+			"difficulty": "Medium",
+			"question": "Voyager 1 is now so far from Earth _____ radio signals take more than twenty hours to reach it.",
+			"options": [
+				"that",
+				"which",
+				"as",
+				"than"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0515",
+			"type": "A",
+			"explanation": "\"Until\" introduce una cláusula adverbial de tiempo con sujeto y verbo; \"Despite\", \"During\" y \"Because of\" requieren un sustantivo, no una cláusula completa.",
+			"category": "Adverbs",
+			"difficulty": "Medium",
+			"question": "_____ Johannes Gutenberg introduced movable type in Europe around 1440, books were copied laboriously by hand.",
+			"options": [
+				"Despite",
+				"Because of",
+				"Until",
+				"During"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0516",
+			"type": "A",
+			"explanation": "\"Whereas\" introduce una cláusula adverbial de contraste entre las dos generaciones de mariposas; \"despite\" y \"because of\" requieren un sustantivo, y \"unless\" expresa condición.",
+			"category": "Adverbs",
+			"difficulty": "Medium",
+			"question": "Monarch butterflies of the migratory generation can live for several months, _____ summer generations live only a few weeks.",
+			"options": [
+				"unless",
+				"because of",
+				"whereas",
+				"despite"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0517",
+			"type": "A",
+			"explanation": "Cuando una oración comienza con \"Only after...\", se requiere la inversión del sujeto y el auxiliar: \"did the humanitarian crisis begin\".",
+			"category": "Adverbs",
+			"difficulty": "Hard",
+			"question": "Only after emergency food supplies reached the drought-stricken region _____ the humanitarian crisis begin to ease.",
+			"options": [
+				"was",
+				"has",
+				"did",
+				"had"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0518",
+			"type": "A",
+			"explanation": "Cuando una oración comienza con \"Not until...\", se requiere la inversión del sujeto y el auxiliar: \"did free public schooling begin\".",
+			"category": "Adverbs",
+			"difficulty": "Hard",
+			"question": "Not until the nineteenth century _____ free public schooling begin to spread widely across the United States.",
+			"options": [
+				"did",
+				"had",
+				"has",
+				"was"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0519",
+			"type": "A",
+			"explanation": "Cuando una oración comienza con \"Only when...\", se requiere la inversión del sujeto y el auxiliar: \"does it condense\", con el verbo principal en forma base.",
+			"category": "Adverbs",
+			"difficulty": "Hard",
+			"question": "Only when a gas has cooled sufficiently _____ it condense into a liquid.",
+			"options": [
+				"has",
+				"to",
+				"does",
+				"is"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0520",
+			"type": "A",
+			"explanation": "La estructura \"Seldom\" al inicio de la oración, un adverbio negativo de frecuencia, requiere la inversión del sujeto y el auxiliar: \"do astronomers get\".",
+			"category": "Adverbs",
+			"difficulty": "Hard",
+			"question": "Seldom _____ astronomers get to observe a supernova within our own galaxy; the most recent one visible to the naked eye appeared in 1604.",
+			"options": [
+				"have",
+				"does",
+				"are",
+				"do"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0521",
+			"type": "A",
+			"explanation": "La estructura \"Hardly had... when\" expresa que una acción ocurrió inmediatamente después de otra; \"when\" es el conector correcto, no \"than\".",
+			"category": "Adverbs",
+			"difficulty": "Hard",
+			"question": "Hardly had the Berlin Wall fallen in November 1989 _____ discussion of German reunification began in earnest.",
+			"options": [
+				"when",
+				"than",
+				"while",
+				"then"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0522",
+			"type": "A",
+			"explanation": "Cuando una oración comienza con el adverbio negativo \"Little\", se requiere la inversión del sujeto y el auxiliar: \"did the builders know\".",
+			"category": "Adverbs",
+			"difficulty": "Hard",
+			"question": "Little _____ the builders of the Tower of Pisa know that the soft ground beneath it would cause it to lean soon after construction began in 1173.",
+			"options": [
+				"had",
+				"did",
+				"do",
+				"were"
+			],
+			"correctAnswerIndex": 1
 		}
   ]
 }
