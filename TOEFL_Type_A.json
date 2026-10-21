@@ -7507,6 +7507,306 @@
 				"were"
 			],
 			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0523",
+			"type": "A",
+			"explanation": "Una aposición renombra al sustantivo sin necesitar verbo propio; \"a common mold\" identifica directamente a Penicillium.",
+			"category": "Appositives",
+			"difficulty": "Easy",
+			"question": "Penicillium, _____, is the source of the antibiotic penicillin.",
+			"options": [
+				"it is a common mold",
+				"which a common mold",
+				"common mold is",
+				"a common mold"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0524",
+			"type": "A",
+			"explanation": "La aposición debe ser una frase nominal sin verbo conjugado propio; \"a well-known orange and black butterfly\" identifica a la mariposa monarca.",
+			"category": "Appositives",
+			"difficulty": "Easy",
+			"question": "The monarch, _____, migrates thousands of miles each year to overwintering sites in Mexico.",
+			"options": [
+				"which a well-known butterfly",
+				"a well-known orange and black butterfly",
+				"it is a well-known butterfly",
+				"is a well-known butterfly"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0525",
+			"type": "A",
+			"explanation": "Una aposición renombra al sustantivo sin verbo propio; \"a type of red algae\" identifica al nori sin necesidad de un pronombre ni un relativo adicional.",
+			"category": "Appositives",
+			"difficulty": "Easy",
+			"question": "Nori, _____, is harvested in coastal waters and pressed into thin sheets used to wrap sushi.",
+			"options": [
+				"a type of red algae",
+				"it is a type of red algae",
+				"type of red algae",
+				"which a type of red algae"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0526",
+			"type": "A",
+			"explanation": "La aposición es una frase nominal con su artículo y sin verbo conjugado; \"a salamander native to Mexico\" identifica al axolote.",
+			"category": "Appositives",
+			"difficulty": "Easy",
+			"question": "The axolotl, _____, can regenerate lost limbs, parts of its heart, and even portions of its brain.",
+			"options": [
+				"a salamander it is native to Mexico",
+				"which a salamander from Mexico",
+				"a salamander native to Mexico",
+				"it is a salamander native to Mexico"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0527",
+			"type": "A",
+			"explanation": "Una aposición renombra al sustantivo y no lleva verbo propio; \"the largest library in the world\" identifica a la Biblioteca del Congreso.",
+			"category": "Appositives",
+			"difficulty": "Easy",
+			"question": "The Library of Congress, _____, was established in 1800 to serve members of Congress.",
+			"options": [
+				"it is the largest library in the world",
+				"being largest library in the world",
+				"the largest library in the world",
+				"which the largest library in the world"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0528",
+			"type": "A",
+			"explanation": "La aposición es una frase nominal sin verbo propio; \"a carnivorous plant native to the Carolinas\" identifica a la atrapamoscas de Venus.",
+			"category": "Appositives",
+			"difficulty": "Easy",
+			"question": "The Venus flytrap, _____, catches insects between hinged leaves that snap shut.",
+			"options": [
+				"which a carnivorous plant from the Carolinas",
+				"carnivorous plant is native to the Carolinas",
+				"it is a carnivorous plant native to the Carolinas",
+				"a carnivorous plant native to the Carolinas"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0529",
+			"type": "A",
+			"explanation": "Una aposición renombra al sustantivo sin verbo conjugado ni pronombre redundante; \"the world's largest museum, education, and research complex\" identifica a la Institución Smithsoniana.",
+			"category": "Appositives",
+			"difficulty": "Easy",
+			"question": "The Smithsonian Institution, _____, was founded in 1846 with a bequest from the British scientist James Smithson.",
+			"options": [
+				"which the world's largest museum complex",
+				"being the largest complex of museums",
+				"it is the world's largest museum complex",
+				"the world's largest museum, education, and research complex"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0530",
+			"type": "A",
+			"explanation": "El espacio en blanco es el sujeto de la oración; la frase que sigue entre comas (\"a fungus that lives...\") es la aposición, por lo que no se necesita otro verbo ni conector antes de ella.",
+			"category": "Appositives",
+			"difficulty": "Medium",
+			"question": "_____, a fungus that lives in the soil of Oregon's Blue Mountains, covers more than two thousand acres, making it one of the largest known organisms.",
+			"options": [
+				"Because Armillaria ostoyae",
+				"Armillaria ostoyae is",
+				"Armillaria ostoyae",
+				"That Armillaria ostoyae"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0531",
+			"type": "A",
+			"explanation": "La aposición debe ser una frase nominal plural que concuerde con \"Leafcutter ants\" y que no contenga verbo conjugado propio.",
+			"category": "Appositives",
+			"difficulty": "Medium",
+			"question": "Leafcutter ants, _____, cultivate fungus gardens on chewed leaves and feed on the fungus.",
+			"options": [
+				"they are tiny farmers of the tropical forest",
+				"who tiny farmers of the forest",
+				"tiny farmers of the tropical forest",
+				"tiny farm of the tropical forest"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0532",
+			"type": "A",
+			"explanation": "La aposición es una frase nominal plural sin verbo conjugado propio; \"microscopic algae with glass-like cell walls\" concuerda con \"Diatoms\".",
+			"category": "Appositives",
+			"difficulty": "Medium",
+			"question": "Diatoms, _____, produce a large share of the oxygen in Earth's atmosphere.",
+			"options": [
+				"microscopic algae with glass-like cell walls",
+				"which microscopic algae with glass-like cell walls",
+				"microscopic algae have glass-like cell walls",
+				"they are microscopic algae with glass-like cell walls"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0533",
+			"type": "A",
+			"explanation": "La aposición es una frase nominal que renombra al ornitorrinco y no puede contener un pronombre redundante ni un verbo conjugado propio.",
+			"category": "Appositives",
+			"difficulty": "Medium",
+			"question": "The platypus, _____, is one of the few mammals that lay eggs.",
+			"options": [
+				"a semiaquatic mammal it is native to eastern Australia",
+				"a semiaquatic mammal native to eastern Australia",
+				"which a semiaquatic mammal from eastern Australia",
+				"it is a semiaquatic mammal native to eastern Australia"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0534",
+			"type": "A",
+			"explanation": "Una aposición renombra el nombre científico con una frase nominal, sin verbo propio ni relativo; \"the coast redwood of California\" cumple esa condición.",
+			"category": "Appositives",
+			"difficulty": "Medium",
+			"question": "Sequoia sempervirens, _____, is the tallest tree species on Earth, with some individuals exceeding 115 meters.",
+			"options": [
+				"which the coast redwood of California",
+				"the coast redwood of California",
+				"is the coast redwood of California",
+				"it is the coast redwood of California"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0535",
+			"type": "A",
+			"explanation": "La aposición es una frase nominal con su artículo, sin verbo conjugado; \"the nation's oldest cultural institution\" identifica a la Library Company of Philadelphia.",
+			"category": "Appositives",
+			"difficulty": "Medium",
+			"question": "The Library Company of Philadelphia, _____, was founded in 1731 by Benjamin Franklin and his friends.",
+			"options": [
+				"it is the nation's oldest cultural institution",
+				"which the nation's oldest cultural institution",
+				"nation's oldest cultural institution",
+				"the nation's oldest cultural institution"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0536",
+			"type": "A",
+			"explanation": "La aposición necesita el artículo \"a\" y concordancia de número: \"fungus\" es singular, mientras que \"fungi\" es plural; además, no puede llevar verbo conjugado propio.",
+			"category": "Appositives",
+			"difficulty": "Medium",
+			"question": "Yeast, _____, ferments sugars into alcohol and carbon dioxide, which is why it is used in brewing and baking.",
+			"options": [
+				"a single-celled fungus",
+				"is a single-celled fungus",
+				"single-celled fungus",
+				"a single-celled fungi"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0537",
+			"type": "A",
+			"explanation": "La aposición debe concordar en número con el sustantivo plural \"Lichens\" y no puede incluir verbo ni relativo; \"symbiotic partnerships between a fungus and an alga or cyanobacterium\" cumple ambas condiciones.",
+			"category": "Appositives",
+			"difficulty": "Hard",
+			"question": "Lichens, _____, are among the first organisms to colonize bare rock.",
+			"options": [
+				"a symbiotic partnership between a fungus and an alga or cyanobacterium",
+				"which symbiotic partnerships between a fungus and an alga or cyanobacterium",
+				"symbiotic partnerships between a fungus and an alga or cyanobacterium",
+				"symbiotic partnerships are between a fungus and an alga or cyanobacterium"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0538",
+			"type": "A",
+			"explanation": "La aposición es una frase nominal singular que necesita su artículo \"a\"; no puede llevar pronombre redundante ni errores de número como \"societies\".",
+			"category": "Appositives",
+			"difficulty": "Hard",
+			"question": "The National Academy of Sciences, _____, was established in 1863 by an act of Congress signed by President Abraham Lincoln.",
+			"options": [
+				"private nonprofit society of distinguished scholars",
+				"a private nonprofit societies of distinguished scholars",
+				"it is a private nonprofit society of distinguished scholars",
+				"a private nonprofit society of distinguished scholars"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0539",
+			"type": "A",
+			"explanation": "La aposición debe concordar en número con \"Naked mole-rats\" (plural) y no puede tener pronombre ni relativo antes de la frase nominal.",
+			"category": "Appositives",
+			"difficulty": "Hard",
+			"question": "Naked mole-rats, _____, are among the longest-living rodents, with some individuals surviving for more than thirty years.",
+			"options": [
+				"a burrowing rodent native to East Africa",
+				"burrowing rodents native to East Africa",
+				"they are burrowing rodents native to East Africa",
+				"which burrowing rodents native to East Africa"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0540",
+			"type": "A",
+			"explanation": "\"Alga\" es la forma singular y \"algae\" la plural; con el artículo \"a\" se necesita el singular \"alga\". Además, la aposición no lleva verbo ni relativo.",
+			"category": "Appositives",
+			"difficulty": "Hard",
+			"question": "Giant kelp, _____, can grow as much as half a meter in a single day under ideal conditions.",
+			"options": [
+				"a fast-growing brown alga",
+				"which a fast-growing brown alga",
+				"fast-growing brown alga",
+				"a fast-growing brown algae"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0541",
+			"type": "A",
+			"explanation": "La aposición debe ser una frase nominal plural, que concuerde con \"Termites\", sin pronombre redundante ni relativo: \"social insects related to cockroaches\".",
+			"category": "Appositives",
+			"difficulty": "Hard",
+			"question": "Termites, _____, build mounds that can rise several meters above the ground and maintain a stable internal climate.",
+			"options": [
+				"social insects related to cockroaches",
+				"they are social insects related to cockroaches",
+				"which social insects related to cockroaches",
+				"a social insect related to cockroaches"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0542",
+			"type": "A",
+			"explanation": "La aposición con superlativo requiere el artículo \"the\" y un sustantivo singular (\"society\"); las demás opciones omiten el artículo, añaden un pronombre con verbo o usan el plural incorrectamente.",
+			"category": "Appositives",
+			"difficulty": "Hard",
+			"question": "The American Philosophical Society, _____, was founded in Philadelphia in 1743 by Benjamin Franklin.",
+			"options": [
+				"the oldest learned societies in the United States",
+				"the oldest learned society in the United States",
+				"oldest learned society in the United States",
+				"it is the oldest learned society in the United States"
+			],
+			"correctAnswerIndex": 1
 		}
   ]
 }
