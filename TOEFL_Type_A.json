@@ -6907,6 +6907,306 @@
 				"Has"
 			],
 			"correctAnswerIndex": 0
-		}    
+		}
+	  	{
+			"id": "A0483",
+			"type": "A",
+			"explanation": "Se usa el gerundio \"Orbiting\" porque la Tierra realiza la acción de orbitar alrededor del Sol (voz activa).",
+			"category": "Participial Phrases",
+			"difficulty": "Easy",
+			"question": "_____ around the Sun at an average speed of about 30 kilometers per second, Earth completes one full orbit every year.",
+			"options": [
+				"To orbit",
+				"Orbiting",
+				"Orbit",
+				"Orbited"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0484",
+			"type": "A",
+			"explanation": "La Mona Lisa recibe la acción de ser pintada por Leonardo, por lo que se requiere el participio pasado \"Painted\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Easy",
+			"question": "_____ by Leonardo da Vinci in the early sixteenth century, the Mona Lisa is now displayed at the Louvre Museum in Paris.",
+			"options": [
+				"To paint",
+				"Paint",
+				"Painted",
+				"Painting"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0485",
+			"type": "A",
+			"explanation": "Harvard recibe la acción de ser fundada, por lo que se requiere el participio pasado \"Founded\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Easy",
+			"question": "_____ in 1636, Harvard College is the oldest institution of higher education in the United States.",
+			"options": [
+				"Founded",
+				"To found",
+				"Found",
+				"Founding"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0486",
+			"type": "A",
+			"explanation": "El Acuerdo Buttonwood recibe la acción de ser firmado por los corredores, por lo que se requiere el participio pasado \"Signed\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Easy",
+			"question": "_____ by twenty-four stockbrokers in 1792, the Buttonwood Agreement laid the foundation for what later became the New York Stock Exchange.",
+			"options": [
+				"Signing",
+				"Signed",
+				"Sign",
+				"To sign"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0487",
+			"type": "A",
+			"explanation": "La Decimonovena Enmienda recibe la acción de ser ratificada, por lo que se requiere el participio pasado \"Ratified\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Easy",
+			"question": "_____ in 1920, the Nineteenth Amendment guaranteed American women the right to vote.",
+			"options": [
+				"To ratify",
+				"Ratified",
+				"Ratify",
+				"Ratifying"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0488",
+			"type": "A",
+			"explanation": "Se usa el gerundio \"Converting\" porque las celdas fotovoltaicas realizan la acción de convertir la luz solar en electricidad (voz activa).",
+			"category": "Participial Phrases",
+			"difficulty": "Easy",
+			"question": "_____ sunlight directly into electricity, photovoltaic cells have become one of the fastest-growing sources of renewable energy.",
+			"options": [
+				"Converting",
+				"Converted",
+				"Converts",
+				"Convert"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0489",
+			"type": "A",
+			"explanation": "Se usa el gerundio \"Combining\" porque el jazz realiza la acción de combinar ritmos africanos con armonías europeas (voz activa).",
+			"category": "Participial Phrases",
+			"difficulty": "Easy",
+			"question": "_____ the rhythms of African music with European harmonies, jazz emerged in New Orleans in the late nineteenth and early twentieth centuries.",
+			"options": [
+				"Combined",
+				"To combine",
+				"Combine",
+				"Combining"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0490",
+			"type": "A",
+			"explanation": "Los Pilares de la Creación reciben la acción de ser fotografiados por el telescopio Hubble, por lo que se requiere el participio pasado \"Photographed\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Medium",
+			"question": "_____ by the Hubble Space Telescope in 1995, the Pillars of Creation revealed towering columns of gas and dust where new stars are forming.",
+			"options": [
+				"Photograph",
+				"Photographing",
+				"To photograph",
+				"Photographed"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0491",
+			"type": "A",
+			"explanation": "La expresión idiomática es \"faced with\" (enfrentado a); la Reserva Federal recibe la situación de la inflación, por lo que se requiere el participio pasado \"Faced\".",
+			"category": "Participial Phrases",
+			"difficulty": "Medium",
+			"question": "_____ with rising inflation in the late 1970s, the Federal Reserve under Paul Volcker raised interest rates to historically high levels.",
+			"options": [
+				"Facing",
+				"Face",
+				"Faced",
+				"To face"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0492",
+			"type": "A",
+			"explanation": "Se usa el gerundio \"Offering\" porque las universidades comunitarias realizan la acción de ofrecer matrícula accesible y horarios flexibles (voz activa).",
+			"category": "Participial Phrases",
+			"difficulty": "Medium",
+			"question": "_____ affordable tuition and flexible class schedules, community colleges have become a gateway to higher education for millions of students.",
+			"options": [
+				"To offer",
+				"Offer",
+				"Offering",
+				"Offered"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0493",
+			"type": "A",
+			"explanation": "El Congreso recibe el poder de declarar la guerra por parte de la Constitución, por lo que se requiere el participio pasado \"Granted\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Medium",
+			"question": "_____ the power to declare war by Article I of the Constitution, Congress serves as a check on the executive branch.",
+			"options": [
+				"Granted",
+				"Granting",
+				"To grant",
+				"Grant"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0494",
+			"type": "A",
+			"explanation": "Miguel Ángel recibe la acción de ser comisionado por el papa Julio II, por lo que se requiere el participio pasado \"Commissioned\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Medium",
+			"question": "_____ by Pope Julius II in 1508, Michelangelo spent four years painting the ceiling of the Sistine Chapel.",
+			"options": [
+				"Commissioned",
+				"To commission",
+				"Commission",
+				"Commissioning"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0495",
+			"type": "A",
+			"explanation": "El agua de lluvia recibe la acción de ser atraída por la gravedad, por lo que se requiere el participio pasado \"Pulled\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Medium",
+			"question": "_____ by the force of gravity, rainwater flows downhill toward streams, rivers, and eventually the oceans.",
+			"options": [
+				"To pull",
+				"Pulled",
+				"Pull",
+				"Pulling"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0496",
+			"type": "A",
+			"explanation": "El movimiento de escuelas comunes recibe la acción de ser dirigido por Horace Mann, por lo que se requiere el participio pasado \"Led\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Medium",
+			"question": "_____ by Horace Mann in Massachusetts during the 1830s and 1840s, the common school movement promoted free public education for all children.",
+			"options": [
+				"Leading",
+				"To lead",
+				"Lead",
+				"Led"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0497",
+			"type": "A",
+			"explanation": "La frase participial \"Examining ice cores...\" debe modificar al sujeto que realiza la acción: los investigadores. Las demás opciones dejan un modificador mal colocado.",
+			"category": "Participial Phrases",
+			"difficulty": "Hard",
+			"question": "Examining ice cores drilled deep into the Antarctic ice sheet, _____.",
+			"options": [
+				"it was discovered that climate records stretch back 800,000 years",
+				"climate records stretching back 800,000 years were discovered by researchers",
+				"researchers discovered climate records stretching back 800,000 years",
+				"a record of 800,000 years of climate was discovered"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0498",
+			"type": "A",
+			"explanation": "\"Having been established...\" modifica a la institución que fue creada; solo \"the International Monetary Fund\" puede ser el sujeto lógico de esa frase participial.",
+			"category": "Participial Phrases",
+			"difficulty": "Hard",
+			"question": "Having been established in 1945 to promote global monetary cooperation, _____.",
+			"options": [
+				"nearly two hundred countries now belong to the International Monetary Fund",
+				"economists at the International Monetary Fund now monitor the global economy",
+				"membership in the International Monetary Fund now exceeds one hundred and ninety countries",
+				"the International Monetary Fund now has nearly two hundred member countries"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0499",
+			"type": "A",
+			"explanation": "\"Written primarily by James Madison\" debe modificar lo que fue escrito: la Declaración de Derechos. Las demás opciones generan modificadores mal colocados.",
+			"category": "Participial Phrases",
+			"difficulty": "Hard",
+			"question": "Written primarily by James Madison, _____.",
+			"options": [
+				"Anti-Federalists had demanded such protections for individual citizens",
+				"the Bill of Rights guarantees fundamental freedoms such as speech and religion",
+				"ratification by the states was completed in December 1791",
+				"Congress approved the first ten amendments in September 1789"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0500",
+			"type": "A",
+			"explanation": "\"Painted in response to...\" debe modificar la obra pintada; solo \"Pablo Picasso's enormous canvas\" es el sujeto lógico de la frase participial.",
+			"category": "Participial Phrases",
+			"difficulty": "Hard",
+			"question": "Painted in response to the 1937 bombing of a Basque town by German and Italian aircraft, _____.",
+			"options": [
+				"Pablo Picasso's enormous canvas became one of the most powerful anti-war statements in modern art",
+				"Pablo Picasso became one of the most powerful anti-war voices in modern art",
+				"the bombing became one of the most powerful anti-war statements in modern art",
+				"critics consider it one of the most powerful anti-war statements in modern art"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0501",
+			"type": "A",
+			"explanation": "\"Established by the Morrill Act of 1862\" debe modificar lo que fue establecido: las universidades de concesión de tierras (land-grant universities).",
+			"category": "Participial Phrases",
+			"difficulty": "Hard",
+			"question": "Established by the Morrill Act of 1862, _____.",
+			"options": [
+				"Congress gave each state federal land to fund agricultural colleges",
+				"President Lincoln signed the act into law",
+				"land-grant universities expanded access to higher education for farmers and working-class families",
+				"federal land was sold by states to finance new colleges"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0502",
+			"type": "A",
+			"explanation": "En la cláusula adverbial reducida \"Although rejected...\", la teoría de Wegener recibe la acción de ser rechazada, por lo que se requiere el participio pasado \"rejected\" (voz pasiva).",
+			"category": "Participial Phrases",
+			"difficulty": "Hard",
+			"question": "Although _____ by most geologists when it was proposed in 1912, Alfred Wegener's theory of continental drift was later supported by evidence from the ocean floor.",
+			"options": [
+				"rejecting",
+				"to reject",
+				"having rejected",
+				"rejected"
+			],
+			"correctAnswerIndex": 3
+		}
   ]
 }
