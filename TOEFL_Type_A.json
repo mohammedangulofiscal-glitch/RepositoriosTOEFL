@@ -8407,6 +8407,306 @@
 				"protect"
 			],
 			"correctAnswerIndex": 0
+		},
+	  			{
+			"id": "A0583",
+			"type": "A",
+			"explanation": "El orden de los adjetivos en inglés es opinión, color y origen: \"beautiful pink Japanese\".",
+			"category": "Word Order",
+			"difficulty": "Easy",
+			"question": "Every spring, visitors to Washington, D.C., gather along the Tidal Basin to admire the _____ cherry trees.",
+			"options": [
+				"pink beautiful Japanese",
+				"beautiful pink Japanese",
+				"beautiful Japanese pink",
+				"Japanese pink beautiful"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0584",
+			"type": "A",
+			"explanation": "El orden de los adjetivos en inglés es opinión, edad y material: \"magnificent old copper\".",
+			"category": "Word Order",
+			"difficulty": "Easy",
+			"question": "The Statue of Liberty, a gift from France, is _____ statue that has welcomed immigrants to New York Harbor since 1886.",
+			"options": [
+				"a magnificent copper old",
+				"a copper old magnificent",
+				"a magnificent old copper",
+				"an old magnificent copper"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0585",
+			"type": "A",
+			"explanation": "En inglés, el superlativo con artículo va antes del sustantivo: \"the longest river\".",
+			"category": "Word Order",
+			"difficulty": "Easy",
+			"question": "The Missouri River, which flows through Montana, North Dakota, South Dakota, Nebraska, Iowa, Kansas, and Missouri, is _____ in the United States.",
+			"options": [
+				"river the longest",
+				"the river longest",
+				"the longest river",
+				"longest the river"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0586",
+			"type": "A",
+			"explanation": "\"Enough\" se coloca después del adjetivo que modifica: \"large enough\".",
+			"category": "Word Order",
+			"difficulty": "Easy",
+			"question": "Completed in 1936, the Hoover Dam on the Colorado River is _____ to supply electricity to millions of people in Nevada, Arizona, and California.",
+			"options": [
+				"large enough",
+				"enough largely",
+				"enough large",
+				"largely enough"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0587",
+			"type": "A",
+			"explanation": "La estructura correcta es \"such + a + adjetivo + sustantivo\": \"such a vast place\".",
+			"category": "Word Order",
+			"difficulty": "Easy",
+			"question": "The Grand Canyon in Arizona is _____ that many first-time visitors stand silently at the rim for several minutes.",
+			"options": [
+				"a such vast place",
+				"such vast a place",
+				"such a vast place",
+				"so vast place"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0588",
+			"type": "A",
+			"explanation": "En una pregunta indirecta se mantiene el orden de oración afirmativa, sin inversión ni auxiliar: \"how often Old Faithful erupts\".",
+			"category": "Word Order",
+			"difficulty": "Easy",
+			"question": "Visitors to Yellowstone National Park often ask the rangers _____ the Old Faithful geyser erupts.",
+			"options": [
+				"how does often",
+				"how often",
+				"often how",
+				"does how often"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0589",
+			"type": "A",
+			"explanation": "El posesivo va primero, seguido del número ordinal y del adjetivo, y después el sustantivo: \"their first successful flight\".",
+			"category": "Word Order",
+			"difficulty": "Easy",
+			"question": "In December 1903, Orville and Wilbur Wright made _____ at Kitty Hawk, North Carolina.",
+			"options": [
+				"their first successful flight",
+				"successful flight their first",
+				"first flight their successful",
+				"flight their first successful"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0590",
+			"type": "A",
+			"explanation": "Cuando una oración comienza con \"Never before\", se requiere inversión del auxiliar y el sujeto: \"had so many Americans voted\".",
+			"category": "Word Order",
+			"difficulty": "Medium",
+			"question": "Never before _____ as in the 2020 presidential election.",
+			"options": [
+				"so many Americans had voted by mail",
+				"had voted so many Americans by mail",
+				"did so many Americans voted by mail",
+				"had so many Americans voted by mail"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0591",
+			"type": "A",
+			"explanation": "La estructura \"Not only... but also\" exige inversión del auxiliar y el sujeto tras \"Not only\": \"did Bell invent\".",
+			"category": "Word Order",
+			"difficulty": "Medium",
+			"question": "Not only _____ the telephone, but Alexander Graham Bell also helped to found the National Geographic Society.",
+			"options": [
+				"Bell did invent",
+				"Bell invented",
+				"invented Bell",
+				"did Bell invent"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0592",
+			"type": "A",
+			"explanation": "Cuando una oración comienza con el adverbio negativo \"Rarely\", se requiere inversión del auxiliar y el sujeto: \"has a storm hit\".",
+			"category": "Word Order",
+			"difficulty": "Medium",
+			"question": "Rarely _____ the Gulf Coast as hard as Hurricane Katrina did in August 2005.",
+			"options": [
+				"has a storm hit",
+				"a storm has hit",
+				"has hit a storm",
+				"a storm hit"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0593",
+			"type": "A",
+			"explanation": "Cuando una oración comienza con \"Only after\", se requiere inversión: verbo auxiliar + sujeto (\"was slavery abolished\").",
+			"category": "Word Order",
+			"difficulty": "Medium",
+			"question": "Only after the Civil War ended in 1865 _____ throughout the United States by the Thirteenth Amendment.",
+			"options": [
+				"was abolished slavery",
+				"slavery was abolished",
+				"abolished was slavery",
+				"was slavery abolished"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0594",
+			"type": "A",
+			"explanation": "En una pregunta indirecta se mantiene el orden afirmativo (palabra interrogativa + sujeto + verbo), sin inversión: \"why the colonists disappeared\".",
+			"category": "Word Order",
+			"difficulty": "Medium",
+			"question": "Historians still wonder _____ from the Roanoke Colony in what is now North Carolina after 1587.",
+			"options": [
+				"the colonists why disappeared",
+				"why the colonists disappeared",
+				"why did the colonists disappear",
+				"why disappeared the colonists"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0595",
+			"type": "A",
+			"explanation": "En condicionales formales con inversión, \"Should\" va al inicio de la oración en lugar de \"If\": \"Should the Senate fail...\".",
+			"category": "Word Order",
+			"difficulty": "Medium",
+			"question": "_____ the Senate fail to pass the bill, the President may attempt to achieve the same goal through an executive order.",
+			"options": [
+				"Would",
+				"Has",
+				"Should",
+				"Does"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0596",
+			"type": "A",
+			"explanation": "El orden de los adjetivos en inglés es opinión, color y tipo: \"a famous orange suspension\".",
+			"category": "Word Order",
+			"difficulty": "Medium",
+			"question": "The Golden Gate Bridge, opened in 1937, is _____ bridge that has become a symbol of San Francisco.",
+			"options": [
+				"a famous orange suspension",
+				"an orange famous suspension",
+				"a famous suspension orange",
+				"a suspension famous orange"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0597",
+			"type": "A",
+			"explanation": "La estructura \"No sooner... than\" exige inversión del auxiliar y el sujeto tras \"No sooner\": \"had workers driven\".",
+			"category": "Word Order",
+			"difficulty": "Hard",
+			"question": "No sooner _____ the Golden Spike at Promontory Summit, Utah, in 1869 than travel across the country became dramatically faster.",
+			"options": [
+				"workers had driven",
+				"did workers driven",
+				"had workers driven",
+				"had driven workers"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0598",
+			"type": "A",
+			"explanation": "Tras la expresión negativa \"in no case\", se requiere inversión del auxiliar y el sujeto: \"may a person be elected\".",
+			"category": "Word Order",
+			"difficulty": "Hard",
+			"question": "Under the Twenty-second Amendment, ratified in 1951, in no case _____.",
+			"options": [
+				"a person may be elected President more than twice",
+				"may be a person elected President more than twice",
+				"does a person may be elected President more than twice",
+				"may a person be elected President more than twice"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0599",
+			"type": "A",
+			"explanation": "Cuando una oración comienza con \"Little\" con sentido negativo, se requiere inversión con el auxiliar: \"did the delegates in Philadelphia imagine\".",
+			"category": "Word Order",
+			"difficulty": "Hard",
+			"question": "Little _____ how long the Constitution they were drafting in 1787 would endure.",
+			"options": [
+				"did the delegates in Philadelphia imagine",
+				"the delegates in Philadelphia imagined",
+				"the delegates in Philadelphia did imagine",
+				"imagined the delegates in Philadelphia"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0600",
+			"type": "A",
+			"explanation": "Cuando una oración comienza con \"Only by + gerundio\", se requiere inversión del auxiliar y el sujeto: \"could farmers avoid\".",
+			"category": "Word Order",
+			"difficulty": "Hard",
+			"question": "Only by planting cover crops and windbreaks _____ another Dust Bowl like the one that devastated the Great Plains in the 1930s.",
+			"options": [
+				"did farmers could avoid",
+				"could farmers avoid",
+				"farmers could to avoid",
+				"farmers could avoid"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0601",
+			"type": "A",
+			"explanation": "En una pregunta indirecta se mantiene el orden afirmativo: palabra interrogativa + sujeto + verbo (\"where they could see\"), sin inversión.",
+			"category": "Word Order",
+			"difficulty": "Hard",
+			"question": "The students asked the librarian _____ the original Declaration of Independence, which is preserved at the National Archives in Washington, D.C.",
+			"options": [
+				"could they where see",
+				"where could they see",
+				"they could where see",
+				"where they could see"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0602",
+			"type": "A",
+			"explanation": "Cuando una oración comienza con \"Not until...\", la cláusula principal lleva inversión del auxiliar y el sujeto: \"did the United States officially enter\".",
+			"category": "Word Order",
+			"difficulty": "Hard",
+			"question": "Not until the attack on Pearl Harbor in December 1941 _____.",
+			"options": [
+				"the United States officially entered World War II",
+				"did the United States officially enter World War II",
+				"the United States did officially enter World War II",
+				"entered officially the United States World War II"
+			],
+			"correctAnswerIndex": 1
 		}
   ]
 }
