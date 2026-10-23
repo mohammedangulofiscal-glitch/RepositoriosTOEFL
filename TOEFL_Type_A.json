@@ -7807,6 +7807,606 @@
 				"it is the oldest learned society in the United States"
 			],
 			"correctAnswerIndex": 1
+		},
+	  	{
+			"id": "A0543",
+			"type": "A",
+			"explanation": "\"How\" introduce una cláusula nominal que funciona como objeto de \"understand\" y pregunta por la manera en que comenzó el universo.",
+			"category": "Noun Clauses",
+			"difficulty": "Easy",
+			"question": "Cosmologists are still trying to understand _____ the universe began expanding after the Big Bang.",
+			"options": [
+				"how",
+				"what",
+				"who",
+				"whose"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0544",
+			"type": "A",
+			"explanation": "\"Who\" funciona como sujeto de la cláusula nominal (\"who built the first pyramid\"); \"whom\" se usa solo como objeto.",
+			"category": "Noun Clauses",
+			"difficulty": "Easy",
+			"question": "Historians still debate _____ designed the Step Pyramid of Djoser, though many credit the architect Imhotep.",
+			"options": [
+				"what",
+				"whose",
+				"whom",
+				"who"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0545",
+			"type": "A",
+			"explanation": "\"That\" introduce una cláusula nominal que expresa un hecho y funciona como objeto de \"found\".",
+			"category": "Noun Clauses",
+			"difficulty": "Easy",
+			"question": "Researchers have found _____ honeybees can learn to recognize human faces.",
+			"options": [
+				"that",
+				"whom",
+				"what",
+				"whose"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0546",
+			"type": "A",
+			"explanation": "\"When\" introduce una cláusula nominal que pregunta por el momento en que ocurrió la destrucción de la biblioteca.",
+			"category": "Noun Clauses",
+			"difficulty": "Easy",
+			"question": "Scholars cannot say for certain _____ the Library of Alexandria was finally destroyed.",
+			"options": [
+				"whom",
+				"whichever",
+				"whose",
+				"when"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0547",
+			"type": "A",
+			"explanation": "\"Why\" introduce una cláusula nominal que pregunta por la razón; las demás opciones no encajan con el significado de la oración.",
+			"category": "Noun Clauses",
+			"difficulty": "Easy",
+			"question": "The museum curator explained _____ the painting had been kept in storage for nearly fifty years.",
+			"options": [
+				"why",
+				"whom",
+				"whose",
+				"whichever"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0548",
+			"type": "A",
+			"explanation": "\"How\" introduce una cláusula nominal; \"how far\" pregunta por la distancia a la que se encuentra la estrella.",
+			"category": "Noun Clauses",
+			"difficulty": "Easy",
+			"question": "Astronomers can calculate _____ far away a nearby star is by measuring its apparent shift against distant stars, a method called parallax.",
+			"options": [
+				"whom",
+				"that",
+				"how",
+				"whose"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0549",
+			"type": "A",
+			"explanation": "\"That\" introduce una cláusula nominal completa que funciona como sujeto de la oración y expresa un hecho (o, en este caso, una creencia popular).",
+			"category": "Noun Clauses",
+			"difficulty": "Easy",
+			"question": "_____ the Great Wall of China is visible to the naked eye from space is a popular myth.",
+			"options": [
+				"Whom",
+				"What",
+				"That",
+				"Whose"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0550",
+			"type": "A",
+			"explanation": "\"Whether\" introduce una cláusula nominal que expresa duda entre dos posibilidades (sí o no) y funciona como objeto de \"investigating\".",
+			"category": "Noun Clauses",
+			"difficulty": "Medium",
+			"question": "Botanists are investigating _____ trees in a forest can share nutrients and chemical signals through underground fungal networks.",
+			"options": [
+				"what",
+				"whose",
+				"whether",
+				"whom"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0551",
+			"type": "A",
+			"explanation": "\"How\" introduce una cláusula nominal que funciona como objeto de \"decided\" y pregunta por el método de asignación de los fondos.",
+			"category": "Noun Clauses",
+			"difficulty": "Medium",
+			"question": "The scholarship committee has not yet decided _____ the available funds should be distributed among the finalists.",
+			"options": [
+				"whom",
+				"whose",
+				"what",
+				"how"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0552",
+			"type": "A",
+			"explanation": "\"Whether\" introduce una cláusula nominal que plantea una alternativa (sí/no) como objeto de \"debate\".",
+			"category": "Noun Clauses",
+			"difficulty": "Medium",
+			"question": "Economists continue to debate _____ raising interest rates is the most effective way to slow inflation.",
+			"options": [
+				"whom",
+				"whether",
+				"what",
+				"whose"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0553",
+			"type": "A",
+			"explanation": "\"What\" funciona como objeto directo de \"discovered\" dentro de la cláusula nominal que es sujeto de la oración; \"that\" dejaría al verbo sin objeto.",
+			"category": "Noun Clauses",
+			"difficulty": "Medium",
+			"question": "_____ the historian discovered in the municipal archive changed how scholars understand the treaty negotiations of 1648.",
+			"options": [
+				"Whose",
+				"Whom",
+				"That",
+				"What"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0554",
+			"type": "A",
+			"explanation": "\"That\" introduce una cláusula nominal completa (con su propio sujeto y verbo) que funciona como objeto de \"show\".",
+			"category": "Noun Clauses",
+			"difficulty": "Medium",
+			"question": "Archaeological findings show _____ ancient trade routes connected distant civilizations long before the rise of the Roman Empire.",
+			"options": [
+				"whom",
+				"whose",
+				"what",
+				"that"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0555",
+			"type": "A",
+			"explanation": "\"Why\" introduce una cláusula nominal que funciona como objeto de \"explain\" y pregunta por la causa del abandono de la colmena.",
+			"category": "Noun Clauses",
+			"difficulty": "Medium",
+			"question": "Beekeepers could not explain _____ the entire colony had abandoned its hive almost overnight.",
+			"options": [
+				"whom",
+				"why",
+				"what",
+				"whose"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0556",
+			"type": "A",
+			"explanation": "\"What\" es el sujeto de la cláusula nominal (\"what caused the decline\"); \"that\" no puede funcionar como sujeto en una pregunta indirecta y \"whom\" es una forma de objeto.",
+			"category": "Noun Clauses",
+			"difficulty": "Medium",
+			"question": "Ecologists could not immediately determine _____ had caused the sudden decline in amphibian populations across the region.",
+			"options": [
+				"whom",
+				"what",
+				"that",
+				"whose"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0557",
+			"type": "A",
+			"explanation": "Después de verbos de exigencia como \"demand\", la cláusula nominal con \"that\" usa el subjuntivo, es decir, la forma base del verbo (\"revise\"), sin -s ni tiempo pasado.",
+			"category": "Noun Clauses",
+			"difficulty": "Hard",
+			"question": "The faculty senate demanded that the university _____ its admissions policy before the next academic year.",
+			"options": [
+				"will revise",
+				"revise",
+				"revised",
+				"revises"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0558",
+			"type": "A",
+			"explanation": "Después de expresiones de necesidad como \"It is essential that\", se usa el subjuntivo; en voz pasiva, la forma correcta es \"be trained\" (forma base de \"be\" + participio).",
+			"category": "Noun Clauses",
+			"difficulty": "Hard",
+			"question": "It is essential that every astronaut _____ thoroughly in emergency procedures before a mission to the International Space Station.",
+			"options": [
+				"be trained",
+				"has trained",
+				"trains",
+				"is trained"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0559",
+			"type": "A",
+			"explanation": "\"What\" introduce una cláusula nominal que funciona como sujeto de \"has been debated\" y es el objeto directo de \"represents\".",
+			"category": "Noun Clauses",
+			"difficulty": "Hard",
+			"question": "_____ the novel's central character represents has been debated by literary critics since the book was first published.",
+			"options": [
+				"That",
+				"What",
+				"Whose",
+				"Whom"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0560",
+			"type": "A",
+			"explanation": "\"What\" introduce una cláusula nominal que funciona como objeto de la preposición \"by\" y es el objeto directo de \"found\".",
+			"category": "Noun Clauses",
+			"difficulty": "Hard",
+			"question": "The archaeologists were astonished by _____ they found beneath the floor of the ancient temple.",
+			"options": [
+				"whom",
+				"that",
+				"what",
+				"which"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0561",
+			"type": "A",
+			"explanation": "En una cláusula nominal que funciona como pregunta indirecta, se mantiene el orden de oración afirmativa (sujeto + verbo), sin inversión ni auxiliar \"did\".",
+			"category": "Noun Clauses",
+			"difficulty": "Hard",
+			"question": "Historians continue to study _____ so rapidly across Europe in the fifteenth century.",
+			"options": [
+				"the printing press how spread",
+				"did the printing press spread",
+				"how the printing press spread",
+				"how did the printing press spread"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0562",
+			"type": "A",
+			"explanation": "Después de verbos de recomendación como \"recommend\", la cláusula nominal con \"that\" usa el subjuntivo, es decir, la forma base del verbo (\"limit\"), incluso con sujeto singular.",
+			"category": "Noun Clauses",
+			"difficulty": "Hard",
+			"question": "The World Health Organization recommends that each adult _____ the amount of added sugar in his or her daily diet.",
+			"options": [
+				"limit",
+				"limits",
+				"is limiting",
+				"limited"
+			],
+			"correctAnswerIndex": 0
+		},
+	  			{
+			"id": "A0563",
+			"type": "A",
+			"explanation": "La expresión fija correcta es \"native to\" (originario de); \"native of\" se usa normalmente con personas y lugares de nacimiento.",
+			"category": "Prepositions",
+			"difficulty": "Easy",
+			"question": "Penguins are native _____ the Southern Hemisphere, and most species live south of the equator.",
+			"options": [
+				"of",
+				"at",
+				"to",
+				"from"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0564",
+			"type": "A",
+			"explanation": "Se usa \"at\" con la expresión \"at the age of\" para indicar la edad en que alguien hizo algo.",
+			"category": "Prepositions",
+			"difficulty": "Easy",
+			"question": "Wolfgang Amadeus Mozart composed his first symphony _____ the age of eight.",
+			"options": [
+				"in",
+				"on",
+				"at",
+				"of"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0565",
+			"type": "A",
+			"explanation": "\"Through\" indica movimiento a lo largo del interior de un espacio, como un país que atraviesa un río.",
+			"category": "Prepositions",
+			"difficulty": "Easy",
+			"question": "The Amazon River flows _____ Brazil for thousands of kilometers before reaching the Atlantic Ocean.",
+			"options": [
+				"through",
+				"beside",
+				"against",
+				"among"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0566",
+			"type": "A",
+			"explanation": "El verbo \"depend\" se combina con la preposición \"on\" (depend on).",
+			"category": "Prepositions",
+			"difficulty": "Easy",
+			"question": "Photosynthesis depends _____ sunlight, water, and carbon dioxide.",
+			"options": [
+				"with",
+				"at",
+				"in",
+				"on"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0567",
+			"type": "A",
+			"explanation": "Se usa \"in\" para indicar la ciudad o población donde alguien nació.",
+			"category": "Prepositions",
+			"difficulty": "Easy",
+			"question": "William Shakespeare was born _____ Stratford-upon-Avon in 1564.",
+			"options": [
+				"on",
+				"to",
+				"in",
+				"from"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0568",
+			"type": "A",
+			"explanation": "Se usa \"in\" con años para indicar cuándo ocurrió un hecho histórico.",
+			"category": "Prepositions",
+			"difficulty": "Easy",
+			"question": "The Declaration of Independence was adopted by the Continental Congress _____ 1776.",
+			"options": [
+				"at",
+				"in",
+				"since",
+				"on"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0569",
+			"type": "A",
+			"explanation": "La estructura \"from X to Y\" indica movimiento de un punto de origen a otro; \"from flower to flower\" es la expresión correcta.",
+			"category": "Prepositions",
+			"difficulty": "Easy",
+			"question": "_____ flower to flower, honeybees carry pollen that helps plants reproduce.",
+			"options": [
+				"Of",
+				"From",
+				"On",
+				"By"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0570",
+			"type": "A",
+			"explanation": "La expresión fija correcta es \"credited with\" seguida de un gerundio (credited with discovering).",
+			"category": "Prepositions",
+			"difficulty": "Medium",
+			"question": "Marie Curie is credited _____ discovering the elements polonium and radium.",
+			"options": [
+				"with",
+				"of",
+				"to",
+				"by"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0571",
+			"type": "A",
+			"explanation": "El verbo \"accuse\" se combina con \"of\" para indicar el delito o falta de que se acusa a alguien (accused of).",
+			"category": "Prepositions",
+			"difficulty": "Medium",
+			"question": "The expedition's leader was accused _____ ignoring warnings about the approaching storm.",
+			"options": [
+				"of",
+				"for",
+				"with",
+				"about"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0572",
+			"type": "A",
+			"explanation": "La expresión fija correcta es \"concerned about\" (preocupado por).",
+			"category": "Prepositions",
+			"difficulty": "Medium",
+			"question": "Climate scientists are deeply concerned _____ the rapid melting of Arctic sea ice.",
+			"options": [
+				"to",
+				"from",
+				"of",
+				"about"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0573",
+			"type": "A",
+			"explanation": "La expresión fija correcta es \"based on\" (basado en).",
+			"category": "Prepositions",
+			"difficulty": "Medium",
+			"question": "Charles Darwin's theory of natural selection was based _____ decades of careful observation and research.",
+			"options": [
+				"at",
+				"from",
+				"in",
+				"on"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0574",
+			"type": "A",
+			"explanation": "La expresión fija correcta es \"result in\" (tener como resultado); \"result from\" indicaría la causa, no la consecuencia.",
+			"category": "Prepositions",
+			"difficulty": "Medium",
+			"question": "Decades of overfishing have resulted _____ the collapse of several major fish populations in the North Atlantic.",
+			"options": [
+				"at",
+				"with",
+				"to",
+				"in"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0575",
+			"type": "A",
+			"explanation": "El verbo \"differ\" se combina con \"from\" cuando se comparan dos cosas (differ from); \"differ with\" significa estar en desacuerdo.",
+			"category": "Prepositions",
+			"difficulty": "Medium",
+			"question": "The Roman Republic differed _____ the Roman Empire in its system of government, which relied on elected officials rather than an emperor.",
+			"options": [
+				"than",
+				"from",
+				"by",
+				"to"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0576",
+			"type": "A",
+			"explanation": "La expresión fija correcta es \"prepare for\" (prepararse para).",
+			"category": "Prepositions",
+			"difficulty": "Medium",
+			"question": "Astronauts spend months in a giant pool at NASA, preparing _____ the challenges of working in space.",
+			"options": [
+				"to",
+				"on",
+				"with",
+				"for"
+			],
+			"correctAnswerIndex": 3
+		},
+		{
+			"id": "A0577",
+			"type": "A",
+			"explanation": "La expresión fija correcta es \"in spite of\" (a pesar de).",
+			"category": "Prepositions",
+			"difficulty": "Hard",
+			"question": "_____ spite of repeated failures, the Wright brothers continued refining their gliders until they achieved powered flight in 1903.",
+			"options": [
+				"Despite",
+				"At",
+				"In",
+				"On"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0578",
+			"type": "A",
+			"explanation": "La expresión fija correcta es \"deprived of\" (privado de).",
+			"category": "Prepositions",
+			"difficulty": "Hard",
+			"question": "After the storm destroyed their supplies, the polar explorers were deprived _____ food for nearly two weeks.",
+			"options": [
+				"with",
+				"for",
+				"of",
+				"from"
+			],
+			"correctAnswerIndex": 2
+		},
+		{
+			"id": "A0579",
+			"type": "A",
+			"explanation": "La expresión fija correcta es \"provide someone with something\" (proporcionar algo a alguien).",
+			"category": "Prepositions",
+			"difficulty": "Hard",
+			"question": "The new science curriculum is designed to provide students _____ practical skills in laboratory research.",
+			"options": [
+				"of",
+				"with",
+				"for",
+				"to"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0580",
+			"type": "A",
+			"explanation": "La expresión fija correcta es \"apologize for\" (disculparse por).",
+			"category": "Prepositions",
+			"difficulty": "Hard",
+			"question": "The research team apologized _____ the delay in publishing the results of the clinical trial.",
+			"options": [
+				"for",
+				"with",
+				"of",
+				"at"
+			],
+			"correctAnswerIndex": 0
+		},
+		{
+			"id": "A0581",
+			"type": "A",
+			"explanation": "La expresión fija correcta es \"insist on\" seguida de un gerundio (insist on rebuilding).",
+			"category": "Prepositions",
+			"difficulty": "Hard",
+			"question": "After the earthquake, the mayor insisted _____ rebuilding the historic bridge using the original stone.",
+			"options": [
+				"for",
+				"on",
+				"in",
+				"at"
+			],
+			"correctAnswerIndex": 1
+		},
+		{
+			"id": "A0582",
+			"type": "A",
+			"explanation": "La expresión fija correcta es \"devoted to\" seguida de un gerundio; en esta estructura \"to\" es una preposición, no parte de un infinitivo.",
+			"category": "Prepositions",
+			"difficulty": "Hard",
+			"question": "Dr. Sylvia Earle has devoted her career to _____ the world's oceans and the life they support.",
+			"options": [
+				"protecting",
+				"protected",
+				"be protecting",
+				"protect"
+			],
+			"correctAnswerIndex": 0
 		}
   ]
 }
